@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Pages](README.md)
+* [JavaScript](javascript/README.md)
+  * [Variables](javascript/variables.md)
 
