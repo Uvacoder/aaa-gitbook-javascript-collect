@@ -2,6 +2,8 @@
 
 * [Pages](README.md)
 * [JavaScript](javascript/README.md)
+  * [Bundlers](javascript/bundlers/README.md)
+    * [Parcel](javascript/bundlers/parcel.md)
   * [Objects](javascript/objects/README.md)
     * [.filter\(\)](javascript/objects/.filter.md)
     * [Maps](javascript/objects/maps.md)
