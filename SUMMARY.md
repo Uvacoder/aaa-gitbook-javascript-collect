@@ -2,6 +2,7 @@
 
 * [Pages](README.md)
 * [JavaScript](javascript/README.md)
+  * [API](javascript/api.md)
   * [Bundlers](javascript/bundlers/README.md)
     * [Parcel](javascript/bundlers/parcel.md)
   * [Console](javascript/console.md)
