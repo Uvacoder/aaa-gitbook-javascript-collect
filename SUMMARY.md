@@ -2,6 +2,8 @@
 
 * [Pages](README.md)
 * [API](api.md)
+* [Array](array/README.md)
+  * [.indexOf\(\)](array/.indexof.md)
 * [Bookmarks](bookmarks.md)
 * [Bundlers](bundlers/README.md)
   * [Parcel](bundlers/parcel.md)
