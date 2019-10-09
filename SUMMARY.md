@@ -23,6 +23,7 @@
   * [Maps](objects/maps.md)
 * [Recursion](recursion.md)
 * [Regex](regex.md)
+* [this](this.md)
 * [Tutorials/tests](tutorials-tests/README.md)
   * [W3schools](tutorials-tests/w3schools.md)
 * [Variables](variables.md)
