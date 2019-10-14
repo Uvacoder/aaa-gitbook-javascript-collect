@@ -10,6 +10,8 @@
 * [Console](console.md)
 * [ES6](es6/README.md)
   * [Export default](es6/export-default.md)
+* [Functions](functions/README.md)
+  * [Arrow functions](functions/arrow-functions.md)
 * [Methods](methods/README.md)
   * [Math.random\(\)](methods/math.random.md)
 * [Objects](objects/README.md)
