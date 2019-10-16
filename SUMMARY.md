@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Pages](README.md)
+* [Animation](animation/README.md)
+  * [SVG](animation/svg/README.md)
+    * [Greensock](animation/svg/greensock.md)
 * [API](api.md)
 * [Array](array/README.md)
   * [.indexOf\(\)](array/.indexof.md)
