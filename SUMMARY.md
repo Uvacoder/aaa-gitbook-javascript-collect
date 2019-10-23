@@ -29,6 +29,7 @@
   * [Date](objects/date/README.md)
     * [.getMonth\(\)](objects/date/.getmonth.md)
   * [Maps](objects/maps.md)
+* [Promises](promises.md)
 * [Recursion](recursion.md)
 * [Regex](regex/README.md)
   * [Intro to Regex](regex/intro-to-regex.md)
