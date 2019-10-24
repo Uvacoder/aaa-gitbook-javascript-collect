@@ -16,6 +16,8 @@
   * [Export default](es6/export-default.md)
 * [Functions](functions/README.md)
   * [Arrow functions](functions/arrow-functions.md)
+* [JSON](json/README.md)
+  * [JSON.stringify\(\)](json/json.stringify.md)
 * [Methods](methods/README.md)
   * [Math.random\(\)](methods/math.random.md)
 * [Objects](objects/README.md)
