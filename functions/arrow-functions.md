@@ -30,7 +30,7 @@ Arrow functions have a single overarching structure, and then an number of ways 
 
 The core structure looks like this:
 
-```text
+```
 (argument1, argument2, ... argumentN) => {
    // function body 
 }
@@ -44,13 +44,13 @@ However, there are a number of ways to ‘sugar’ this up that make arrow funct
 
 First, if the function body is a single expression, you can leave off the brackets and put it inline. The results of the expression will be returned by the function. For example:
 
-```text
+```
 const add = (a, b) => a + b;
 ```
 
 Second, if there is only a single argument, you can even leave off the parenthesis around the argument. For example:
 
-```text
+```
 const getFirst = array => array[0];
 ```
 
@@ -62,7 +62,7 @@ There are a few pieces of advanced syntax that are useful to know.
 
 First, if you’re attempting to use the inline, single-expression syntax but the value you’re returning is an object literal. You might think this would look like:
 
-```text
+```
 (name, description) => {name: name, description: description};
 ```
 
@@ -70,7 +70,7 @@ The problem is that this syntax is ambiguous — it looks as though you’re try
 
 To indicate that instead you want a single expression that happens to be an object, you wrap the object with parentheses:
 
-```text
+```
 (name, description) => ({name: name, description: description});
 ```
 
@@ -82,7 +82,7 @@ Practically, this means that both `this` and `arguments` are _inherited_ from th
 
 For example, compare the following code with and without arrow functions:
 
-```text
+```
 const test = { 
   name: 'test object', 
   createAnonFunction: function() { 
@@ -106,7 +106,7 @@ The difference is in the first case it uses a traditional function expression, w
 
 If we run these in a console with the same arguments however, we get very different results.
 
-```text
+```
 > const anon = test.createAnonFunction('hello', 'world'); 
 > const arrow = test.createArrowFunction('hello', 'world'); 
 > anon(); 
@@ -127,20 +127,20 @@ One of the primary usecases for traditional lambda functions, and now for arrow 
 
 For example, if you have an array of values that you want to transform using a map, an arrow function is ideal:
 
-```text
+```
 const words = ['hello', 'WORLD', 'Whatever']; 
 const downcasedWords = words.map(word => word.toLowerCase());
 ```
 
 An extremely common example of this is to pull out a particular value of an object:
 
-```text
+```
 const names = objects.map(object => object.name);
 ```
 
 Similarly, when replacing old-style `for` loops with modern iterator-style loops using `forEach`, the fact that arrow functions keep `this` from the parent makes them extremely intuitive.
 
-```text
+```
 this.examples.forEach(example => { 
   this.runExample(example); 
 });
@@ -156,7 +156,7 @@ However, while using promises still requires defining functions that run after y
 
 This is an ideal location for an arrow function, especially if your resulting function is stateful, referencing something in your object. Example:
 
-```text
+```
 this.doSomethingAsync().then((result) => { 
   this.storeResult(result); 
 });
@@ -172,7 +172,7 @@ This involves defining a set of “mappers” that will transform from the origi
 
 These sorts of simple transformations are an ideal and beautiful place to utilize arrow functions. Example:
 
-```text
+```
 export default { 
   computed: { 
     ...mapState({ 
@@ -193,7 +193,7 @@ There was a trend for a little while to use a combination of the Class Propertie
 
 This looked something like:
 
-```text
+```
 class Counter { 
   counter = 0; 
   handleClick = () => { 
@@ -210,7 +210,7 @@ While using this approach does give you an ergonomic-looking shortcut to having 
 
 Instead, use a regular function and if necessary bind it the instance in the constructor:
 
-```text
+```
 class Counter { 
   counter = 0;  handleClick() { 
     this.counter++; 
@@ -228,7 +228,7 @@ The core reason is the same as with anonymous functions — they give [really ba
 
 This isn’t too bad if your function only goes one level down, say inside of an iterator, but if you’re defining all of your functions as arrow functions and calling back and forth between them, you’ll be pretty stuck when you hit a bug and just get error messages like:
 
-```text
+```
 {anonymous}() 
 {anonymous}() 
 {anonymous}() 

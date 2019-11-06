@@ -9,7 +9,7 @@
 Here's an object which uses this keyword  
 
 
-```javascript
+```
 const man = {
   name: "rick",
   adventure() {
@@ -27,7 +27,7 @@ Executing above you will see the man object on the console.
 But what if you do;  
 
 
-```javascript
+```
 const adventure_reference = man.adventure;
 
 adventure_reference();
