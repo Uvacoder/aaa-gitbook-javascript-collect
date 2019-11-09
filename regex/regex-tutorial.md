@@ -16,81 +16,81 @@ Let’s start by looking at some examples and explanations.
 
 **Anchors — ^ and $**
 
-```
+```text
 ^The matches any string that starts with The -> Try it!
 ```
 
-```
+```text
 end$ matches a string that ends with end
 ```
 
-```
+```text
 ^The end$ exact string match (starts and ends with The end)
 ```
 
-```
+```text
 roar matches any string that has the text roar in it
 ```
 
 **Quantifiers — \* + ? and {}**
 
-```
+```text
 abc* matches a string that has ab followed by zero or more c -> Try it!
 ```
 
-```
+```text
 abc+ matches a string that has ab followed by one or more c
 ```
 
-```
+```text
 abc? matches a string that has ab followed by zero or one c
 ```
 
-```
+```text
 abc{2} matches a string that has ab followed by 2 c
 ```
 
-```
+```text
 abc{2,} matches a string that has ab followed by 2 or more c
 ```
 
-```
+```text
 abc{2,5} matches a string that has ab followed by 2 up to 5 c
 ```
 
-```
+```text
 a(bc)* matches a string that has a followed by zero or more copies of the sequence bc
 ```
 
-```
+```text
 a(bc){2,5} matches a string that has a followed by 2 up to 5 copies of the sequence bc
 ```
 
 **OR operator — \| or \[\]**
 
-```
+```text
 a(b|c) matches a string that has a followed by b or c -> Try it!
 ```
 
-```
+```text
 a[bc] same as previous
 ```
 
 **Character classes — \d \w \s and .**
 
-```
+```text
 \d matches a single character that is a digit -> Try it!
 ```
 
-```
+```text
 \w matches a word character (alphanumeric character plus underscore) -> Try it!
 ```
 
-```
+```text
 \s matches a whitespace character (includes tabs and line breaks)
 ```
 
-```
+```text
 . matches any character -> Try it!
 ```
 
@@ -100,13 +100,13 @@ Use the `.` operator carefully since often class or negated character class \(wh
 
 For example, `\D` will perform the inverse match with respect to that obtained with `\d`.
 
-```
+```text
 \D matches a single non-digit character -> Try it!
 ```
 
 In order to be taken literally, you must escape the characters `^.[$()|*+?{\`with a backslash `\` as they have special meaning.
 
-```
+```text
 \$\d matches a string that has a $ before one digit -> Try it!
 ```
 
@@ -126,15 +126,15 @@ A regex usually comes within this form **`/`**`abc`**`/`**, where the search pat
 
 **Grouping and capturing — \(\)**
 
-```
+```text
 a(bc) parentheses create a capturing group with value bc -> Try it!
 ```
 
-```
+```text
 a(?:bc)* using ?: we disable the capturing group -> Try it!
 ```
 
-```
+```text
 a(?<foo>bc) using ?<foo> we put a name to the group -> Try it!
 ```
 
@@ -144,23 +144,23 @@ If we choose to put a name to the groups \(using `(`**`?<foo>`**`...)`\) we will
 
 **Bracket expressions — \[\]**
 
-```
+```text
 [abc] matches a string that has either an a or a b or a c -> is the same as a|b|c -> Try it!
 ```
 
-```
+```text
 [a-c] same as previous
 ```
 
-```
+```text
 [a-fA-F0-9] a string that represents a single hexadecimal digit, case insensitively -> Try it!
 ```
 
-```
+```text
 [0-9]% a string that has a character from 0 to 9 before a % sign
 ```
 
-```
+```text
 [^a-zA-Z] a string that has not a letter from a to z or from A to Z. In this case the ^ is used as negation of the expression -> Try it!
 ```
 
@@ -172,13 +172,13 @@ The quantifiers \( `* + {}`\) are greedy operators, so they expand the match as 
 
 For example, `<.+>` matches `<div>simple div</div>` in `This is a` **`<div> simple div</div>`** `test`. In order to catch only the `div` tag we can use a `?` to make it lazy:
 
-```
+```text
 <.+?> matches any character one or more times included inside < and >, expanding as needed -> Try it!
 ```
 
 Notice that a better solution should avoid the usage of `.` in favor of a more strict regex:
 
-```
+```text
 <[^<>]+> matches any character except < or > one or more times included inside < and > -> Try it!
 ```
 
@@ -186,7 +186,7 @@ Notice that a better solution should avoid the usage of `.` in favor of a more s
 
 **Boundaries — \b and \B**
 
-```
+```text
 \babc\b performs a "whole words only" search -> Try it!
 ```
 
@@ -194,41 +194,41 @@ Notice that a better solution should avoid the usage of `.` in favor of a more s
 
 It comes with its **negation**, `\B`. This matches all positions where `\b` doesn’t match and could be if we want to find a search pattern fully surrounded by word characters.
 
-```
+```text
 \Babc\B matches only if the pattern is fully surrounded by word characters -> Try it!
 ```
 
 **Back-references — \1**
 
-```
+```text
 ([abc])\1 using \1 it matches the same text that was matched by the first capturing group -> Try it!
 ```
 
-```
+```text
 ([abc])([de])\2\1 we can use \2 (\3, \4, etc.) to identify the same text that was matched by the second (third, fourth, etc.) capturing group -> Try it!
 ```
 
-```
+```text
 (?<foo>[abc])\k<foo> we put the name foo to the group and we reference it later (\k<foo>). The result is the same of the first regex -> Try it!
 ```
 
 **Look-ahead and Look-behind — \(?=\) and \(?&lt;=\)**
 
-```
+```text
 d(?=r) matches a d only if is followed by r, but r will not be part of the overall regex match -> Try it!
 ```
 
-```
+```text
 (?<=r)d matches a d only if is preceded by an r, but r will not be part of the overall regex match -> Try it!
 ```
 
 You can use also the negation operator!
 
-```
+```text
 d(?!r) matches a d only if is not followed by r, but r will not be part of the overall regex match -> Try it!
 ```
 
-```
+```text
 (?<!r)d matches a d only if is not preceded by an r, but r will not be part of the overall regex match -> Try it!
 ```
 

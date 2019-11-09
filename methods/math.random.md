@@ -10,7 +10,7 @@ Today, we’re going to look at how to create random numbers with vanilla JavaSc
 
 The `Math.random()` method generates a random float \(a number with decimals\) between `0` and `1`.
 
-```
+```text
 // Logs something like this: 0.37111265461165543
 // It will be different every time
 var rand = Math.random();
@@ -27,7 +27,7 @@ What if you wanted to get integers, or whole numbers, instead of floats?
 
 To do that, we can multiply whatever `Math.random()` returns by a number that’s a power of ten. The bigger the number you multiple by, the more digits in the number.
 
-```
+```text
 var randomOverZero = function (pow) {
 	return Math.random() * pow;
 };
@@ -49,7 +49,7 @@ What if you wanted a random integer, or whole number, instead of a float?
 
 For that, we can use the `Math.floor()` method after multiplying the returned value of `Math.random()` by our power of ten.
 
-```
+```text
 var randomInteger = function (pow) {
 	return Math.floor(Math.random() * pow);
 };
@@ -75,7 +75,7 @@ Then, we’ll subtract the `min` from the `max`, and add `1` to it \(otherwise t
 
 Finally, we’ll use `Math.floor()` to turn it into an integer, and return the result.
 
-```
+```text
 var randomNumber = function (min, max) {
 	return Math.floor(Math.random() * (max - min + 1) + min);
 };
