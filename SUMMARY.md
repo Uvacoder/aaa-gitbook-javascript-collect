@@ -38,6 +38,7 @@
 * [Regex](regex/README.md)
   * [Intro to Regex](regex/intro-to-regex.md)
   * [Regex tutorial](regex/regex-tutorial.md)
+* [Sandboxes](sandboxes.md)
 * [Scope](scope/README.md)
   * [Variable definition & scope](scope/variable-definition-and-scope.md)
 * [this](this.md)
