@@ -14,9 +14,11 @@
 | scrollMe | http://scrollme.nckprsn.com/ | scroll |
 | ScrollReveal | https://scrollrevealjs.org/ | scroll |
 | skrollr | http://prinzhorn.github.io/skrollr/ | parallax scrolling |
+| Stacky | https://github.com/jachinte/jquery.stacky | panels |
 | Tilt.js | http://gijsroge.github.io/tilt.js/ | hover tilt effects |
 | Turntable.js | http://polarnotion.github.io/turntable/ | slider |
 | VIDE | http://vodkabears.github.io/vide/ | video backgrounds |
+|  |  |  |
 
 ### Plugins
 
