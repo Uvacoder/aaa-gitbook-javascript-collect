@@ -9,6 +9,6 @@
 | [127 Helpful JavaScript Snippets You Can Learn in 30 Seconds or Less — Part 1 of 6](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5) | 11/6/2019 |  |
 | [JavaScript Fundamentals: An Introduction to REST APIs](https://itnext.io/javascript-fundamentals-an-introduction-to-rest-apis-7cbe8a809d3b) | 11/9/2019 |  |
 | [How I structure my vanilla JS projects](https://gomakethings.com/how-i-structure-my-vanilla-js-projects/) | 11/10/2019 | 11/10/2019 |
-|  |  |  |
+| [How to Get Past JavaScript Tutorials: Copy & Paste](https://carlanderson.xyz/copy-and-paste-past-javascript-tutorials/) | 11/12/2019 | 11/12/2019 |
 |  |  |  |
 
