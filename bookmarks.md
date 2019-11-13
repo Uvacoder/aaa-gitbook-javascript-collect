@@ -1,4 +1,4 @@
-# Todo
+# Education
 
 ### Complete Javascript
 
