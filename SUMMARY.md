@@ -12,6 +12,7 @@
   * [Parcel](bundlers/parcel.md)
 * [Console](console.md)
 * [Education](bookmarks.md)
+* [Abbreviation/Terms](abbreviation-terms.md)
 * [ES6](es6/README.md)
   * [Export default](es6/export-default.md)
 * [Functions](functions/README.md)

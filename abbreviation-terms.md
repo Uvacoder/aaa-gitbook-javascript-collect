@@ -1,0 +1,14 @@
+# Abbreviation/Terms
+
+Abbreviations
+
+|  |  |
+| :--- | :--- |
+|  |  |
+
+Terms
+
+|  |  |
+| :--- | :--- |
+|  |  |
+
