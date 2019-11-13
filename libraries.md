@@ -3,12 +3,14 @@
 |  |  |  |
 | :--- | :--- | :--- |
 | AnimatedModal.js | https://github.com/joaopereirawd/animatedModal.js | modal animation |
+| anime.js | [https://animejs.com/](https://animejs.com/) | animation |
 | animsition | http://git.blivesta.com/animsition/ | animated page transitions |
 | gridScrolling.js | http://mknecht.github.io/gridscrolling.js/ | grid scroll |
 | GSAP | https://greensock.com/gsap/ | animation |
 | invertScroll | https://www.pixxelfactory.net/jInvertScroll/ | invert scroll |
 | Locomotive Scroll | https://locomotivemtl.github.io/locomotive-scroll/ | scroll |
 | Lottie | https://airbnb.io/lottie/\#/ | animation |
+| Mo.js | https://github.com/mojs/mojs | motion graphics |
 | popmotion pure | https://popmotion.io/pure/ | animation |
 | scrollMagic | http://scrollmagic.io/ | scroll |
 | scrollMe | http://scrollme.nckprsn.com/ | scroll |
@@ -16,9 +18,10 @@
 | skrollr | http://prinzhorn.github.io/skrollr/ | parallax scrolling |
 | Stacky | https://github.com/jachinte/jquery.stacky | panels |
 | Tilt.js | http://gijsroge.github.io/tilt.js/ | hover tilt effects |
+| three.js | https://threejs.org/ | 3d animation |
 | Turntable.js | http://polarnotion.github.io/turntable/ | slider |
 | VIDE | http://vodkabears.github.io/vide/ | video backgrounds |
-|  |  |  |
+| Vivus | [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/) | svg animations |
 
 ### Plugins
 
