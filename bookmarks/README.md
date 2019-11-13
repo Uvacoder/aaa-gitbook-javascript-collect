@@ -18,4 +18,6 @@
 | [How to Get Past JavaScript Tutorials: Copy & Paste](https://carlanderson.xyz/copy-and-paste-past-javascript-tutorials/) | 11/12/2019 | 11/12/2019 |
 | [The future of Javascript - features to keep an eye on](https://dev.to/christopherkade/the-future-of-javascript-features-to-keep-an-eye-on-3d0h) |  | 11/13/2019 |
 | [A Simple Introduction to the History API in JavaScript](https://medium.com/young-coder/a-simple-introduction-to-the-history-api-in-javascript-85b879d3d87e) |  |  |
+| [The Single Most Important Feature of JavaScript](https://medium.com/better-programming/the-single-most-important-feature-of-javascript-d65ae448eb19) | 11/13/2019 | 11/13/2019 |
+|  |  |  |
 
