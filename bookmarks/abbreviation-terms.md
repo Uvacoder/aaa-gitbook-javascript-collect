@@ -34,5 +34,15 @@
         <p>&quot;123&quot;</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/Method">Method</a>
+      </td>
+      <td style="text-align:left">A method is a function which is a property of an object. There are two
+        kind of methods: Instance Methods which are built-in tasks performed by
+        an object instance, or Static Methods which are tasks that are called directly
+        on an object constructor.</td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index">index</a>
+      </td>
+    </tr>
   </tbody>
 </table>
