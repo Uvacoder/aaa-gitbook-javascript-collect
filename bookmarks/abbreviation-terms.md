@@ -18,6 +18,13 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/Argument">Argument</a>
+      </td>
+      <td style="text-align:left">An argument is a value (primitive or object) passed as input to a function.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Export</td>
       <td style="text-align:left">The export statement is used when creating JavaScript modules to export
         functions, objects, or primitive values from the module so they can be
