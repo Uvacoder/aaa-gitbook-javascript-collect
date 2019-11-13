@@ -5,6 +5,7 @@
 | AnimatedModal.js | https://github.com/joaopereirawd/animatedModal.js | modal animation |
 | anime.js | [https://animejs.com/](https://animejs.com/) | animation |
 | animsition | http://git.blivesta.com/animsition/ | animated page transitions |
+| cta.js | https://kushagra.dev/lab/ctajs | call to action animation |
 | gridScrolling.js | http://mknecht.github.io/gridscrolling.js/ | grid scroll |
 | GSAP | https://greensock.com/gsap/ | animation |
 | invertScroll | https://www.pixxelfactory.net/jInvertScroll/ | invert scroll |
