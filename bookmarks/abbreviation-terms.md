@@ -18,6 +18,13 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">Export</td>
+      <td style="text-align:left">The export statement is used when creating JavaScript modules to export
+        functions, objects, or primitive values from the module so they can be
+        used by other programs with the import statement.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Expression</td>
       <td style="text-align:left">An <b>expression</b> is any valid set of literals, variables, operators,
         and expressions that evaluates to a single value. The value may be a number,
