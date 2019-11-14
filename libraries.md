@@ -19,6 +19,7 @@
 | ScrollReveal | https://scrollrevealjs.org/ | scroll |
 | skrollr | http://prinzhorn.github.io/skrollr/ | parallax scrolling |
 | Stacky | https://github.com/jachinte/jquery.stacky | panels |
+| Sweet alert2 | [https://sweetalert2.github.io/](https://sweetalert2.github.io/) | alert modals |
 | Tilt.js | http://gijsroge.github.io/tilt.js/ | hover tilt effects |
 | three.js | https://threejs.org/ | 3d animation |
 | Turntable.js | http://polarnotion.github.io/turntable/ | slider |
