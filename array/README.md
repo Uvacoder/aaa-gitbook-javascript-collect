@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Array.from\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) |  |
 | .indexOf\(\) |  |
 | [.map\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) |  |
 | [.reduce\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) |  |
