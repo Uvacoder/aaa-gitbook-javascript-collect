@@ -10,6 +10,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) |  |  |
 | [How to manipulate the DOM in Vanilla JavaScript](https://medium.com/free-code-camp/dom-manipulation-in-vanilla-js-2036a568dcd9) | 11/17/2019 |  |
 | [The Single Most Important Feature of JavaScript](https://medium.com/better-programming/the-single-most-important-feature-of-javascript-d65ae448eb19) | 11/13/2019 | 11/13/2019 |
 | [The future of Javascript - features to keep an eye on](https://dev.to/christopherkade/the-future-of-javascript-features-to-keep-an-eye-on-3d0h) |  | 11/13/2019 |
