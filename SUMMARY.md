@@ -11,6 +11,7 @@
   * [.reduce\(\)](array/.reduce.md)
 * [Bundlers](bundlers/README.md)
   * [Parcel](bundlers/parcel.md)
+* [Cheatsheets](cheatsheets.md)
 * [Console](console.md)
 * [Education](bookmarks/README.md)
   * [Abbreviation/Terms](bookmarks/abbreviation-terms.md)
