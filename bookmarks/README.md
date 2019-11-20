@@ -2,9 +2,10 @@
 
 ### Complete Javascript
 
-|  |  |
-| :--- | :--- |
-| [https://www.theavocoder.com/complete-javascript/](https://www.theavocoder.com/complete-javascript/) |  |
+|  | start | end |
+| :--- | :--- | :--- |
+| [https://www.theavocoder.com/complete-javascript/](https://www.theavocoder.com/complete-javascript/) | 11/1/2019 |  |
+| [https://medium.com/@timothyrobards](https://medium.com/@timothyrobards) | 11/19/2019 |  |
 
 ### Medium articles
 
