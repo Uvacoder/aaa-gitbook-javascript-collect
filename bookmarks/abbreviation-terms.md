@@ -25,6 +25,13 @@
       style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Callback function</td>
+      <td style="text-align:left">A callback function is a function passed into another function as an argument,
+        which is then invoked inside the outer function to complete some kind of
+        routine or action.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Export</td>
       <td style="text-align:left">The export statement is used when creating JavaScript modules to export
         functions, objects, or primitive values from the module so they can be
