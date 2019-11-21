@@ -6,6 +6,7 @@
     * [Greensock](animation/svg/greensock.md)
 * [Array](array/README.md)
   * [Array.from\(\)](array/array.from.md)
+  * [.forEach\(\)](array/.foreach.md)
   * [.indexOf\(\)](array/.indexof.md)
   * [.map\(\)](array/.map.md)
   * [.reduce\(\)](array/.reduce.md)
