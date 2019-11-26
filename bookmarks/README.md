@@ -11,7 +11,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
-| [Why event delegation is a better way to listen for events in vanilla JS](https://gomakethings.com/why-event-delegation-is-a-better-way-to-listen-for-events-in-vanilla-js/) | 11/26/2019 |  |
+| [Why event delegation is a better way to listen for events in vanilla JS](https://gomakethings.com/why-event-delegation-is-a-better-way-to-listen-for-events-in-vanilla-js/) | 11/26/2019 | 11/26/2019 |
 | [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) |  | \#74ad |
 | [How to manipulate the DOM in Vanilla JavaScript](https://medium.com/free-code-camp/dom-manipulation-in-vanilla-js-2036a568dcd9) | 11/17/2019 |  |
 | [The Single Most Important Feature of JavaScript](https://medium.com/better-programming/the-single-most-important-feature-of-javascript-d65ae448eb19) | 11/13/2019 | 11/13/2019 |
