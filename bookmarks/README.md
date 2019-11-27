@@ -11,6 +11,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [JavaScript Tips \#1: The Filter Method for Object Properties](http://pop.frontendweekly.co/Fj2Hg5) | 11/27/2019 | 11/27/2019 |
 | [Why event delegation is a better way to listen for events in vanilla JS](https://gomakethings.com/why-event-delegation-is-a-better-way-to-listen-for-events-in-vanilla-js/) | 11/26/2019 | 11/26/2019 |
 | [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) |  | \#74ad |
 | [How to manipulate the DOM in Vanilla JavaScript](https://medium.com/free-code-camp/dom-manipulation-in-vanilla-js-2036a568dcd9) | 11/17/2019 |  |
