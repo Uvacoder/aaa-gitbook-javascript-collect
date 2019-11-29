@@ -1,11 +1,12 @@
 # Education
 
-### Complete Javascript
+### Javascript courses
 
-|  | start | end |
-| :--- | :--- | :--- |
-| [https://www.theavocoder.com/complete-javascript/](https://www.theavocoder.com/complete-javascript/) | 11/1/2019 |  |
-| [https://medium.com/@timothyrobards](https://medium.com/@timothyrobards) | 11/19/2019 |  |
+|  |  |  | start | end |
+| :--- | :--- | :--- | :--- | :--- |
+| Avocoder |  | [https://bit.ly/2OvxFSP](https://bit.ly/2OvxFSP) | 11/1/2019 |  |
+|  |  | [https://medium.com/@timothyrobards](https://medium.com/@timothyrobards) | 11/19/2019 |  |
+| Beginner Javascript | Wes Bos | [https://courses.wesbos.com/account](https://courses.wesbos.com/account) | 11/28/2019 | 2/85 |
 
 ### Medium articles
 
@@ -25,10 +26,4 @@
 | [Overriding “toString\(\)” function of JavaScript Objects](https://medium.com/javascript-in-plain-english/overriding-tostring-function-of-javascript-objects-dd3545ba6254) |  | 11/1/2019 |
 | [Learn these JavaScript fundamentals and become a better developer](https://medium.com/@cristiansalcescu/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf) |  |  |
 | [A Simple Introduction to the History API in JavaScript](https://medium.com/young-coder/a-simple-introduction-to-the-history-api-in-javascript-85b879d3d87e) |  |  |
-
-### Courses
-
-|  |  |  | start | end |
-| :--- | :--- | :--- | :--- | :--- |
-| Beginner Javascript | Wes Bos | [https://courses.wesbos.com/account](https://courses.wesbos.com/account) | 11/28/2019 | 2/85 |
 
