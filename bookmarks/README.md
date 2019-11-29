@@ -30,5 +30,5 @@
 
 |  |  |  | start | end |
 | :--- | :--- | :--- | :--- | :--- |
-| Beginner Javascript | Wes Bos | [https://courses.wesbos.com/account](https://courses.wesbos.com/account) | 11/28/2019 |  |
+| Beginner Javascript | Wes Bos | [https://courses.wesbos.com/account](https://courses.wesbos.com/account) | 11/28/2019 | 2/85 |
 
