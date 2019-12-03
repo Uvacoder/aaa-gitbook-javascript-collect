@@ -12,6 +12,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [The many ways to write an Immediately Invoked Function Expression \(IIFE\) in JavaScript](https://gomakethings.com/the-many-ways-to-write-an-immediately-invoked-function-expression-iife-in-javascript) | 12/3/2019 | 12/3/2019 |
 | [JavaScript Tips \#1: The Filter Method for Object Properties](http://pop.frontendweekly.co/Fj2Hg5) | 11/27/2019 | 11/27/2019 |
 | [Why event delegation is a better way to listen for events in vanilla JS](https://gomakethings.com/why-event-delegation-is-a-better-way-to-listen-for-events-in-vanilla-js/) | 11/26/2019 | 11/26/2019 |
 | [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) |  | \#74ad |
