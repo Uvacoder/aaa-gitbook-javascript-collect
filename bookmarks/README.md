@@ -2,11 +2,12 @@
 
 ### Javascript courses
 
-|  |  |  | start | end |
-| :--- | :--- | :--- | :--- | :--- |
-| Avocoder |  | [https://bit.ly/2OvxFSP](https://bit.ly/2OvxFSP) | 11/1/2019 |  |
-|  |  | [https://medium.com/@timothyrobards](https://medium.com/@timothyrobards) | 11/19/2019 |  |
-| Beginner Javascript | Wes Bos | [https://courses.wesbos.com/account](https://courses.wesbos.com/account) | 11/28/2019 | 2/85 |
+|  |  | start | end |
+| :--- | :--- | :--- | :--- |
+| [Avocoder](https://bit.ly/2OvxFSP) |  | 11/1/2019 |  |
+| [medium](https://medium.com/@timothyrobards) | Timothy robards | 11/19/2019 |  |
+| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 2/85 |
+| [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
 
 ### Medium articles
 
