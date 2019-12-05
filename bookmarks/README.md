@@ -9,10 +9,11 @@
 | [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 2/85 |
 | [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
 
-### Medium articles
+### Articles
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [You probably don't need a DOMContentLoaded event in your JavaScript](https://gomakethings.com/you-probably-dont-need-a-domcontentloaded-event-in-your-javascript) | 12/5/2019 | 12/5/2019 |
 | [Learn modern javascript in 10 simple ways](https://blog.usejournal.com/10-fun-things-to-do-in-javascript-6fea173d2199) | 12/4/2019 | 12/4/2019 |
 | [The many ways to write an Immediately Invoked Function Expression \(IIFE\) in JavaScript](https://gomakethings.com/the-many-ways-to-write-an-immediately-invoked-function-expression-iife-in-javascript) | 12/3/2019 | 12/3/2019 |
 | [JavaScript Tips \#1: The Filter Method for Object Properties](http://pop.frontendweekly.co/Fj2Hg5) | 11/27/2019 | 11/27/2019 |
