@@ -13,6 +13,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [Defining unneeded variables in JavaScript](https://gomakethings.com/defining-unneeded-variables-in-javascript) | 12/6/2019 | 12/6/2019 |
 | [You probably don't need a DOMContentLoaded event in your JavaScript](https://gomakethings.com/you-probably-dont-need-a-domcontentloaded-event-in-your-javascript) | 12/5/2019 | 12/5/2019 |
 | [Learn modern javascript in 10 simple ways](https://blog.usejournal.com/10-fun-things-to-do-in-javascript-6fea173d2199) | 12/4/2019 | 12/4/2019 |
 | [The many ways to write an Immediately Invoked Function Expression \(IIFE\) in JavaScript](https://gomakethings.com/the-many-ways-to-write-an-immediately-invoked-function-expression-iife-in-javascript) | 12/3/2019 | 12/3/2019 |
