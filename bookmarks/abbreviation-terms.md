@@ -49,6 +49,13 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">interpolation</td>
+      <td style="text-align:left">programming language feature that allows you to inject variables directly
+        into a string. Until the release of ES6, string <b>interpolation</b> was
+        not available in <b>JavaScript</b>.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/Method">Method</a>
       </td>
       <td style="text-align:left">A method is a function which is a property of an object. There are two
