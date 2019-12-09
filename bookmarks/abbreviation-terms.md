@@ -18,6 +18,12 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://flaviocopes.com/javascript-glossary">The JavaScript Glossary</a>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/Argument">Argument</a>
       </td>
       <td style="text-align:left">An argument is a value (primitive or object) passed as input to a function.</td>
