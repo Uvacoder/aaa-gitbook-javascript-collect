@@ -41,6 +41,7 @@
   * [Date](objects/date/README.md)
     * [.getMonth\(\)](objects/date/.getmonth.md)
   * [Maps](objects/maps.md)
+* [Polyfill](polyfill.md)
 * [Primitive types](primitive-types.md)
 * [Promises](promises.md)
 * [Recursion](recursion.md)
