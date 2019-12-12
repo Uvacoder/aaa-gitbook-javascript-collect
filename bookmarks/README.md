@@ -13,6 +13,8 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+|  |  |  |
+| [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) | 11/20/2019 | 12/12/2019 |
 | [How to use the fetch\(\) method to make multiple API calls with vanilla JavaScript](https://gomakethings.com/how-to-use-the-fetch-method-to-make-multiple-api-calls-with-vanilla-javascript) | 12/12/2019 | 12/12/2019 |
 | [Building an accessible show/hide disclosure component with vanilla JS](https://gomakethings.com/building-an-accessible-show/hide-disclosure-component-with-vanilla-js/) | 12/10/2019 | 12/10/2019 |
 | [Defining unneeded variables in JavaScript](https://gomakethings.com/defining-unneeded-variables-in-javascript) | 12/6/2019 | 12/6/2019 |
@@ -21,7 +23,6 @@
 | [The many ways to write an Immediately Invoked Function Expression \(IIFE\) in JavaScript](https://gomakethings.com/the-many-ways-to-write-an-immediately-invoked-function-expression-iife-in-javascript) | 12/3/2019 | 12/3/2019 |
 | [JavaScript Tips \#1: The Filter Method for Object Properties](http://pop.frontendweekly.co/Fj2Hg5) | 11/27/2019 | 11/27/2019 |
 | [Why event delegation is a better way to listen for events in vanilla JS](https://gomakethings.com/why-event-delegation-is-a-better-way-to-listen-for-events-in-vanilla-js/) | 11/26/2019 | 11/26/2019 |
-| [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) |  | \#74ad |
 | [How to manipulate the DOM in Vanilla JavaScript](https://medium.com/free-code-camp/dom-manipulation-in-vanilla-js-2036a568dcd9) | 11/17/2019 |  |
 | [The Single Most Important Feature of JavaScript](https://medium.com/better-programming/the-single-most-important-feature-of-javascript-d65ae448eb19) | 11/13/2019 | 11/13/2019 |
 | [The future of Javascript - features to keep an eye on](https://dev.to/christopherkade/the-future-of-javascript-features-to-keep-an-eye-on-3d0h) |  | 11/13/2019 |
