@@ -13,7 +13,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
-|  |  |  |
+| [How to use the fetch\(\) method to make multiple API calls with vanilla JavaScript](https://gomakethings.com/how-to-use-the-fetch-method-to-make-multiple-api-calls-with-vanilla-javascript) | 12/12/2019 | 12/12/2019 |
 | [Building an accessible show/hide disclosure component with vanilla JS](https://gomakethings.com/building-an-accessible-show/hide-disclosure-component-with-vanilla-js/) | 12/10/2019 | 12/10/2019 |
 | [Defining unneeded variables in JavaScript](https://gomakethings.com/defining-unneeded-variables-in-javascript) | 12/6/2019 | 12/6/2019 |
 | [You probably don't need a DOMContentLoaded event in your JavaScript](https://gomakethings.com/you-probably-dont-need-a-domcontentloaded-event-in-your-javascript) | 12/5/2019 | 12/5/2019 |
