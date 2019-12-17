@@ -63,6 +63,13 @@ const inchesToCM = inches => inches *2.54;
 // const cm = inches * 2.54;
 // return cm;
 //}
+
+//IIFE
+//immediately invoked function expression
+(function() {
+console.log('Running the Anon function');
+return;
+})();
 ```
 {% endcode %}
 
