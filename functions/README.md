@@ -41,33 +41,43 @@ const capturedVal = functionName(0, arguments);
 
 {% code title="Function types" %}
 ```javascript
-//Regular function declaration
+/* ==============================
+Regular function declaration
+============================== */
 function doctorize(firstName) {
   return `Dr. ${firstName}`;
 }
 
-//Anon function
+/* ==============================
+Anon function
+============================== */
 function (firstName) {
   return `Dr. ${firstName}`;
 }
 
-//Function expression
+/* ==============================
+Function expression
+============================== */
 const doctorize = function (firstName) {
   return `Dr. ${firstName}`;
 }
 
-//Arrow function
+/* ==============================
+Arrow function
+============================== */
 const inchesToCM = inches => inches *2.54;
-}
+
 //function inchToCM() {
 // const cm = inches * 2.54;
 // return cm;
 //}
 
-//IIFE
-//immediately invoked function expression
+/* ==============================
+IIFE
+immediately invoked function expression
+============================== */
 (function() {
-console.log('Running the Anon function');
+  console.log('Running the Anon function');
 return;
 })();
 ```
