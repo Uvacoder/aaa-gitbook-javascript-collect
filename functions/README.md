@@ -28,3 +28,23 @@
 
 ![](../.gitbook/assets/screen-shot-2019-12-16-at-11.20.52-am.png)
 
+```javascript
+//normal function
+function doctorize(firstName) {
+  return `Dr. ${firstName}`;
+}
+
+//anon function
+function (firstName) {
+  return `Dr. ${firstName}`;
+}
+
+//function expression
+const doctorize = function (firstName) {
+  return `Dr. ${firstName}`;
+}
+
+```
+
+> >
+
