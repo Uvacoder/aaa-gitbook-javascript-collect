@@ -29,7 +29,7 @@
 ![](../.gitbook/assets/screen-shot-2019-12-16-at-11.20.52-am.png)
 
 ```javascript
-//normal function
+//regular function declaration
 function doctorize(firstName) {
   return `Dr. ${firstName}`;
 }
