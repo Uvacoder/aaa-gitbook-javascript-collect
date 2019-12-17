@@ -45,6 +45,12 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Explicit</td>
+      <td style="text-align:left">stated clearly and in detail, leaving no room for confusion or doubt.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Expression</td>
       <td style="text-align:left">An <b>expression</b> is any valid set of literals, variables, operators,
         and expressions that evaluates to a single value. The value may be a number,
@@ -53,6 +59,11 @@
         <p>x = 7</p>
         <p>&quot;123&quot;</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Implicit</td>
+      <td style="text-align:left">implied though not plainly expressed.</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">interpolation</td>
