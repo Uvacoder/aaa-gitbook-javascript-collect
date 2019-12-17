@@ -41,22 +41,22 @@ const capturedVal = functionName(0, arguments);
 
 {% code title="Function types" %}
 ```javascript
-//regular function declaration
+//Regular function declaration
 function doctorize(firstName) {
   return `Dr. ${firstName}`;
 }
 
-//anon function
+//Anon function
 function (firstName) {
   return `Dr. ${firstName}`;
 }
 
-//function expression
+//Function expression
 const doctorize = function (firstName) {
   return `Dr. ${firstName}`;
 }
 
-//arrow function
+//Arrow function
 const inchesToCM = inches => inches *2.54;
 }
 //function inchToCM() {
