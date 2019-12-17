@@ -86,9 +86,18 @@ Methods!!!
 ============================== */
 const wes = {
   name: 'Wes Bos',
+  //Method!
   sayHi: function() {
     console.log('Hey Wes');
     return 'Hey Wes';
+  }
+  //Shorthand method
+  yellHi() {
+    console.log('HEY WESSSSS');
+  }
+  //arrow function
+  whisperHi: () => {
+    console.log('heeyyy wess');
   }
 }
 ```
