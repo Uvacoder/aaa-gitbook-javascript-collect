@@ -6,13 +6,14 @@
 | :--- | :--- | :--- | :--- |
 | [Avocoder](https://bit.ly/2OvxFSP) |  | 11/1/2019 |  |
 | [medium](https://medium.com/@timothyrobards) | Timothy robards | 11/19/2019 |  |
-| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 7/85 |
+| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 14/85 |
 | [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
 
 ### Articles
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [How To Check Data Types in JavaScript using typeof](https://medium.com/better-programming/how-to-check-data-types-in-javascript-using-typeof-424d0520a329) | 12/17/2019 | 12/17/2019 |
 | [Vanilla JS Web Components](https://gomakethings.com/vanilla-js-web-components/) | 12/17/2019 | 12/17/2019 |
 | [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) | 11/20/2019 | 12/12/2019 |
 | [How to use the fetch\(\) method to make multiple API calls with vanilla JavaScript](https://gomakethings.com/how-to-use-the-fetch-method-to-make-multiple-api-calls-with-vanilla-javascript) | 12/12/2019 | 12/12/2019 |
