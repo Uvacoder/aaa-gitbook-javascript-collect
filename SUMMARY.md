@@ -15,7 +15,6 @@
   * [Export default](es6/export-default.md)
 * [Functions](functions/README.md)
   * [Arrow functions](functions/arrow-functions.md)
-  * [Math.floor\(\)](functions/math.floor.md)
   * [Snippets](functions/snippets.md)
 * [JSON](json/README.md)
   * [JSON.stringify\(\)](json/json.stringify.md)

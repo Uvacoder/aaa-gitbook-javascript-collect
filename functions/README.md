@@ -56,12 +56,10 @@ const doctorize = function (firstName) {
   return `Dr. ${firstName}`;
 }
 
-```
-{% endcode %}
-
-{% code title="Arrow function" %}
-```javascript
-
+//arrow function
+function inchToCM() {
+ const cm = inches * 2.54;
+}
 ```
 {% endcode %}
 
