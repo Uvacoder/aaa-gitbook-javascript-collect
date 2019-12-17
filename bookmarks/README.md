@@ -13,7 +13,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
-|  |  |  |
+| [Vanilla JS Web Components](https://gomakethings.com/vanilla-js-web-components/) | 12/17/2019 | 12/17/2019 |
 | [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) | 11/20/2019 | 12/12/2019 |
 | [How to use the fetch\(\) method to make multiple API calls with vanilla JavaScript](https://gomakethings.com/how-to-use-the-fetch-method-to-make-multiple-api-calls-with-vanilla-javascript) | 12/12/2019 | 12/12/2019 |
 | [Building an accessible show/hide disclosure component with vanilla JS](https://gomakethings.com/building-an-accessible-show/hide-disclosure-component-with-vanilla-js/) | 12/10/2019 | 12/10/2019 |
