@@ -80,6 +80,17 @@ immediately invoked function expression
   console.log('Running the Anon function');
 return;
 })();
+
+/* ==============================
+Methods!!!
+============================== */
+const wes = {
+  name: 'Wes Bos',
+  sayHi: function() {
+    console.log('Hey Wes');
+    return 'Hey Wes';
+  }
+}
 ```
 {% endcode %}
 
