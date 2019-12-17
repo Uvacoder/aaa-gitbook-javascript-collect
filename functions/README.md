@@ -28,6 +28,18 @@
 
 ![](../.gitbook/assets/screen-shot-2019-12-16-at-11.20.52-am.png)
 
+{% code title="Function definition" %}
+```javascript
+function functionName(parameter = 'default value') { //scope start
+  const functionBody = 'do something';
+  return functionBody; //return statement
+} //end scope
+
+const capturedVal = functionName(0, arguments);
+```
+{% endcode %}
+
+{% code title="Function types" %}
 ```javascript
 //regular function declaration
 function doctorize(firstName) {
@@ -45,6 +57,11 @@ const doctorize = function (firstName) {
 }
 
 ```
+{% endcode %}
 
-> >
+{% code title="Arrow function" %}
+```javascript
+
+```
+{% endcode %}
 
