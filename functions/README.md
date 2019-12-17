@@ -59,6 +59,7 @@ const doctorize = function (firstName) {
 //arrow function
 function inchToCM() {
  const cm = inches * 2.54;
+ return cm;
 }
 ```
 {% endcode %}
