@@ -13,6 +13,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [A List of Interesting Operators in JavaScript](http://pop.frontendweekly.co/cNNMst?http://pop.frontendweekly.co/cNNMst) | 12/18/2019 | 12/18/2019 |
 | [Full JavaScript mock interview with a professional JavaScript developer!](https://dev.to/bettercodingacademy/full-javascript-mock-interview-with-a-professional-javascript-developer-2e0a) | 12/18/2019 | 12/18/2019 |
 | [How To Check Data Types in JavaScript using typeof](https://medium.com/better-programming/how-to-check-data-types-in-javascript-using-typeof-424d0520a329) | 12/17/2019 | 12/17/2019 |
 | [Vanilla JS Web Components](https://gomakethings.com/vanilla-js-web-components/) | 12/17/2019 | 12/17/2019 |
