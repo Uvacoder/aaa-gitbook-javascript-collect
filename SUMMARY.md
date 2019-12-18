@@ -9,6 +9,7 @@
   * [Parcel](bundlers/parcel.md)
 * [Cheatsheets](cheatsheets.md)
 * [Console](console.md)
+* [DOM](dom.md)
 * [Education](bookmarks/README.md)
   * [Abbreviation/Terms](bookmarks/abbreviation-terms.md)
 * [ES6](es6/README.md)

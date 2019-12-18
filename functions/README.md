@@ -56,7 +56,7 @@ function (firstName) {
 }
 
 /* ==============================
-Function expression
+Function expressionÎ
 ============================== */
 const doctorize = function (firstName) {
   return `Dr. ${firstName}`;
@@ -90,16 +90,34 @@ const wes = {
   sayHi: function() {
     console.log('Hey Wes');
     return 'Hey Wes';
-  }
+  },
   //Shorthand method
   yellHi() {
     console.log('HEY WESSSSS');
-  }
+  },
   //arrow function
   whisperHi: () => {
     console.log('heeyyy wess');
   }
 }
+
+/* ==============================
+Callback Functions
+============================== */
+//Click Callback
+const button = document.querySelector('.clickMe');
+
+function handleClick() {
+  console.log('Great Clicking!!!');
+}
+
+button.addEventListener('click', handleClick);
+
+//Timer Callback
+setTimeout(function() {
+  console.log('DONE! Time to eat!!');
+}, 1000);
+
 ```
 {% endcode %}
 

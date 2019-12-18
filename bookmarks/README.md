@@ -13,6 +13,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [Full JavaScript mock interview with a professional JavaScript developer!](https://dev.to/bettercodingacademy/full-javascript-mock-interview-with-a-professional-javascript-developer-2e0a) | 12/18/2019 | 12/18/2019 |
 | [How To Check Data Types in JavaScript using typeof](https://medium.com/better-programming/how-to-check-data-types-in-javascript-using-typeof-424d0520a329) | 12/17/2019 | 12/17/2019 |
 | [Vanilla JS Web Components](https://gomakethings.com/vanilla-js-web-components/) | 12/17/2019 | 12/17/2019 |
 | [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba) | 11/20/2019 | 12/12/2019 |
