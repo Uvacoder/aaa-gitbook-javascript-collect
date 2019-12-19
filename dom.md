@@ -91,8 +91,10 @@
 
 |  |  |
 | :--- | :--- |
-| [.createElement\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement) | In an HTML document, the document.createElement\(\) method creates the HTML element specified by tagName, or an HTMLUnknownElement if tagName isn't recognized. |
 | [.appendChild\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild) |  |
+| .cloneNode\(\) |  |
+| [.createElement\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement) | In an HTML document, the document.createElement\(\) method creates the HTML element specified by tagName, or an HTMLUnknownElement if tagName isn't recognized. |
+| .insertAdjacentElement\(\) |  |
 
 ### Events
 
