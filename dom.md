@@ -2,10 +2,6 @@
 
 |  |  |
 | :--- | :--- |
-| [https://developer.mozilla.org/en-US/docs/Web/API/Element](https://developer.mozilla.org/en-US/docs/Web/API/Element) |  |
-
-|  |  |
-| :--- | :--- |
 | console |  |
 | document |  |
 | window |  |
@@ -14,7 +10,7 @@
 
 |  |  |
 | :--- | :--- |
-| elements |  |
+| elements | [https://developer.mozilla.org/en-US/docs/Web/API/Element](https://developer.mozilla.org/en-US/docs/Web/API/Element) |
 | nodes |  |
 | methods |  |
 | properties |  |
