@@ -12,6 +12,8 @@
 
 ### DOM
 
+elements, properties, methods, nodes, classes, data attributes
+
 <table>
   <thead>
     <tr>
