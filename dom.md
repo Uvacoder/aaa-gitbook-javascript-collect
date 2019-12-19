@@ -31,6 +31,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">.dataset()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/classList">Element.classList()</a>
       </td>
       <td style="text-align:left">The <b><code>Element.classList</code></b> is a read-only property that returns
