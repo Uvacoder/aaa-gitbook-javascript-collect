@@ -85,7 +85,7 @@
 | .dataset\(\) |  |
 | .getAttribute\(\) |  |
 | .hasAttribute\(\) |  |
-| .setAttribute\(\) |  |
+| [.setAttribute\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute) |  |
 
 ### HTML
 
