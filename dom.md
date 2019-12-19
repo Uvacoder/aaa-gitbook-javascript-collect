@@ -12,7 +12,15 @@
 
 ### DOM
 
-elements, properties, methods, nodes, classes, data attributes
+|  |  |
+| :--- | :--- |
+| elements |  |
+| nodes |  |
+| properties |  |
+| classes |  |
+| data attributes |  |
+
+### Methods
 
 <table>
   <thead>
@@ -77,11 +85,11 @@ elements, properties, methods, nodes, classes, data attributes
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">querySelector()</td>
+      <td style="text-align:left">.querySelector()</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">querySelectorAll()</td>
+      <td style="text-align:left">.querySelectorAll()</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
