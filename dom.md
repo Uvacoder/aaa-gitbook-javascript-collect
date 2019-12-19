@@ -10,8 +10,8 @@
 
 |  |  |
 | :--- | :--- |
-| elements | [https://developer.mozilla.org/en-US/docs/Web/API/Element](https://developer.mozilla.org/en-US/docs/Web/API/Element) |
 | nodes |  |
+| elements | [https://developer.mozilla.org/en-US/docs/Web/API/Element](https://developer.mozilla.org/en-US/docs/Web/API/Element) |
 | methods |  |
 | properties |  |
 | classes |  |
