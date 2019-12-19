@@ -87,6 +87,13 @@
 | .hasAttribute\(\) |  |
 | .setAttribute\(\) |  |
 
+### HTML
+
+|  |  |
+| :--- | :--- |
+| .createElement\(\) |  |
+|  |  |
+
 ### Events
 
 |  |  |
