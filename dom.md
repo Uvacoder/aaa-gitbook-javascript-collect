@@ -8,6 +8,7 @@
 | document |  |
 | window |  |
 | node |  |
+| getters / setters |  |
 
 |  |  |
 | :--- | :--- |
