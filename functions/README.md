@@ -26,7 +26,7 @@
 | :--- | :--- |
 | Date.now\(\) |  |
 
-`Hoisting` &gt; moves functions to the top
+`Hoisting` &gt; variable declarations  && function declaration, `hoisted` or moved to the top of the file
 
 ![](../.gitbook/assets/screen-shot-2019-12-16-at-11.20.52-am.png)
 
