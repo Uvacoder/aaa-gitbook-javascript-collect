@@ -4,6 +4,14 @@
 | :--- | :--- |
 | [https://developer.mozilla.org/en-US/docs/Web/API/Element](https://developer.mozilla.org/en-US/docs/Web/API/Element) |  |
 
+|  |  |
+| :--- | :--- |
+| console |  |
+| document |  |
+| window |  |
+
+### DOM
+
 <table>
   <thead>
     <tr>
@@ -63,4 +71,9 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
+</table>### Events
+
+|  |  |
+| :--- | :--- |
+| .addEventListener\(\) |  |
+
