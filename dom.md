@@ -31,11 +31,15 @@ elements, properties, methods, nodes, classes, data attributes
         to manipulate the class list.</td>
     </tr>
     <tr>
+      <td style="text-align:left">.getAttribute()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">.getElementbyId()</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">.textContent()</td>
+      <td style="text-align:left">.hasAttribute()</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -65,6 +69,14 @@ elements, properties, methods, nodes, classes, data attributes
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">.setAttribute()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">.textContent()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">querySelector()</td>
       <td style="text-align:left"></td>
     </tr>
@@ -77,5 +89,5 @@ elements, properties, methods, nodes, classes, data attributes
 
 |  |  |
 | :--- | :--- |
-| .addEventListener\(\) |  |
+| .addEventListener\(\) | 'load' |
 
