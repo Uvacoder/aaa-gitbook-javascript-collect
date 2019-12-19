@@ -37,16 +37,28 @@
         to manipulate the class list.</td>
     </tr>
     <tr>
-      <td style="text-align:left">.getElementbyId()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById">.getElementbyId()</a>
+      </td>
+      <td style="text-align:left">The <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document"><code>Document</code></a> method <b><code>getElementById()</code></b> returns
+        an <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element"><code>Element</code></a> object
+        representing the element whose <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/id"><code>id</code></a> property
+        matches the specified string. Since element IDs are required to be unique
+        if specified, they&apos;re a useful way to get access to a specific element
+        quickly.</td>
     </tr>
     <tr>
-      <td style="text-align:left">.innerHTML()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML">.innerHTML()</a>
+      </td>
+      <td style="text-align:left">The <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element"><code>Element</code></a> property <b><code>innerHTML</code></b> gets
+        or sets the HTML or XML markup contained within the element.</td>
     </tr>
     <tr>
-      <td style="text-align:left">.innerText()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText">.innerText()</a>
+      </td>
+      <td style="text-align:left">The <b><code>innerText</code></b> property of the <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement"><code>HTMLElement</code></a> interface
+        represents the &quot;rendered&quot; text content of a node and its descendants.
+        As a getter, it approximates the text the user would get if they highlighted
+        the contents of the element with the cursor and then copied it to the clipboard.</td>
     </tr>
     <tr>
       <td style="text-align:left">.insertAdjacentText()</td>
@@ -71,8 +83,12 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">.querySelector()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector">.querySelector()</a>
+      </td>
+      <td style="text-align:left">The <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document"><code>Document</code></a> method <b><code>querySelector()</code></b> returns
+        the first <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element"><code>Element</code></a> within
+        the document that matches the specified selector, or group of selectors.
+        If no matches are found, <code>null</code> is returned.</td>
     </tr>
     <tr>
       <td style="text-align:left">.querySelectorAll()</td>
