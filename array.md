@@ -16,9 +16,10 @@
 | [Array.reduce\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) | The **`reduce()`** method executes a **reducer** function \(that you provide\) on each element of the array, resulting in a single output value. |
 | Array.some\(\) |  |
 
-|  |  |
-| :--- | :--- |
-| [13 useful Array tips and tricks](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo) |  |
+|  |  |  |
+| :--- | :--- | :--- |
+| [Five interesting ways \(and one boring way\) to use Array.reduce\(\)](https://gomakethings.com/five-interesting-ways-and-one-boring-way-to-use-array.reduce) | 12/19/2019 | 12/19/2019 |
+| [13 useful Array tips and tricks](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo) |  |  |
 
 
 
