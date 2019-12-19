@@ -16,6 +16,7 @@
 | :--- | :--- |
 | elements |  |
 | nodes |  |
+| methods |  |
 | properties |  |
 | classes |  |
 | data attributes |  |
@@ -31,10 +32,6 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">.dataset()</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/classList">Element.classList()</a>
       </td>
       <td style="text-align:left">The <b><code>Element.classList</code></b> is a read-only property that returns
@@ -43,15 +40,7 @@
         to manipulate the class list.</td>
     </tr>
     <tr>
-      <td style="text-align:left">.getAttribute()</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left">.getElementbyId()</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">.hasAttribute()</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -81,10 +70,6 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">.setAttribute()</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left">.textContent()</td>
       <td style="text-align:left"></td>
     </tr>
@@ -97,7 +82,16 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Events
+</table>### Attributes
+
+|  |  |
+| :--- | :--- |
+| .dataset\(\) |  |
+| .getAttribute\(\) |  |
+| .hasAttribute\(\) |  |
+| .setAttribute\(\) |  |
+
+### Events
 
 |  |  |
 | :--- | :--- |
