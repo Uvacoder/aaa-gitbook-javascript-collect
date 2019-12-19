@@ -26,6 +26,8 @@
 | :--- | :--- |
 | Date.now\(\) |  |
 
+`Hoisting` &gt; moves functions to the top
+
 ![](../.gitbook/assets/screen-shot-2019-12-16-at-11.20.52-am.png)
 
 {% code title="Function definition" %}
