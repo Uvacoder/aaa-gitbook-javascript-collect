@@ -29,7 +29,11 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">.createContextualFragment()</td>
+      <td style="text-align:left">.children()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">.childNodes()</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -45,6 +49,10 @@
         to manipulate the class list.</td>
     </tr>
     <tr>
+      <td style="text-align:left">.firstElementChild()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById">.getElementbyId()</a>
       </td>
       <td style="text-align:left">The <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document"><code>Document</code></a> method <b><code>getElementById()</code></b> returns
@@ -53,6 +61,10 @@
         matches the specified string. Since element IDs are required to be unique
         if specified, they&apos;re a useful way to get access to a specific element
         quickly.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">.lastElementChild()</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML">.innerHTML()</a>
@@ -83,7 +95,19 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">.nextElementSibling()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">.outerHTML()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">.parentElement()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">.previousElementSibling()</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -117,8 +141,6 @@
 |  |  |
 | :--- | :--- |
 | [.appendChild\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild) |  |
-| .children\(\) |  |
-| .childNodes\(\) |  |
 | .cloneNode\(\) |  |
 | [.createElement\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement) | In an HTML document, the document.createElement\(\) method creates the HTML element specified by tagName, or an HTMLUnknownElement if tagName isn't recognized. |
 | .insertAdjacentElement\(\) |  |
