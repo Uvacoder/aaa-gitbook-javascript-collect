@@ -49,6 +49,10 @@
         to manipulate the class list.</td>
     </tr>
     <tr>
+      <td style="text-align:left">.firstChild()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">.firstElementChild()</td>
       <td style="text-align:left"></td>
     </tr>
@@ -61,6 +65,10 @@
         matches the specified string. Since element IDs are required to be unique
         if specified, they&apos;re a useful way to get access to a specific element
         quickly.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">.lastChild()</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">.lastElementChild()</td>
@@ -95,6 +103,10 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">.nextSibling()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">.nextElementSibling()</td>
       <td style="text-align:left"></td>
     </tr>
@@ -103,7 +115,15 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">.parentNode()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">.parentElement()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">.previousSibling()</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
