@@ -131,6 +131,10 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">.remove()</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">.textContent()</td>
       <td style="text-align:left"></td>
     </tr>
