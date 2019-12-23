@@ -174,4 +174,6 @@
 |  |  |
 | :--- | :--- |
 | .addEventListener\(\) | 'load' |
+| .forEach\(\) |  |
+| .stopPropogation\(\) |  |
 
