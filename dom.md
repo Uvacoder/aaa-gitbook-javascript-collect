@@ -175,7 +175,7 @@
 
 |  |  |
 | :--- | :--- |
-| .addEventListener\(\) | 'load' |
+| [.addEventListener\(\)](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) | 'load', {capture: true} |
 | .forEach\(\) |  |
 | .stopPropogation\(\) |  |
 
