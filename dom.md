@@ -169,6 +169,8 @@
 | [.createElement\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement) | In an HTML document, the document.createElement\(\) method creates the HTML element specified by tagName, or an HTMLUnknownElement if tagName isn't recognized. |
 | .insertAdjacentElement\(\) |  |
 
+![](.gitbook/assets/screen-shot-2019-12-23-at-1.32.53-pm.png)
+
 ### Events
 
 |  |  |
