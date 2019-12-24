@@ -6,7 +6,8 @@
 
 |  |  |
 | :--- | :--- |
-| .addEventListener\(\) |  |
-| event.preventDefault\(\) |  |
-|  |  |
+| [.addEventListener\(\)](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) | 'load', {capture: true} |
+| .preventDefault\(\) |  |
+| .forEach\(\) |  |
+| .stopPropogation\(\) |  |
 
