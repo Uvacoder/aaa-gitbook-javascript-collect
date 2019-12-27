@@ -13,6 +13,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [Different ways to learn JavaScript](https://gomakethings.com/different-ways-to-learn-javascript/?mc_cid=afa73cf7f8&mc_eid=e9174ba77f) | 12/26/2019 | 12/26/2019 |
 | [A List of Interesting Operators in JavaScript](http://pop.frontendweekly.co/cNNMst?http://pop.frontendweekly.co/cNNMst) | 12/18/2019 | 12/18/2019 |
 | [Full JavaScript mock interview with a professional JavaScript developer!](https://dev.to/bettercodingacademy/full-javascript-mock-interview-with-a-professional-javascript-developer-2e0a) | 12/18/2019 | 12/18/2019 |
 | [How To Check Data Types in JavaScript using typeof](https://medium.com/better-programming/how-to-check-data-types-in-javascript-using-typeof-424d0520a329) | 12/17/2019 | 12/17/2019 |
