@@ -14,18 +14,6 @@
 | .bind\(\) | returns copy of function where `this` is set to the first argument passed into `.bind()` |
 | .call\(\) |  |
 
-|  |  |
-| :--- | :--- |
-| [Math.floor\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) |  |
-| Math.round\(\) |  |
-| Math.ceil\(\) |  |
-| Math.max\(\) |  |
-| parseFloat\(\) |  |
-
-|  |  |
-| :--- | :--- |
-| Date.now\(\) |  |
-
 ### `Hoisting` 
 
 variable declarations  && function declaration, `hoisted` or moved to the top of the file
