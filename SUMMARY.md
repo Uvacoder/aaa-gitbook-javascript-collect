@@ -26,6 +26,7 @@
 * [Libraries](libraries.md)
 * [Methods](methods/README.md)
   * [Math.random\(\)](methods/math.random.md)
+* [Operators](operators.md)
 * [Objects](objects/README.md)
   * [.\_\_proto\_\_](objects/.__proto__.md)
   * [Method](objects/method/README.md)
