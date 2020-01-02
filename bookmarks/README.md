@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 | 1/2/2020 |
 | [Different ways to learn JavaScript](https://gomakethings.com/different-ways-to-learn-javascript/?mc_cid=afa73cf7f8&mc_eid=e9174ba77f) | 12/26/2019 | 12/26/2019 |
 | [A List of Interesting Operators in JavaScript](http://pop.frontendweekly.co/cNNMst?http://pop.frontendweekly.co/cNNMst) | 12/18/2019 | 12/18/2019 |
 | [Full JavaScript mock interview with a professional JavaScript developer!](https://dev.to/bettercodingacademy/full-javascript-mock-interview-with-a-professional-javascript-developer-2e0a) | 12/18/2019 | 12/18/2019 |
