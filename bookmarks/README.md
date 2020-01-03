@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 | 1/3/2020 |
 | [Using multiple selectors with querySelector\(\), querySelectorAll\(\), closest\(\), and matches\(\)](https://gomakethings.com/using-multiple-selectors-with-queryselector-queryselectorall-closest-and-matches/?mc_cid=14d796d5f8&mc_eid=e9174ba77f) | 1/2/2020 | 1/2/2020 |
 | [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 | 1/2/2020 |
 | [Different ways to learn JavaScript](https://gomakethings.com/different-ways-to-learn-javascript/?mc_cid=afa73cf7f8&mc_eid=e9174ba77f) | 12/26/2019 | 12/26/2019 |
