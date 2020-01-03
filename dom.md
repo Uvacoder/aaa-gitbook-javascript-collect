@@ -37,6 +37,15 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/closest">.closest()</a>
+      </td>
+      <td style="text-align:left">Starting with the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element"><code>Element</code></a> itself,
+        the <b><code>closest()</code></b> method traverses parents (heading toward
+        the document root) of the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element"><code>Element</code></a> until
+        it finds a node that matches the provided selectorString. Will return itself
+        or the matching ancestor. If no such element exists, it returns <code>null</code>.</td>
+    </tr>
+    <tr>
       <td style="text-align:left">.createRange()</td>
       <td style="text-align:left"></td>
     </tr>
