@@ -1,6 +1,12 @@
-# Primitive types
+---
+description: Primitive types
+---
 
-SNOBUSN
+# Primitive
+
+{% hint style="info" %}
+**SNOBUSN**
+{% endhint %}
 
 1. **String** — anything inside of “ ”
 2. **Number** — integers, floats, etc.

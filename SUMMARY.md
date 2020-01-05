@@ -40,7 +40,7 @@
   * [Maps](objects/maps.md)
 * [Operators](operators.md)
 * [Polyfill](polyfill.md)
-* [Primitive types](primitive-types.md)
+* [Primitive](primitive-types.md)
 * [Promises](promises.md)
 * [Recursion](recursion.md)
 * [Regex](regex/README.md)
