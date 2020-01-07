@@ -5,14 +5,16 @@ description: Primitive types
 # Primitive
 
 {% hint style="info" %}
-**SNOBUSN**
+**SNOBUNS**
 {% endhint %}
 
-1. **String** — anything inside of “ ”
-2. **Number** — integers, floats, etc.
-3. **Object** — collection of data in “key: value” pairs
-4. **Boolean** — true or false
-5. **Undefined** — a variable that is declared but has not been given a value
-6. **Symbol** — a unique value that is not equal to any other value \(introduced in ES6\)
-7. **Null** — no value
+|  |  |
+| :--- | :--- |
+| **String** | anything inside of “ ” |
+| \*\*\*\*[**Number**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Numbers_and_dates)\*\*\*\* | integers, floats, etc. |
+| **Object** | collection of data in “key: value” pairs |
+| **Boolean** | true or false |
+| **Undefined** | a variable that is declared but has not been given a value |
+| **Null** | no value |
+| **Symbol** | a unique value that is not equal to any other value \(introduced in ES6\) |
 
