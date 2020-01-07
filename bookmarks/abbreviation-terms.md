@@ -38,7 +38,7 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">coercion</td>
+      <td style="text-align:left">Coercion</td>
       <td style="text-align:left">the process of converting value from one type to another (such as string
         to number, object to boolean, and so on)</td>
       <td style="text-align:left"></td>
