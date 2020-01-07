@@ -18,9 +18,9 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://flaviocopes.com/javascript-glossary">The JavaScript Glossary</a>
       </td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -35,17 +35,6 @@
       <td style="text-align:left">A callback function is a function passed into another function as an argument,
         which is then invoked inside the outer function to complete some kind of
         routine or action.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Coercion</td>
-      <td style="text-align:left">the process of converting value from one type to another (such as string
-        to number, object to boolean, and so on)</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Concatenation</td>
-      <td style="text-align:left">link things together in a chain or series.</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
