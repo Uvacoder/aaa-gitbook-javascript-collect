@@ -6,6 +6,9 @@
 
 ```javascript
 //ternary
+// 1. Condition
+// 2. what to do if true
+// 3. what to do if false
 const word = count === 1 ? 'item' : 'items';
 
 //if else statement
