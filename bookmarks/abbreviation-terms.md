@@ -18,6 +18,11 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">Concatenation</td>
+      <td style="text-align:left">link things together in a chain or series.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://flaviocopes.com/javascript-glossary">The JavaScript Glossary</a>
       </td>
