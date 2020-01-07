@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co) | 1/6/2020 | 1/6/2020 |
 | [How to set default values when destructuring with JavaScript](https://gomakethings.com/how-to-set-default-values-when-destructuring-with-javascript/?mc_cid=6e3c5f731a&mc_eid=e9174ba77f) | 1/6/2020 | 1/6/2020 |
 | [JavaScript Interview Questions You Need To Know — Part II](https://medium.com/javascript-in-plain-english/javascript-interview-questions-you-need-to-know-part-ii-e1e49ea64bc3) | 1/4/2020 | 1/4/2020 |
 | [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 | 1/3/2020 |
