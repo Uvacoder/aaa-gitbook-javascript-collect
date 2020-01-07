@@ -4,6 +4,8 @@
 | :--- | :--- | :--- |
 | [MDN Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) | 1/2/2020 | 1/2/2020 |
 
+### Binary Operators
+
 | Name | Shorthand operator | Meaning |
 | :--- | :--- | :--- |
 | [Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Assignment) | `x = y` | `x = y` |
@@ -19,4 +21,11 @@
 | [Bitwise AND assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_AND_assignment) | `x &= y` | `x = x & y` |
 | [Bitwise XOR assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_XOR_assignment) | `x ^= y` | `x = x ^ y` |
 | [Bitwise OR assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_OR_assignment) | `x |= y` | `x = x | y` |
+
+### Unary Operators
+
+|  |  |
+| :--- | :--- |
+| typeof |  |
+| - |  |
 
