@@ -15,6 +15,7 @@
 * [ES6](es6/README.md)
   * [Export default](es6/export-default.md)
 * [Events](events.md)
+* [Flow control](flow-control.md)
 * [Functions](functions/README.md)
   * [Arrow functions](functions/arrow-functions.md)
   * [Snippets](functions/snippets.md)
