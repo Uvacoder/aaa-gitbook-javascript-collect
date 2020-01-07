@@ -9,8 +9,10 @@
 back slash followed by n, t, 
 or quote marks will escape the character
 
-
 \n //new line
 \t //tab
+
+"A newline character is written like \"\\n\"."
+“A newline character is written like "\n".”
 ```
 
