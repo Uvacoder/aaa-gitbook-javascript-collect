@@ -98,16 +98,6 @@
         the contents of the element with the cursor and then copied it to the clipboard.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML">.insertAdjacentHTML()</a>
-      </td>
-      <td style="text-align:left">The insertAdjacentHTML() method of the Element interface parses the specified
-        text as HTML or XML and inserts the resulting nodes into the DOM tree at
-        a specified position. It does not reparse the element it is being used
-        on, and thus it does not corrupt the existing elements inside that element.
-        This avoids the extra step of serialization, making it much faster than
-        direct innerHTML manipulation.</td>
-    </tr>
-    <tr>
       <td style="text-align:left">.insertAdjacentText()</td>
       <td style="text-align:left">
         <p></p>
