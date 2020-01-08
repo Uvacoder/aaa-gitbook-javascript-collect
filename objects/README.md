@@ -12,6 +12,11 @@ const person = new Object ({
 age: 100,
 name: 'John',
 });
+
+//to access properties use dot notation or square bracket
+console.log(person.age);
+console.log(person['age']);
+
 ```
 
 |  |  |
@@ -23,7 +28,7 @@ name: 'John',
 
 |  |  |
 | :--- | :--- |
-| .freeze\(\) |  |
+| [.freeze\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze) | method **freezes** an object. A frozen object can no longer be changed |
 | .keys |  |
 | [.preventExtensions\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions) | The **`Object.preventExtensions()`** method prevents new properties from ever being added to an object \(i.e. prevents future extensions to the object\). |
 | .seal\(\) |  |
