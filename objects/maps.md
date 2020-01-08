@@ -1,6 +1,16 @@
 # Maps
 
-{% embed url="http://pop.frontendweekly.co/oMHSMo?utm\_campaign=Frontend%2BWeekly&utm\_medium=email&utm\_source=Frontend\_Weekly\_171" %}
+```javascript
+const myMap = new Map();
+
+//.set()
+//.has()
+//.delete()
+```
+
+|  |  |
+| :--- | :--- |
+| [The 80/20 Guide to Maps in JavaScript](http://pop.frontendweekly.co/oMHSMo?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_171) |  |
 
 
 
