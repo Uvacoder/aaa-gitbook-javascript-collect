@@ -56,6 +56,7 @@ Object.assign({}, person1); //old way to copy object
 
 |  |  |
 | :--- | :--- |
+| [.fromEntries\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries) | The Object.fromEntries\(\) method transforms a list of key-value pairs into an object. |
 | onclick |  |
 | .scrollTo\(\) |  |
 | .setInterval\(\) |  |
