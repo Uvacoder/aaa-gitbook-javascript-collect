@@ -1,7 +1,5 @@
 # Objects
 
-
-
 |  |  |
 | :--- | :--- |
 |  |  |
@@ -28,4 +26,12 @@
 | .scrollTo\(\) |  |
 | .setInterval\(\) |  |
 | .setTimeout\(\) |  |
+
+```javascript
+//object literaly syntax
+const person = {
+age: 100,
+name: 'John',
+}
+```
 
