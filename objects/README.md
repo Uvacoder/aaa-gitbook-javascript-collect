@@ -28,12 +28,8 @@ sayHello (greeting = 'Hey') {
 
 ```javascript
 const person1 = {
-      first: 'wes',
-      last: 'bos',
-      clothing: {
-        shirts: 10,
-        pants: 2
-      }
+      first: 'John',
+      last: 'Doe',
     };
 
 //spread operator, copies the object instead of reference it
