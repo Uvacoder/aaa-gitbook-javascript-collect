@@ -1,4 +1,4 @@
-# Control Flow
+# Flow Control
 
 |  |  |
 | :--- | :--- |
@@ -45,4 +45,12 @@ if (count === 1) {
           console.log('That is not a valid move');
           break;
 ```
+
+|  |  |
+| :--- | :--- |
+| .clearInterval\(\) |  |
+| .clearTimeout\(\) |  |
+| .setInterval\(\) |  |
+| [.setTimeout\(\)](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) |  |
+|  |  |
 
