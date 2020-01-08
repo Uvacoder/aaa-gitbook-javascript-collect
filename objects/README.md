@@ -1,8 +1,18 @@
 # Objects
 
-|  |  |
-| :--- | :--- |
-|  |  |
+```javascript
+//object literaly syntax
+const person = {
+age: 100,
+name: 'John',
+}
+
+//longer notation, not used because literal is cleaner
+const person = new Object ({
+age: 100,
+name: 'John',
+});
+```
 
 |  |  |
 | :--- | :--- |
@@ -26,12 +36,4 @@
 | .scrollTo\(\) |  |
 | .setInterval\(\) |  |
 | .setTimeout\(\) |  |
-
-```javascript
-//object literaly syntax
-const person = {
-age: 100,
-name: 'John',
-}
-```
 
