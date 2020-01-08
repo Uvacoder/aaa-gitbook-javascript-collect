@@ -15,7 +15,7 @@ name: 'John',
 
 //to access properties use dot notation or square bracket
 console.log(person.age);
-console.log(person['age']);
+console.log(person['age']); //can reference property using a variable by removing ''
 
 ```
 
