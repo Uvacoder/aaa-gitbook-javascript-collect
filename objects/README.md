@@ -20,3 +20,12 @@
 | [.preventExtensions\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions) | The **`Object.preventExtensions()`** method prevents new properties from ever being added to an object \(i.e. prevents future extensions to the object\). |
 | .seal\(\) |  |
 
+### Window object
+
+|  |  |
+| :--- | :--- |
+| onclick |  |
+| .scrollTo\(\) |  |
+| .setInterval\(\) |  |
+| .setTimeout\(\) |  |
+

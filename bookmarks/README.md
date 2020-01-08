@@ -14,6 +14,8 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [JavaScript Shorthand Coding Techniques — Part 1](http://pop.frontendweekly.co/SphJPN?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_184) | 1/8/2020 | 1/8/2020 |
+| [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co) | 1/6/2020 | 1/6/2020 |
 | [How to set default values when destructuring with JavaScript](https://gomakethings.com/how-to-set-default-values-when-destructuring-with-javascript/?mc_cid=6e3c5f731a&mc_eid=e9174ba77f) | 1/6/2020 | 1/6/2020 |
 | [JavaScript Interview Questions You Need To Know — Part II](https://medium.com/javascript-in-plain-english/javascript-interview-questions-you-need-to-know-part-ii-e1e49ea64bc3) | 1/4/2020 | 1/4/2020 |
 | [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 | 1/3/2020 |
