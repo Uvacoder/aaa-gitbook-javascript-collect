@@ -5,6 +5,9 @@
 const person = {
 age: 100,
 name: 'John',
+sayHello: function (greeting = 'Hey') {
+ return `${greeting} ${this.name}`;
+}
 }
 
 //longer notation, not used because literal is cleaner
@@ -17,6 +20,10 @@ name: 'John',
 console.log(person.age);
 console.log(person['age']); //can reference property using a variable by removing ''
 
+//method shorthand
+sayHello (greeting = 'Hey') {
+ return `${greeting} ${this.name}`;
+}
 ```
 
 |  |  |
