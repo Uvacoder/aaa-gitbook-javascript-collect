@@ -20,3 +20,29 @@ if (count === 1) {
 }
 ```
 
+```javascript
+//switch
+      switch (event.key) {
+        case 'ArrowUp':
+          y = y - 1;
+          rotate = -90;
+          break;
+        case 'ArrowDown':
+          y = y + 1;
+          rotate = 90;
+          break;
+        case 'ArrowLeft':
+          x = x - 1;
+          rotate = 0;
+          flipped = true;
+          break;
+        case 'ArrowRight':
+          x = x + 1;
+          rotate = 0;
+          flipped = false;
+          break;
+        default:
+          console.log('That is not a valid move');
+          break;
+```
+
