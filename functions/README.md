@@ -2,9 +2,10 @@
 
 ### Articles
 
-|  |  |
-| :--- | :--- |
-| [Arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) |  |
+|  |  |  |
+| :--- | :--- | :--- |
+| [Callbacks in JavaScript](https://zellwk.com/blog/callbacks/?ck_subscriber_id=420572458) | 1/8/2020 | 1/8/2020 |
+| [Arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) |  |  |
 
 ### Methods
 
