@@ -72,6 +72,11 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">immutable</td>
+      <td style="text-align:left">An immutable object is one whose content cannot be changed.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Implicit</td>
       <td style="text-align:left">implied though not plainly expressed.</td>
       <td style="text-align:left"></td>

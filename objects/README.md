@@ -23,7 +23,7 @@ name: 'John',
 
 |  |  |
 | :--- | :--- |
-| [.freeze\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze) | method **freezes** an object. A frozen object can no longer be changed |
+| .freeze\(\) |  |
 | .keys |  |
 | [.preventExtensions\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions) | The **`Object.preventExtensions()`** method prevents new properties from ever being added to an object \(i.e. prevents future extensions to the object\). |
 | .seal\(\) |  |
