@@ -26,6 +26,22 @@ sayHello (greeting = 'Hey') {
 }
 ```
 
+```javascript
+const person1 = {
+      first: 'wes',
+      last: 'bos',
+      clothing: {
+        shirts: 10,
+        pants: 2
+      }
+    };
+
+//spread operator, copies the object instead of reference it
+const person3 = { ...person1 };
+
+Object.assign({}, person1); //old way to copy object
+```
+
 |  |  |
 | :--- | :--- |
 | [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor) | The constructor property returns a reference to the Object constructor function that created the instance object. Note that the value of this property is a reference to the function itself, not a string containing the function's name. The value is only read-only for primitive values such as 1, true and "test". |
