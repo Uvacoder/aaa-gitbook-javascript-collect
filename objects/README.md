@@ -32,7 +32,7 @@ const person1 = {
       last: 'Doe',
     };
 
-//spread operator, copies the object instead of reference it
+//spread operator, creates a shallow copy of the object instead of reference it
 const person3 = { ...person1 };
 
 Object.assign({}, person1); //old way to copy object
