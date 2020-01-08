@@ -53,7 +53,7 @@ function (firstName) {
 }
 
 /* ==============================
-Function expression
+Function expressionÎ
 ============================== */
 const doctorize = function (firstName) {
   return `Dr. ${firstName}`;

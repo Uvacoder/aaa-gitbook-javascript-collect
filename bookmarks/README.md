@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2) | 1/8/2020 | 1/8/2020 |
 | [JavaScript Shorthand Coding Techniques — Part 1](http://pop.frontendweekly.co/SphJPN?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_184) | 1/8/2020 | 1/8/2020 |
 | [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co) | 1/6/2020 | 1/6/2020 |
 | [How to set default values when destructuring with JavaScript](https://gomakethings.com/how-to-set-default-values-when-destructuring-with-javascript/?mc_cid=6e3c5f731a&mc_eid=e9174ba77f) | 1/6/2020 | 1/6/2020 |

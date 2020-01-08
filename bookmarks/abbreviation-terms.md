@@ -72,11 +72,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">immutable</td>
-      <td style="text-align:left">An immutable object is one whose content cannot be changed.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left">Implicit</td>
       <td style="text-align:left">implied though not plainly expressed.</td>
       <td style="text-align:left"></td>
@@ -97,11 +92,6 @@
         on an object constructor.</td>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index">index</a>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Statement</td>
-      <td style="text-align:left">statements perform actions, they do things</td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
