@@ -10,6 +10,10 @@
 const names = [];
 
 const names = new Array(); //longer way to create an array
+
+//first items in arrays start at 0
+
+
 ```
 
 |  |  |
