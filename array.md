@@ -19,6 +19,7 @@ const names = new Array(); //longer way to create an array
 |  |  |
 | :--- | :--- |
 | .every\(\) |  |
+| .flat\(\) |  |
 | [.find\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find) | The **`find()`** method returns the **value** of the **first element** in the provided array that satisfies the provided testing function. |
 | .findIndex\(\) |  |
 | .fill\(\) |  |
