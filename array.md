@@ -36,6 +36,7 @@ const names = new Array(); //longer way to create an array
 | [.reduce\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) | The **`reduce()`** method executes a **reducer** function \(that you provide\) on each element of the array, resulting in a single output value. |
 | [.slice\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice) | The **`slice()`** method returns a shallow copy of a portion of an array into a new array object selected from `begin` to `end` \(`end` not included\) where `begin` and `end` represent the index of items in that array. The original array will not be modified. |
 | .some\(\) |  |
+| [.splice\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) | The **`splice()`** method changes the contents of an array by removing or replacing existing elements and/or adding new elements [in place](https://en.wikipedia.org/wiki/In-place_algorithm). |
 | .unshift\(\) |  |
 
 
