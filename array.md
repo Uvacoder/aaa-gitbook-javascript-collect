@@ -32,7 +32,7 @@ const names = new Array(); //longer way to create an array
 | .keys\(\) |  |
 | [.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length) | The length property of an object which is an instance of type Array sets or returns the number of elements in that array. The value is an unsigned, 32-bit integer that is always numerically greater than the highest index in the array. |
 | [.map\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) | The **`map()`** method creates a new array with the results of calling a provided function on every element in the calling array. |
-| .of\(\) |  |
+| [.of\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of) | The Array.of\(\) method creates a new Array instance from a variable number of arguments, regardless of number or type of the arguments. |
 | .push\(\) |  |
 | [.reduce\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) | The **`reduce()`** method executes a **reducer** function \(that you provide\) on each element of the array, resulting in a single output value. |
 | [.slice\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice) | The **`slice()`** method returns a shallow copy of a portion of an array into a new array object selected from `begin` to `end` \(`end` not included\) where `begin` and `end` represent the index of items in that array. The original array will not be modified. |
