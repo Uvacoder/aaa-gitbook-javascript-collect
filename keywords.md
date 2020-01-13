@@ -1,6 +1,7 @@
 # Keywords
 
 ```javascript
+//reserved words
 break case catch class const continue debugger default
 delete do else enum export extends false finally for
 function if implements import interface in instanceof let
