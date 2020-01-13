@@ -35,7 +35,7 @@ const names = new Array(); //longer way to create an array
 | .filter\(\) |  |
 | [.forEach\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) | The **`forEach()`** method executes a provided function once for each array element. |
 | [.indexOf\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) | The **`indexOf()`** method returns the first index at which a given element can be found in the array, or -1 if it is not present. |
-| .join\(\) |  |
+| [.join\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join) | The **`join()`** method creates and returns a new string by concatenating all of the elements in an array \(or an [array-like object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections#Working_with_array-like_objects)\), separated by commas or a specified separator string. If the array has only one item, then that item will be returned without using the separator. |
 | .keys\(\) |  |
 | [.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length) | The length property of an object which is an instance of type Array sets or returns the number of elements in that array. The value is an unsigned, 32-bit integer that is always numerically greater than the highest index in the array. |
 | [.map\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) | The **`map()`** method creates a new array with the results of calling a provided function on every element in the calling array. |
@@ -45,6 +45,7 @@ const names = new Array(); //longer way to create an array
 | [.slice.call\(\)](https://stackoverflow.com/questions/7056925/how-does-array-prototype-slice-call-work) |  |
 | .some\(\) |  |
 | [.splice\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) | The **`splice()`** method changes the contents of an array by removing or replacing existing elements and/or adding new elements [in place](https://en.wikipedia.org/wiki/In-place_algorithm). |
+| [.split\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) | The **`split()`** method turns a [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) into an array of strings, by separating the string at each instance of a specified separator string. |
 | .unshift\(\) |  |
 
 ### Objects
