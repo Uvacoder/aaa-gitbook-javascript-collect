@@ -24,6 +24,7 @@
   * [JSON.stringify\(\)](json/json.stringify.md)
 * [jQuery](jquery/README.md)
   * [Equal Heights](jquery/equal-heights.md)
+* [Keywords](keywords.md)
 * [Libraries](libraries.md)
 * [Objects](objects/README.md)
   * [.\_\_proto\_\_](objects/.__proto__.md)
