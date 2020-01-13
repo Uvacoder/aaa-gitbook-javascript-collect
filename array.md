@@ -51,7 +51,7 @@ const names = new Array(); //longer way to create an array
 
 |  |  |
 | :--- | :--- |
-| .entries\(\) |  |
+| [.entries\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries) | The **`Object.entries()`** method returns an array of a given object's own enumerable string-keyed property `[key, value]` pairs, in the same order as that provided by a [`for...in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in) loop. \(The only important difference is that a `for...in` loop enumerates properties in the prototype chain as well\).  |
 | .keys\(\) |  |
 | .values\(\) |  |
 
