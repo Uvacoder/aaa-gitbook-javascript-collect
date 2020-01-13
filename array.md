@@ -23,6 +23,8 @@ const names = new Array(); //longer way to create an array
 | .isArray\(\) |  |
 | [.of\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of) | The Array.of\(\) method creates a new Array instance from a variable number of arguments, regardless of number or type of the arguments. |
 
+### Methods
+
 |  |  |
 | :--- | :--- |
 | .every\(\) |  |
@@ -45,5 +47,11 @@ const names = new Array(); //longer way to create an array
 | [.splice\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) | The **`splice()`** method changes the contents of an array by removing or replacing existing elements and/or adding new elements [in place](https://en.wikipedia.org/wiki/In-place_algorithm). |
 | .unshift\(\) |  |
 
+### Objects
 
+|  |  |
+| :--- | :--- |
+| .entries\(\) |  |
+| .keys\(\) |  |
+| .values\(\) |  |
 
