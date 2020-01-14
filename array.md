@@ -32,7 +32,7 @@ const names = new Array(); //longer way to create an array
 | [.find\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find) | The **`find()`** method returns the **value** of the **first element** in the provided array that satisfies the provided testing function. |
 | .findIndex\(\) |  |
 | .fill\(\) |  |
-| .filter\(\) |  |
+| [.filter\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) | The **`filter()`** method **creates a new array** with all elements that pass the test implemented by the provided function. |
 | [.forEach\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) | The **`forEach()`** method executes a provided function once for each array element. |
 | [.includes\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes) | The **`includes()`** method determines whether an array includes a certain value among its entries, returning `true` or `false` as appropriate. |
 | [.indexOf\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) | The **`indexOf()`** method returns the first index at which a given element can be found in the array, or -1 if it is not present. |
