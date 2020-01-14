@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [JavaScript gotcha: global variable assignment](https://gomakethings.com/javascript-gotcha-global-variable-assignment/?mc_cid=43f5caf85f&mc_eid=e9174ba77f) | 1/14/2020 | 1/14/2020 |
 | [A shorthand for adding to a number or string with vanilla JS](https://gomakethings.com/a-shorthand-for-adding-to-a-number-or-string-with-vanilla-js/?mc_cid=d32fa69d36&mc_eid=e9174ba77f) | 1/13/2020 | 1/13/2020 |
 | [Recursion with vanilla JavaScript](https://gomakethings.com/recursion-with-vanilla-javascript/?mc_cid=8abb1f59a9&mc_eid=e9174ba77f) | 1/12/2020 | 1/12/2020 |
 | [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2) | 1/8/2020 | 1/8/2020 |
