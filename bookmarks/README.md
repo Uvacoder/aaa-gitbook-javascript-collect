@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [No, a framework is not faster than vanilla JS DOM manipulation \(but it can be\)](https://gomakethings.com/no-a-framework-is-not-faster-than-vanilla-js-dom-manipulation-but-it-can-be/?mc_cid=91808e664b&mc_eid=e9174ba77f) | 1/15/2020 | 1/15/2020 |
 | [How to manipulate the DOM in Vanilla JavaScript](https://medium.com/free-code-camp/dom-manipulation-in-vanilla-js-2036a568dcd9) | 11/17/2019 | 1/14/2020 |
 | [JavaScript gotcha: global variable assignment](https://gomakethings.com/javascript-gotcha-global-variable-assignment/?mc_cid=43f5caf85f&mc_eid=e9174ba77f) | 1/14/2020 | 1/14/2020 |
 | [A shorthand for adding to a number or string with vanilla JS](https://gomakethings.com/a-shorthand-for-adding-to-a-number-or-string-with-vanilla-js/?mc_cid=d32fa69d36&mc_eid=e9174ba77f) | 1/13/2020 | 1/13/2020 |
