@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e) | 1/20/2020 | 1/20/2020 |
 | [What to Pay JavaScript Developers in 2020](https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b) | 1/18/2020 | 1/18/2020 |
 | [JavaScript gotcha: object.assign\(\) merges into the first object](https://gomakethings.com/javascript-gotcha-object.assign-merges-into-the-first-object/?mc_cid=02ce219760&mc_eid=e9174ba77f) | 1/16/2020 | 1/16/2020 |
 | [No, a framework is not faster than vanilla JS DOM manipulation \(but it can be\)](https://gomakethings.com/no-a-framework-is-not-faster-than-vanilla-js-dom-manipulation-but-it-can-be/?mc_cid=91808e664b&mc_eid=e9174ba77f) | 1/15/2020 | 1/15/2020 |
