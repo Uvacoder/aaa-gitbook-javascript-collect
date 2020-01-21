@@ -26,6 +26,7 @@
   * [Equal Heights](jquery/equal-heights.md)
 * [Keywords](keywords.md)
 * [Libraries](libraries.md)
+* [Loops](loops.md)
 * [Objects](objects/README.md)
   * [.\_\_proto\_\_](objects/.__proto__.md)
   * [Methods](objects/method/README.md)
