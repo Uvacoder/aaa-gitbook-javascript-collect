@@ -7,7 +7,20 @@
 | [Intro to Regex for Web Developers](https://dev.to/chrisachard/intro-to-regex-for-web-developers-2fj4) |  |  |
 | [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285) |  |  |
 
-```text
+{% code title="Regex" %}
+```javascript
+[^.!?] //matches any character that’s not a ., !, or ?
+[1–9]  //matches a digit between 1 to 9.
+*      //matches zero or more sequences of the preceding item
+\b     //matches at a position known as a “word boundary” (a position that’s either followed or preceded by an ASCII letter, digit, or underscore).\b matches at a position known as a “word boundary” (a position that’s either followed or preceded by an ASCII letter, digit, or underscore).
+\s     //matches a single whitespace character, including ASCII space, tab, line feed, carriage return, vertical tab, and form feed
+.      //matches any character that’s not a line break character
++      //matches the previous item one or more times
+?      //matches zero or one occurrence of the preceding item
+g      //tells the regex engine to match all occurrences rather than stopping after the first match
+i      //makes the search case-insensitive
 
+str.match(//gi);
 ```
+{% endcode %}
 
