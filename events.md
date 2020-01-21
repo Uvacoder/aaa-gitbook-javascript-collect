@@ -3,6 +3,7 @@
 |  |  |  |
 | :--- | :--- | :--- |
 | [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events?ck_subscriber_id=420572458#Mouse_events) | 1/6/2020 | 1/6/2020 |
+| [What is that third argument on the vanilla JS addEventListener\(\) method and when do you need it?](https://gomakethings.com/what-is-that-third-argument-on-the-vanilla-js-addeventlistener-method-and-when-do-you-need-it/?mc_cid=f225d05f77&mc_eid=e9174ba77f) | 1/21/2020 | 1/21/2020 |
 
 ![](.gitbook/assets/screen-shot-2019-12-23-at-1.34.23-pm.png)
 
