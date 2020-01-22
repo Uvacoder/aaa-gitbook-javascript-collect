@@ -28,6 +28,7 @@
 * [Keywords](keywords.md)
 * [Libraries](libraries.md)
 * [Loops](loops.md)
+* [Numbers](numbers.md)
 * [Objects](objects/README.md)
   * [.\_\_proto\_\_](objects/.__proto__.md)
   * [Methods](objects/method/README.md)
