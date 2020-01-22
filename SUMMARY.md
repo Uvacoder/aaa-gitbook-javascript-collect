@@ -30,7 +30,7 @@
 * [Loops](loops.md)
 * [Numbers](numbers.md)
 * [Objects](objects/README.md)
-  * [Methods](objects/method.md)
+  * [Methods](objects/method/README.md)
   * [Maps](objects/maps.md)
 * [Operators](operators.md)
 * [Polyfill](polyfill.md)
