@@ -4,6 +4,8 @@
 | :--- | :--- |
 | [https://epoch.now.sh/](https://epoch.now.sh/) |  |
 
+### Static methods
+
 |  |  |  |
 | :--- | :--- | :--- |
 | .now\(\) |  |  |
