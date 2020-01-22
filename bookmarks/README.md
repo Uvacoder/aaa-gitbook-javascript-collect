@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [The 7 Steps to Becoming a Web Developer](https://medium.com/better-programming/how-to-be-a-web-developer-in-7-steps-d0026719732a) | 1/22/2020 |  |
 | [How to stop using console.log\(\) and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff) | 1/21/2020 | 1/21/2020 |
 | [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e) | 1/20/2020 | 1/20/2020 |
 | [What to Pay JavaScript Developers in 2020](https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b) | 1/18/2020 | 1/18/2020 |
