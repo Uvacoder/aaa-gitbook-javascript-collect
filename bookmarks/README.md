@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [You Must Understand These 14 JavaScript Functions](https://medium.com/javascript-in-plain-english/you-must-understand-these-14-javasript-functions-1f4fa1c620e2) | 1/23/2020 | 1/23/2020 |
 | [The 7 Steps to Becoming a Web Developer](https://medium.com/better-programming/how-to-be-a-web-developer-in-7-steps-d0026719732a) | 1/22/2020 |  |
 | [How to stop using console.log\(\) and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff) | 1/21/2020 | 1/21/2020 |
 | [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e) | 1/20/2020 | 1/20/2020 |
