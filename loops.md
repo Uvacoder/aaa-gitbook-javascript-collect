@@ -32,9 +32,18 @@ for(const prop in john) {
 console.log(prop);
 }
 
-//while
-while() {
+//while loop - runs until condition is false
+let cool = true;
+let i = 0;
+while(cool === true) {
+  console.log('You are cool');
+  i++;
+  if(i > 100) {
+    cool = false;
+  }
 }
+
+//do while loop
 ```
 
 >
