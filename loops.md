@@ -11,6 +11,11 @@
 ```javascript
 const numbers = [2, 34, 3, 23, 42, 3, 1, 65, 364, 5, 645, 6];
 const name = 'John Doe 🙋‍♂️';
+const john = {
+  name: 'John',
+  age: 100,
+  cool: true,
+}
 
 //for - loop
 for (let i = 0; i < numbers.length; i++) {
@@ -23,12 +28,14 @@ console.log(letter);
 }
 
 //for in - used for looping over keys of an object
-for(const letter in name) {
-console.log(letter);
+for(const prop in john) {
+console.log(prop);
 }
 
 //while
 while() {
 }
 ```
+
+>
 
