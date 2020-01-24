@@ -13,7 +13,7 @@ const numbers = [2, 34, 3, 23, 42, 3, 1, 65, 364, 5, 645, 6];
 
 //for
 for (let i = 0; i < numbers.length; i++) {
-console.log(i);
+console.log(numbers[i]);
 }
 
 //for of
