@@ -34,7 +34,7 @@ console.log(prop);
 
 //while loop - runs until condition is false
 let cool = true;
-let i = 0;
+let i = 1;
 while(cool === true) {
   console.log('You are cool');
   i++;
