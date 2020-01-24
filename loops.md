@@ -43,7 +43,12 @@ while(cool === true) {
   }
 }
 
-//do while loop
+//do while loop - will always run first do condition
+do {
+
+} while () {
+
+}
 ```
 
 >
