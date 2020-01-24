@@ -12,18 +12,23 @@
 const numbers = [2, 34, 3, 23, 42, 3, 1, 65, 364, 5, 645, 6];
 const name = 'John Doe 🙋‍♂️';
 
-//for
+//for - loop
 for (let i = 0; i < numbers.length; i++) {
 console.log(numbers[i]);
 }
 
-//for of
+//for of - promises/await
 for(const letter of name) {
 console.log(letter);
 }
 
-//for in
+//for in - used for looping over keys of an object
+for(const letter in name) {
+console.log(letter);
+}
 
 //while
+while() {
+}
 ```
 
