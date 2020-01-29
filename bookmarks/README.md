@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [Getting keyboard-focusable elements](https://zellwk.com/blog/keyboard-focusable-elements/?ck_subscriber_id=420572458) | 1/29/2020 | 1/29/2020 |
 | [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/?mc_cid=0c7c9cf3f5&mc_eid=e9174ba77f) | 1/27/2020 | 1/27/2020 |
 | [You Must Understand These 14 JavaScript Functions](https://medium.com/javascript-in-plain-english/you-must-understand-these-14-javasript-functions-1f4fa1c620e2) | 1/23/2020 | 1/23/2020 |
 | [The 7 Steps to Becoming a Web Developer](https://medium.com/better-programming/how-to-be-a-web-developer-in-7-steps-d0026719732a) | 1/22/2020 |  |
