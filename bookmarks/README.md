@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [How to detect when the browser URL changes with vanilla JS](https://gomakethings.com/how-to-detect-when-the-browser-url-changes-with-vanilla-js/?mc_cid=bea45f369d&mc_eid=e9174ba77f) | 1/30/2020 | 1/30/2020 |
 | [How to update the browser URL without refreshing the page using the vanilla JS History API](https://gomakethings.com/how-to-update-the-browser-url-without-refreshing-the-page-using-the-vanilla-js-history-api/?mc_cid=af239eebdc&mc_eid=e9174ba77f) | 1/29/2020 | 1/29/2020 |
 | [Getting keyboard-focusable elements](https://zellwk.com/blog/keyboard-focusable-elements/?ck_subscriber_id=420572458) | 1/29/2020 | 1/29/2020 |
 | [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/?mc_cid=0c7c9cf3f5&mc_eid=e9174ba77f) | 1/27/2020 | 1/27/2020 |
