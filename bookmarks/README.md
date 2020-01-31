@@ -14,6 +14,7 @@
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [The anatomy of a for loop in vanilla JS \(and when you would want to use it instead of Array.forEach\(\)\)](https://gomakethings.com/the-anatomy-of-a-for-loop-in-vanilla-js-and-when-you-would-want-to-use-it-instead-of-array.foreach/?mc_cid=bd44bc2887&mc_eid=e9174ba77f) | 1/31/2020 | 1/31/2020 |
 | [How to detect when the browser URL changes with vanilla JS](https://gomakethings.com/how-to-detect-when-the-browser-url-changes-with-vanilla-js/?mc_cid=bea45f369d&mc_eid=e9174ba77f) | 1/30/2020 | 1/30/2020 |
 | [How to update the browser URL without refreshing the page using the vanilla JS History API](https://gomakethings.com/how-to-update-the-browser-url-without-refreshing-the-page-using-the-vanilla-js-history-api/?mc_cid=af239eebdc&mc_eid=e9174ba77f) | 1/29/2020 | 1/29/2020 |
 | [Getting keyboard-focusable elements](https://zellwk.com/blog/keyboard-focusable-elements/?ck_subscriber_id=420572458) | 1/29/2020 | 1/29/2020 |
