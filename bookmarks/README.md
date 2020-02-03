@@ -10,10 +10,11 @@
 | [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 31/85 |
 | [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
 
-### Articles
+### Articles 2020
 
 | Title/link | Added | Read/complete |
 | :--- | :--- | :--- |
+| [How to replace the current URL in the browser's history with the vanilla JS replaceState\(\) method](https://gomakethings.com/how-to-replace-the-current-url-in-the-browsers-history-with-the-vanilla-js-replacestate-method/?mc_cid=30040ffd31&mc_eid=e9174ba77f) | 2/3 | 2/3 |
 | [The anatomy of a for loop in vanilla JS \(and when you would want to use it instead of Array.forEach\(\)\)](https://gomakethings.com/the-anatomy-of-a-for-loop-in-vanilla-js-and-when-you-would-want-to-use-it-instead-of-array.foreach/?mc_cid=bd44bc2887&mc_eid=e9174ba77f) | 1/31/2020 | 1/31/2020 |
 | [How to detect when the browser URL changes with vanilla JS](https://gomakethings.com/how-to-detect-when-the-browser-url-changes-with-vanilla-js/?mc_cid=bea45f369d&mc_eid=e9174ba77f) | 1/30/2020 | 1/30/2020 |
 | [How to update the browser URL without refreshing the page using the vanilla JS History API](https://gomakethings.com/how-to-update-the-browser-url-without-refreshing-the-page-using-the-vanilla-js-history-api/?mc_cid=af239eebdc&mc_eid=e9174ba77f) | 1/29/2020 | 1/29/2020 |
@@ -38,6 +39,11 @@
 | [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 | 1/3/2020 |
 | [Using multiple selectors with querySelector\(\), querySelectorAll\(\), closest\(\), and matches\(\)](https://gomakethings.com/using-multiple-selectors-with-queryselector-queryselectorall-closest-and-matches/?mc_cid=14d796d5f8&mc_eid=e9174ba77f) | 1/2/2020 | 1/2/2020 |
 | [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 | 1/2/2020 |
+
+### 2019
+
+|  |  |  |
+| :--- | :--- | :--- |
 | [Different ways to learn JavaScript](https://gomakethings.com/different-ways-to-learn-javascript/?mc_cid=afa73cf7f8&mc_eid=e9174ba77f) | 12/26/2019 | 12/26/2019 |
 | [A List of Interesting Operators in JavaScript](http://pop.frontendweekly.co/cNNMst?http://pop.frontendweekly.co/cNNMst) | 12/18/2019 | 12/18/2019 |
 | [Full JavaScript mock interview with a professional JavaScript developer!](https://dev.to/bettercodingacademy/full-javascript-mock-interview-with-a-professional-javascript-developer-2e0a) | 12/18/2019 | 12/18/2019 |
