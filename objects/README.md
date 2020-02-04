@@ -62,3 +62,7 @@ Object.assign({}, person1); //old way to copy object
 | .setInterval\(\) |  |
 | .setTimeout\(\) |  |
 
+|  |  |
+| :--- | :--- |
+| [Converting an object into an array with vanilla JS](https://gomakethings.com/converting-an-object-into-an-array-with-vanilla-js/?mc_cid=88c72ee7ee&mc_eid=e9174ba77f) | 2/4 |
+
