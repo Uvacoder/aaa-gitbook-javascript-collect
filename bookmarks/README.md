@@ -12,33 +12,33 @@
 
 ### Articles 2020
 
-| Title/link | Added | Read/complete |
-| :--- | :--- | :--- |
-| [How to replace the current URL in the browser's history with the vanilla JS replaceState\(\) method](https://gomakethings.com/how-to-replace-the-current-url-in-the-browsers-history-with-the-vanilla-js-replacestate-method/?mc_cid=30040ffd31&mc_eid=e9174ba77f) | 2/3 | 2/3 |
-| [The anatomy of a for loop in vanilla JS \(and when you would want to use it instead of Array.forEach\(\)\)](https://gomakethings.com/the-anatomy-of-a-for-loop-in-vanilla-js-and-when-you-would-want-to-use-it-instead-of-array.foreach/?mc_cid=bd44bc2887&mc_eid=e9174ba77f) | 1/31/2020 | 1/31/2020 |
-| [How to detect when the browser URL changes with vanilla JS](https://gomakethings.com/how-to-detect-when-the-browser-url-changes-with-vanilla-js/?mc_cid=bea45f369d&mc_eid=e9174ba77f) | 1/30/2020 | 1/30/2020 |
-| [How to update the browser URL without refreshing the page using the vanilla JS History API](https://gomakethings.com/how-to-update-the-browser-url-without-refreshing-the-page-using-the-vanilla-js-history-api/?mc_cid=af239eebdc&mc_eid=e9174ba77f) | 1/29/2020 | 1/29/2020 |
-| [Getting keyboard-focusable elements](https://zellwk.com/blog/keyboard-focusable-elements/?ck_subscriber_id=420572458) | 1/29/2020 | 1/29/2020 |
-| [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/?mc_cid=0c7c9cf3f5&mc_eid=e9174ba77f) | 1/27/2020 | 1/27/2020 |
-| [You Must Understand These 14 JavaScript Functions](https://medium.com/javascript-in-plain-english/you-must-understand-these-14-javasript-functions-1f4fa1c620e2) | 1/23/2020 | 1/23/2020 |
-| [The 7 Steps to Becoming a Web Developer](https://medium.com/better-programming/how-to-be-a-web-developer-in-7-steps-d0026719732a) | 1/22/2020 |  |
-| [How to stop using console.log\(\) and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff) | 1/21/2020 | 1/21/2020 |
-| [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e) | 1/20/2020 | 1/20/2020 |
-| [What to Pay JavaScript Developers in 2020](https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b) | 1/18/2020 | 1/18/2020 |
-| [JavaScript gotcha: object.assign\(\) merges into the first object](https://gomakethings.com/javascript-gotcha-object.assign-merges-into-the-first-object/?mc_cid=02ce219760&mc_eid=e9174ba77f) | 1/16/2020 | 1/16/2020 |
-| [No, a framework is not faster than vanilla JS DOM manipulation \(but it can be\)](https://gomakethings.com/no-a-framework-is-not-faster-than-vanilla-js-dom-manipulation-but-it-can-be/?mc_cid=91808e664b&mc_eid=e9174ba77f) | 1/15/2020 | 1/15/2020 |
-| [How to manipulate the DOM in Vanilla JavaScript](https://medium.com/free-code-camp/dom-manipulation-in-vanilla-js-2036a568dcd9) | 11/17/2019 | 1/14/2020 |
-| [JavaScript gotcha: global variable assignment](https://gomakethings.com/javascript-gotcha-global-variable-assignment/?mc_cid=43f5caf85f&mc_eid=e9174ba77f) | 1/14/2020 | 1/14/2020 |
-| [A shorthand for adding to a number or string with vanilla JS](https://gomakethings.com/a-shorthand-for-adding-to-a-number-or-string-with-vanilla-js/?mc_cid=d32fa69d36&mc_eid=e9174ba77f) | 1/13/2020 | 1/13/2020 |
-| [Recursion with vanilla JavaScript](https://gomakethings.com/recursion-with-vanilla-javascript/?mc_cid=8abb1f59a9&mc_eid=e9174ba77f) | 1/12/2020 | 1/12/2020 |
-| [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2) | 1/8/2020 | 1/8/2020 |
-| [JavaScript Shorthand Coding Techniques — Part 1](http://pop.frontendweekly.co/SphJPN?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_184) | 1/8/2020 | 1/8/2020 |
-| [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co) | 1/6/2020 | 1/6/2020 |
-| [How to set default values when destructuring with JavaScript](https://gomakethings.com/how-to-set-default-values-when-destructuring-with-javascript/?mc_cid=6e3c5f731a&mc_eid=e9174ba77f) | 1/6/2020 | 1/6/2020 |
-| [JavaScript Interview Questions You Need To Know — Part II](https://medium.com/javascript-in-plain-english/javascript-interview-questions-you-need-to-know-part-ii-e1e49ea64bc3) | 1/4/2020 | 1/4/2020 |
-| [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 | 1/3/2020 |
-| [Using multiple selectors with querySelector\(\), querySelectorAll\(\), closest\(\), and matches\(\)](https://gomakethings.com/using-multiple-selectors-with-queryselector-queryselectorall-closest-and-matches/?mc_cid=14d796d5f8&mc_eid=e9174ba77f) | 1/2/2020 | 1/2/2020 |
-| [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 | 1/2/2020 |
+| Title/link | date |
+| :--- | :--- |
+| [How to replace the current URL in the browser's history with the vanilla JS replaceState\(\) method](https://gomakethings.com/how-to-replace-the-current-url-in-the-browsers-history-with-the-vanilla-js-replacestate-method/?mc_cid=30040ffd31&mc_eid=e9174ba77f) | 2/3 |
+| [The anatomy of a for loop in vanilla JS \(and when you would want to use it instead of Array.forEach\(\)\)](https://gomakethings.com/the-anatomy-of-a-for-loop-in-vanilla-js-and-when-you-would-want-to-use-it-instead-of-array.foreach/?mc_cid=bd44bc2887&mc_eid=e9174ba77f) | 1/31/2020 |
+| [How to detect when the browser URL changes with vanilla JS](https://gomakethings.com/how-to-detect-when-the-browser-url-changes-with-vanilla-js/?mc_cid=bea45f369d&mc_eid=e9174ba77f) | 1/30/2020 |
+| [How to update the browser URL without refreshing the page using the vanilla JS History API](https://gomakethings.com/how-to-update-the-browser-url-without-refreshing-the-page-using-the-vanilla-js-history-api/?mc_cid=af239eebdc&mc_eid=e9174ba77f) | 1/29/2020 |
+| [Getting keyboard-focusable elements](https://zellwk.com/blog/keyboard-focusable-elements/?ck_subscriber_id=420572458) | 1/29/2020 |
+| [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/?mc_cid=0c7c9cf3f5&mc_eid=e9174ba77f) | 1/27/2020 |
+| [You Must Understand These 14 JavaScript Functions](https://medium.com/javascript-in-plain-english/you-must-understand-these-14-javasript-functions-1f4fa1c620e2) | 1/23/2020 |
+| [The 7 Steps to Becoming a Web Developer](https://medium.com/better-programming/how-to-be-a-web-developer-in-7-steps-d0026719732a) | 1/22/2020 |
+| [How to stop using console.log\(\) and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff) | 1/21/2020 |
+| [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e) | 1/20/2020 |
+| [What to Pay JavaScript Developers in 2020](https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b) | 1/18/2020 |
+| [JavaScript gotcha: object.assign\(\) merges into the first object](https://gomakethings.com/javascript-gotcha-object.assign-merges-into-the-first-object/?mc_cid=02ce219760&mc_eid=e9174ba77f) | 1/16/2020 |
+| [No, a framework is not faster than vanilla JS DOM manipulation \(but it can be\)](https://gomakethings.com/no-a-framework-is-not-faster-than-vanilla-js-dom-manipulation-but-it-can-be/?mc_cid=91808e664b&mc_eid=e9174ba77f) | 1/15/2020 |
+| [How to manipulate the DOM in Vanilla JavaScript](https://medium.com/free-code-camp/dom-manipulation-in-vanilla-js-2036a568dcd9) | 11/17/2019 |
+| [JavaScript gotcha: global variable assignment](https://gomakethings.com/javascript-gotcha-global-variable-assignment/?mc_cid=43f5caf85f&mc_eid=e9174ba77f) | 1/14/2020 |
+| [A shorthand for adding to a number or string with vanilla JS](https://gomakethings.com/a-shorthand-for-adding-to-a-number-or-string-with-vanilla-js/?mc_cid=d32fa69d36&mc_eid=e9174ba77f) | 1/13/2020 |
+| [Recursion with vanilla JavaScript](https://gomakethings.com/recursion-with-vanilla-javascript/?mc_cid=8abb1f59a9&mc_eid=e9174ba77f) | 1/12/2020 |
+| [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2) | 1/8/2020 |
+| [JavaScript Shorthand Coding Techniques — Part 1](http://pop.frontendweekly.co/SphJPN?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_184) | 1/8/2020 |
+| [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co) | 1/6/2020 |
+| [How to set default values when destructuring with JavaScript](https://gomakethings.com/how-to-set-default-values-when-destructuring-with-javascript/?mc_cid=6e3c5f731a&mc_eid=e9174ba77f) | 1/6/2020 |
+| [JavaScript Interview Questions You Need To Know — Part II](https://medium.com/javascript-in-plain-english/javascript-interview-questions-you-need-to-know-part-ii-e1e49ea64bc3) | 1/4/2020 |
+| [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 |
+| [Using multiple selectors with querySelector\(\), querySelectorAll\(\), closest\(\), and matches\(\)](https://gomakethings.com/using-multiple-selectors-with-queryselector-queryselectorall-closest-and-matches/?mc_cid=14d796d5f8&mc_eid=e9174ba77f) | 1/2/2020 |
+| [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 |
 
 ### 2019
 
