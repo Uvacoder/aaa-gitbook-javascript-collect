@@ -14,6 +14,9 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [What does the Object.getOwnPropertyNames\(\) method do \(and how is it different from the Object.keys\(\) method\)?](https://gomakethings.com/what-does-the-object.getownpropertynames-method-do-and-how-is-it-different-from-the-object.keys-method/?mc_cid=c03b26819e&mc_eid=e9174ba77f) | 2/5 |
+| [Building a login system with HTML, CSS, and JavaScript](https://zellwk.com/blog/frontend-login-system/?ck_subscriber_id=420572458) | 2/5 |
+| [JavaScript Shorthand Coding Techniques](https://levelup.gitconnected.com/javascript-shorthand-coding-techniques-13c15591113e) | 2/5 |
 | [How to replace the current URL in the browser's history with the vanilla JS replaceState\(\) method](https://gomakethings.com/how-to-replace-the-current-url-in-the-browsers-history-with-the-vanilla-js-replacestate-method/?mc_cid=30040ffd31&mc_eid=e9174ba77f) | 2/3 |
 | [The anatomy of a for loop in vanilla JS \(and when you would want to use it instead of Array.forEach\(\)\)](https://gomakethings.com/the-anatomy-of-a-for-loop-in-vanilla-js-and-when-you-would-want-to-use-it-instead-of-array.foreach/?mc_cid=bd44bc2887&mc_eid=e9174ba77f) | 1/31/2020 |
 | [How to detect when the browser URL changes with vanilla JS](https://gomakethings.com/how-to-detect-when-the-browser-url-changes-with-vanilla-js/?mc_cid=bea45f369d&mc_eid=e9174ba77f) | 1/30/2020 |
