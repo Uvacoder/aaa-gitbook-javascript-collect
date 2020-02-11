@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Declaring variables](https://gomakethings.com/declaring-variables/?mc_cid=6f90403b07&mc_eid=e9174ba77f) | 2/11 |
 | [What is type coercion in vanilla JavaScript?](https://gomakethings.com/what-is-type-coercion-in-vanilla-javascript/?mc_cid=f07a047081&mc_eid=e9174ba77f) | 2/10 |
 | [ES6 Cool stuffs — A big fat Arrow](https://medium.com/front-end-weekly/es6-cool-stuffs-a-big-fat-arrow-c01e3d7b5357) | 2/8 |
 | [What does the Object.getOwnPropertyNames\(\) method do \(and how is it different from the Object.keys\(\) method\)?](https://gomakethings.com/what-does-the-object.getownpropertynames-method-do-and-how-is-it-different-from-the-object.keys-method/?mc_cid=c03b26819e&mc_eid=e9174ba77f) | 2/5 |
