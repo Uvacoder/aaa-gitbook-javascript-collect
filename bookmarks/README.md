@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Web Components will replace your frontend framework](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c) | 2/12 |
 | [How I improve my JavaScript Coding Skill every day](https://medium.com/javascript-in-plain-english/how-i-improve-my-javascript-coding-skill-every-day-37ccf2feacf4) | 2/12 |
 | [Declaring variables](https://gomakethings.com/declaring-variables/?mc_cid=6f90403b07&mc_eid=e9174ba77f) | 2/11 |
 | [What is type coercion in vanilla JavaScript?](https://gomakethings.com/what-is-type-coercion-in-vanilla-javascript/?mc_cid=f07a047081&mc_eid=e9174ba77f) | 2/10 |
