@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How I improve my JavaScript Coding Skill every day](https://medium.com/javascript-in-plain-english/how-i-improve-my-javascript-coding-skill-every-day-37ccf2feacf4) | 2/12 |
 | [Declaring variables](https://gomakethings.com/declaring-variables/?mc_cid=6f90403b07&mc_eid=e9174ba77f) | 2/11 |
 | [What is type coercion in vanilla JavaScript?](https://gomakethings.com/what-is-type-coercion-in-vanilla-javascript/?mc_cid=f07a047081&mc_eid=e9174ba77f) | 2/10 |
 | [ES6 Cool stuffs — A big fat Arrow](https://medium.com/front-end-weekly/es6-cool-stuffs-a-big-fat-arrow-c01e3d7b5357) | 2/8 |
