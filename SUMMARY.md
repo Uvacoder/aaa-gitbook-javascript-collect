@@ -2,6 +2,7 @@
 
 * [Pages](README.md)
 * [Animation](animation/README.md)
+  * [API](animation/api.md)
   * [SVG](animation/svg/README.md)
     * [Greensock](animation/svg/greensock.md)
 * [Array](array.md)
