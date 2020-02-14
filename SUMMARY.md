@@ -2,9 +2,9 @@
 
 * [Pages](README.md)
 * [Animation](animation/README.md)
-  * [API](animation/api.md)
   * [SVG](animation/svg/README.md)
     * [Greensock](animation/svg/greensock.md)
+* [API](api.md)
 * [Array](array.md)
 * [Bundlers](bundlers/README.md)
   * [Parcel](bundlers/parcel.md)

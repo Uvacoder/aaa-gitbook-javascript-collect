@@ -50,6 +50,16 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/dispatchEvent">.dispatchEvent()</a>
+      </td>
+      <td style="text-align:left">Dispatches an <a href="https://developer.mozilla.org/en-US/docs/Web/API/Event"><code>Event</code></a> at
+        the specified <a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget"><code>EventTarget</code></a>,
+        (synchronously) invoking the affected <a href="https://developer.mozilla.org/en-US/docs/Web/API/EventListener"><code>EventListener</code></a>s
+        in the appropriate order. The normal event processing rules (including
+        the capturing and optional bubbling phase) also apply to events dispatched
+        manually with <code>dispatchEvent()</code>.</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/classList">Element.classList()</a>
       </td>
       <td style="text-align:left">The <b><code>Element.classList</code></b> is a read-only property that returns

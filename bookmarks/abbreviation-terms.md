@@ -89,6 +89,12 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">iterable</td>
+      <td style="text-align:left">data structures which provide a mechanism to allow other data consumers
+        to publicly access its elements in a sequential manner.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/Method">Method</a>
       </td>
       <td style="text-align:left">A method is a function which is a property of an object. There are two
