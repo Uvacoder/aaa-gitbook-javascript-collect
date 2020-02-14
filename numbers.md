@@ -1,9 +1,10 @@
 # Numbers
 
-### Math
+### [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 |  |  |
 | :--- | :--- |
+| .abs\(\) |  |
 | .ceil\(\) |  |
 | [.floor\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) | The **`Math.floor()`** function returns the largest integer less than or equal to a given number. |
 | .max\(\) |  |
