@@ -14,7 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
-|  |  |
+| [Creating an Animated Gauge Chart with Vanilla Javascript](https://medium.com/javascript-in-plain-english/creating-an-animated-gauge-chart-with-vanilla-javascript-38d1d7e81b2b) | 2/15 |
 | [Resources for building a JAMStack website or web app](https://gomakethings.com/resources-for-building-a-jamstack-website-or-web-app/?mc_cid=21360dc126&mc_eid=e9174ba77f) | 2/14 |
 | [Web Components will replace your frontend framework](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c) | 2/12 |
 | [How I improve my JavaScript Coding Skill every day](https://medium.com/javascript-in-plain-english/how-i-improve-my-javascript-coding-skill-every-day-37ccf2feacf4) | 2/12 |
