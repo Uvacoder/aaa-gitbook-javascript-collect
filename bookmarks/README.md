@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Using let to declare variables](https://gomakethings.com/using-let-to-declare-variables/?mc_cid=28a799a9cd&mc_eid=e9174ba77f) | 2/17 |
 | [Creating an Animated Gauge Chart with Vanilla Javascript](https://medium.com/javascript-in-plain-english/creating-an-animated-gauge-chart-with-vanilla-javascript-38d1d7e81b2b) | 2/15 |
 | [Resources for building a JAMStack website or web app](https://gomakethings.com/resources-for-building-a-jamstack-website-or-web-app/?mc_cid=21360dc126&mc_eid=e9174ba77f) | 2/14 |
 | [Web Components will replace your frontend framework](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c) | 2/12 |
