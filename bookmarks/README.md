@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [7 JavaScript Utility Functions to Improve Your Efficiency](https://medium.com/javascript-in-plain-english/7-javascript-utility-functions-to-improve-your-efficiency-79d27132f186) | 2/17 |
 | [Using let to declare variables](https://gomakethings.com/using-let-to-declare-variables/?mc_cid=28a799a9cd&mc_eid=e9174ba77f) | 2/17 |
 | [Creating an Animated Gauge Chart with Vanilla Javascript](https://medium.com/javascript-in-plain-english/creating-an-animated-gauge-chart-with-vanilla-javascript-38d1d7e81b2b) | 2/15 |
 | [Resources for building a JAMStack website or web app](https://gomakethings.com/resources-for-building-a-jamstack-website-or-web-app/?mc_cid=21360dc126&mc_eid=e9174ba77f) | 2/14 |
