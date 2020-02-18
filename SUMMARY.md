@@ -43,6 +43,7 @@
 * [Scope](scope/README.md)
   * [Variable definition & scope](scope/variable-definition-and-scope.md)
 * [Starter Files](starter-files/README.md)
+  * [.gitignore](starter-files/.gitignore.md)
   * [README.md](starter-files/readme.md.md)
 * [String](string/README.md)
   * [.split\(\)](string/.split.md)
