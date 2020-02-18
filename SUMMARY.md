@@ -42,6 +42,8 @@
 * [Sandboxes](sandboxes.md)
 * [Scope](scope/README.md)
   * [Variable definition & scope](scope/variable-definition-and-scope.md)
+* [Starter Files](starter-files/README.md)
+  * [README.md](starter-files/readme.md.md)
 * [String](string/README.md)
   * [.split\(\)](string/.split.md)
 * [Tutorials/tests](tutorials-tests/README.md)
