@@ -43,6 +43,7 @@
 * [Scope](scope/README.md)
   * [Variable definition & scope](scope/variable-definition-and-scope.md)
 * [Starter Files](starter-files/README.md)
+  * [webpack.config.js](starter-files/webpack.config.js.md)
   * [.gitignore](starter-files/.gitignore.md)
   * [.htaccess](starter-files/.htaccess.md)
   * [README.md](starter-files/readme.md.md)
