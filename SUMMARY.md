@@ -44,6 +44,7 @@
   * [Variable definition & scope](scope/variable-definition-and-scope.md)
 * [Starter Files](starter-files/README.md)
   * [.gitignore](starter-files/.gitignore.md)
+  * [.htaccess](starter-files/.htaccess.md)
   * [README.md](starter-files/readme.md.md)
 * [String](string/README.md)
   * [.split\(\)](string/.split.md)
