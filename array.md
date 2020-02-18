@@ -27,10 +27,10 @@ const names = new Array(); //longer way to create an array
 
 |  |  |
 | :--- | :--- |
-| .every\(\) |  |
-| .flat\(\) |  |
+| [.every\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every) | The **`every()`** method tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value. |
+| [.flat\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat) | The **`flat()`** method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth. |
 | [.find\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find) | The **`find()`** method returns the **value** of the **first element** in the provided array that satisfies the provided testing function. |
-| .findIndex\(\) |  |
+| [.findIndex\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex) | The **`findIndex()`** method returns the **index** of the first element in the array **that satisfies the provided testing function**. Otherwise, it returns -1, indicating that no element passed the test. |
 | [.fill\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill) | The **`fill()`** method changes all elements in an array to a static value, from a start index \(default `0`\) to an end index \(default `array.length`\). It returns the modified array. |
 | [.filter\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) | The **`filter()`** method **creates a new array** with all elements that pass the test implemented by the provided function. |
 | [.forEach\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) | The **`forEach()`** method executes a provided function once for each array element. |
@@ -38,7 +38,7 @@ const names = new Array(); //longer way to create an array
 | [.includes\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes) | The **`includes()`** method determines whether an array includes a certain value among its entries, returning `true` or `false` as appropriate. |
 | [.indexOf\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) | The **`indexOf()`** method returns the first index at which a given element can be found in the array, or -1 if it is not present. |
 | [.join\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join) | The **`join()`** method creates and returns a new string by concatenating all of the elements in an array \(or an [array-like object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections#Working_with_array-like_objects)\), separated by commas or a specified separator string. If the array has only one item, then that item will be returned without using the separator. |
-| .keys\(\) |  |
+| [.keys\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys) | The **`keys()`** method returns a new **`Array Iterator`** object that contains the keys for each index in the array. |
 | [.lastIndexOf\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf) | The **`lastIndexOf()`** method returns the index within the calling [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) object of the last occurrence of the specified value, searching backwards from `fromIndex`. Returns -1 if the value is not found. |
 | [.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length) | The length property of an object which is an instance of type Array sets or returns the number of elements in that array. The value is an unsigned, 32-bit integer that is always numerically greater than the highest index in the array. |
 | [.map\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) | The **`map()`** method creates a new array with the results of calling a provided function on every element in the calling array. |
@@ -53,7 +53,7 @@ const names = new Array(); //longer way to create an array
 | [.sort\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) | The **`sort()`** method sorts the elements of an array [_in place_](https://en.wikipedia.org/wiki/In-place_algorithm) and returns the sorted array. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values. |
 | [.splice\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) | The **`splice()`** method changes the contents of an array by removing or replacing existing elements and/or adding new elements [in place](https://en.wikipedia.org/wiki/In-place_algorithm). |
 | [.split\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) | The **`split()`** method turns a [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) into an array of strings, by separating the string at each instance of a specified separator string. |
-| .unshift\(\) |  |
+| [.unshift\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift) | The **`unshift()`** method adds one or more elements to the beginning of an array and returns the new length of the array. |
 
 ### Objects
 
