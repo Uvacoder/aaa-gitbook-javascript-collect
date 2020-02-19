@@ -72,8 +72,11 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">.firstElementChild()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/firstElementChild">.firstElementChild()</a>
+      </td>
+      <td style="text-align:left">The <b><code>ParentNode.firstElementChild</code></b> read-only property
+        returns the object&apos;s first child <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element"><code>Element</code></a>,
+        or <code>null</code> if there are no child elements.</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById">.getElementbyId()</a>
@@ -90,8 +93,11 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">.lastElementChild()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/lastElementChild">.lastElementChild()</a>
+      </td>
+      <td style="text-align:left">The <b><code>ParentNode.lastElementChild</code></b> read-only property returns
+        the object&apos;s last child <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element"><code>Element</code></a> or <code>null</code> if
+        there are no child elements.</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML">.innerHTML()</a>
