@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [let, hoisting, and the temporal dead zone with vanilla JS](https://gomakethings.com/let-hoisting-and-the-temporal-dead-zone-with-vanilla-js/?mc_cid=ae260a95e5&mc_eid=e9174ba77f) | 2/20 |
 | [7 JavaScript Utility Functions to Improve Your Efficiency](https://medium.com/javascript-in-plain-english/7-javascript-utility-functions-to-improve-your-efficiency-79d27132f186) | 2/17 |
 | [Using let to declare variables](https://gomakethings.com/using-let-to-declare-variables/?mc_cid=28a799a9cd&mc_eid=e9174ba77f) | 2/17 |
 | [Creating an Animated Gauge Chart with Vanilla Javascript](https://medium.com/javascript-in-plain-english/creating-an-animated-gauge-chart-with-vanilla-javascript-38d1d7e81b2b) | 2/15 |
