@@ -71,6 +71,28 @@ if (count === 1) {
         // if something went wrong, we can reject this promise;
       });
     }
+    
+        makePizza(['pepperoni'])
+      .then(function (pizza) {
+        console.log(pizza);
+        return makePizza(['ham', 'cheese']);
+      })
+      .then(function (pizza) {
+        console.log(pizza);
+        return makePizza(['hot peppers', 'onion', 'feta']);
+      })
+      .then(function (pizza) {
+        console.log(pizza);
+        return makePizza(['pineapple']);
+      })
+      .then(function (pizza) {
+        console.log(pizza);
+        return makePizza(['one', 'two', 'three', 'four', 'one', 'two', 'three', 'four', 'one', 'two', 'three', 'four']);
+      }).then(pizza => {
+        console.log('All done! here is your last pizza');
+        console.log(pizza);
+      })
+      .catch(handleError)
 ```
 
 |  |  |
