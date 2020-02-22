@@ -13,7 +13,7 @@
 |  |  |
 | :--- | :--- |
 | .apply\(\) |  |
-| .bind\(\) | returns copy of function where `this` is set to the first argument passed into `.bind()` |
+| [.bind\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind) | returns copy of function where `this` is set to the first argument passed into `.bind()` |
 | .call\(\) |  |
 
 ### `Hoisting` 
