@@ -54,3 +54,7 @@ if (count === 1) {
 | [.setTimeout\(\)](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) |  |
 |  |  |
 
+|  |  |
+| :--- | :--- |
+| [What the heck is the event loop anyway? \| Philip Roberts \| JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) | 2/21 |
+
