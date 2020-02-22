@@ -12,9 +12,9 @@
 
 |  |  |
 | :--- | :--- |
-| .apply\(\) |  |
+| [.apply\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply) | The **`apply()`** method calls a function with a given `this` value, and `arguments` provided as an array \(or an [array-like object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections#Working_with_array-like_objects)\).  |
 | [.bind\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind) | returns copy of function where `this` is set to the first argument passed into `.bind()` |
-| .call\(\) |  |
+| [.call\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call) | The **`call()`** method calls a function with a given `this` value and arguments provided individually. |
 
 ### `Hoisting` 
 
