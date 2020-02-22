@@ -93,6 +93,17 @@ if (count === 1) {
         console.log(pizza);
       })
       .catch(handleError)
+      
+      //catch handle error
+      function handleError(err) {
+      console.log('Ohh noooo!!');
+      console.log(err);
+    }
+
+    makePizza(['cheese', 'pineapple'])
+      .then(pizza => {
+        console.log(pizza);
+      }).catch(handleError)
 ```
 
 ### Promise
