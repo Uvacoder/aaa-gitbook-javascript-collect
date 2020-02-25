@@ -106,6 +106,24 @@ if (count === 1) {
       }).catch(handleError)
 ```
 
+{% code title="async/await" %}
+```javascript
+    function wait(ms = 0) {
+      return new Promise((resolve) => {
+        setTimeout(resolve, ms);
+      })
+    }
+
+    async function go() {
+      console.log('Starting');
+      await wait(2000);
+      console.log('running');
+      await wait(200);
+      console.log('ending');
+    }
+```
+{% endcode %}
+
 ### [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 |  |  |
