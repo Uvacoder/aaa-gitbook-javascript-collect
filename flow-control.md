@@ -54,8 +54,8 @@ if (count === 1) {
 | [.setTimeout\(\)](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) |  |
 |  |  |
 
+{% code title="promise" %}
 ```javascript
-//promise
     function makePizza(toppings = []) {
       return new Promise(function (resolve, reject) {
         // reject if people try with pineapple
@@ -105,6 +105,7 @@ if (count === 1) {
         console.log(pizza);
       }).catch(handleError)
 ```
+{% endcode %}
 
 {% code title="async/await" %}
 ```javascript
