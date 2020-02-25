@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How to use requestAnimationFrame\(\) with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/?mc_cid=686e2ae3c5&mc_eid=e9174ba77f) | 2/25 |
 | [I'm a lazy dev](https://gomakethings.com/im-a-lazy-dev/?mc_cid=158865737a&mc_eid=e9174ba77f) | 2/22 |
 | [let, hoisting, and the temporal dead zone with vanilla JS](https://gomakethings.com/let-hoisting-and-the-temporal-dead-zone-with-vanilla-js/?mc_cid=ae260a95e5&mc_eid=e9174ba77f) | 2/20 |
 | [7 JavaScript Utility Functions to Improve Your Efficiency](https://medium.com/javascript-in-plain-english/7-javascript-utility-functions-to-improve-your-efficiency-79d27132f186) | 2/17 |
