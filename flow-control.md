@@ -54,8 +54,8 @@ if (count === 1) {
 | [.setTimeout\(\)](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) |  |
 |  |  |
 
-{% code title="promise" %}
 ```javascript
+//promise
     function makePizza(toppings = []) {
       return new Promise(function (resolve, reject) {
         // reject if people try with pineapple
@@ -105,34 +105,12 @@ if (count === 1) {
         console.log(pizza);
       }).catch(handleError)
 ```
-{% endcode %}
 
-{% code title="async/await" %}
-```javascript
-    function wait(ms = 0) {
-      return new Promise((resolve) => {
-        setTimeout(resolve, ms);
-      })
-    }
-
-    async function go() {
-      console.log('Starting');
-      await wait(2000);
-      console.log('running');
-      await wait(200);
-      console.log('ending');
-    }
-```
-{% endcode %}
-
-### [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+### Promise
 
 |  |  |
 | :--- | :--- |
-| [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) | The **`async function`** declaration defines an **asynchronous function** — a function that returns an [`AsyncFunction`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncFunction) object. Asynchronous functions operate in a separate order than the rest of the code via the [event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop), returning an implicit [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) as its result. But the syntax and structure of code using async functions looks like standard synchronous functions. |
-| await |  |
 | [.all\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all) | The **`Promise.all()`** method returns a single [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) that fulfills when all of the promises passed as an iterable have been fulfilled or when the iterable contains no promises or when the iterable contains promises that have been fulfilled and non-promises that have been returned. It rejects with the reason of the first promise that rejects, or with the error caught by the first argument if that argument has caught an error inside it using try/catch/throw blocks. |
-| [.allSettled\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) | The **`Promise.allSettled()`** method returns a promise that resolves after all of the given promises have either resolved or rejected, with an array of objects that each describes the outcome of each promise. |
 | [.catch\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch) | The **`catch()`** method returns a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and deals with rejected cases only. It behaves the same as calling [`Promise.prototype.then(undefined, onRejected)`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then) \(in fact, calling `obj.catch(onRejected)` internally calls `obj.then(undefined, onRejected)`\). This means that you have to provide an `onRejected` function even if you want to fall back to an `undefined` result value - for example `obj.catch(() => {})`. |
 | [.race\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race) | The **`Promise.race()`** method returns a promise that fulfills or rejects as soon as one of the promises in an iterable fulfills or rejects, with the value or reason from that promise. |
 | [.then\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then) | The **`then()`** method returns a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/API/Promise). It takes up to two arguments: callback functions for the success and failure cases of the `Promise`. |
