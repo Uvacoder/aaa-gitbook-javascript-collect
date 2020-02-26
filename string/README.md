@@ -27,13 +27,13 @@ or quote marks will escape the character
 
 {% code title="Case styles" %}
 ```javascript
-camelCase
-PascalCase
-snake_case
-kebab-case
+camelCaseStyle
+PascalCaseStyle
+snake_case_style
+kebab-case-style
 
-Sentence case
-Title Case
+Sentence case style
+Title Case Style
 ```
 {% endcode %}
 
