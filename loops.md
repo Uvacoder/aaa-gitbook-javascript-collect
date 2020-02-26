@@ -8,6 +8,8 @@
 | [.reduce\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) | The **`reduce()`** method executes a **reducer** function \(that you provide\) on each element of the array, resulting in a single output value. |
 |  |  |
 
+### Loops
+
 ```javascript
 const numbers = [2, 34, 3, 23, 42, 3, 1, 65, 364, 5, 645, 6];
 const name = 'John Doe 🙋‍♂️';
@@ -16,23 +18,34 @@ const john = {
   age: 100,
   cool: true,
 }
+```
 
-//for - loop
+{% code title="for - loop" %}
+```javascript
 for (let i = 0; i < numbers.length; i++) {
 console.log(numbers[i]);
 }
+```
+{% endcode %}
 
-//for of - promises/await
+{% code title="for of - promises/await" %}
+```javascript
 for(const letter of name) {
 console.log(letter);
 }
+```
+{% endcode %}
 
-//for in - used for looping over keys of an object
+{% code title="for in - used for looping over keys of an object" %}
+```javascript
 for(const prop in john) {
 console.log(prop);
 }
+```
+{% endcode %}
 
-//while loop - runs until condition is false
+{% code title="while loop - runs until condition is false" %}
+```javascript
 let cool = true;
 let i = 1;
 while(cool === true) {
@@ -42,14 +55,16 @@ while(cool === true) {
     cool = false;
   }
 }
+```
+{% endcode %}
 
-//do while loop - will always run first do condition
+{% code title="do while loop - will always run first do condition" %}
+```javascript
 do {
 
 } while () {
 
 }
 ```
-
->
+{% endcode %}
 
