@@ -37,51 +37,54 @@ const capturedVal = functionName(0, arguments);
 ```
 {% endcode %}
 
-{% code title="Function types" %}
+### Function types
+
+{% code title="Regular function declaration" %}
 ```javascript
-/* ==============================
-Regular function declaration
-============================== */
 function doctorize(firstName) {
   return `Dr. ${firstName}`;
 }
+```
+{% endcode %}
 
-/* ==============================
-Anon function
-============================== */
+{% code title="Anon function" %}
+```javascript
 function (firstName) {
   return `Dr. ${firstName}`;
 }
+```
+{% endcode %}
 
-/* ==============================
-Function expression
-============================== */
+{% code title="Function expression" %}
+```javascript
 const doctorize = function (firstName) {
   return `Dr. ${firstName}`;
 }
+```
+{% endcode %}
 
-/* ==============================
-Arrow function
-============================== */
+{% code title="Arrow function" %}
+```javascript
 const inchesToCM = inches => inches *2.54;
 
 //function inchToCM(inches) {
 // const cm = inches * 2.54;
 // return cm;
 //}
+```
+{% endcode %}
 
-/* ==============================
-IIFE
-immediately invoked function expression
-============================== */
+{% code title="IIFE - immediately invoked function expression" %}
+```javascript
 (function() {
   console.log('Running the Anon function');
 return;
 })();
+```
+{% endcode %}
 
-/* ==============================
-Methods!!!
-============================== */
+{% code title="Methods!!!" %}
+```javascript
 const wes = {
   name: 'Wes Bos',
   //Method!
@@ -98,10 +101,11 @@ const wes = {
     console.log('heeyyy wess');
   }
 }
+```
+{% endcode %}
 
-/* ==============================
-Callback Functions
-============================== */
+{% code title="Callback Functions" %}
+```javascript
 //Click Callback
 const button = document.querySelector('.clickMe');
 
@@ -115,10 +119,11 @@ button.addEventListener('click', handleClick);
 setTimeout(function() {
   console.log('DONE! Time to eat!!');
 }, 1000);
+```
+{% endcode %}
 
-/* ==============================
-High order Function
-============================== */
+{% code title="High order Function" %}
+```javascript
 async function go() {
   const pizza = await makePizza(['pineapple']).catch(handleDisgustingPizza);
   return pizza;
@@ -132,6 +137,9 @@ function makeSafe(fn, errorHandler) {
   }
 }
 
+const safeGo = makeSafe(go, handleError);
+
+safeGo();
 ```
 {% endcode %}
 
