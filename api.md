@@ -36,6 +36,7 @@
 | :--- | :--- |
 | [http://api.github.com/users/johnpdang](http://api.github.com/users/johnpdang) |  |
 | [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis) |  |
+| [https://icanhazdadjoke.com/api](https://icanhazdadjoke.com/api) |  |
 | [http://recipepuppy.com/api](http://recipepuppy.com/api) |  |
 
 ```javascript
