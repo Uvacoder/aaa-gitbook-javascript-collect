@@ -38,5 +38,15 @@
 | [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis) |  |
 | [http://recipepuppy.com/api](http://recipepuppy.com/api) |  |
 
+```javascript
+http://recipepuppy.com/api/
 
+?
+i=onions,garlic
+&
+q=omelet
+&p=3
+
+
+```
 
