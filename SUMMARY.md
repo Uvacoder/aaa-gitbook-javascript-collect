@@ -11,6 +11,7 @@
 * [Cheatsheets](cheatsheets.md)
 * [Console](console.md)
 * [Date](date.md)
+* [Debugger](debugger.md)
 * [DOM](dom.md)
 * [Education](bookmarks/README.md)
   * [Abbreviation/Terms](bookmarks/abbreviation-terms.md)
