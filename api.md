@@ -41,6 +41,7 @@
 ```javascript
 http://recipepuppy.com/api/
 
+//parameters
 ?
 i=onions,garlic
 &
