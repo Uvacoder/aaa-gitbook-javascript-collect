@@ -43,11 +43,11 @@ http://recipepuppy.com/api/
 
 //parameters
 ?
-i=onions,garlic
+i=onions,garlic //ingredients
 &
-q=omelet
+q=omelet //query
 &
-p=3
+p=3 //pagination
 
 
 ```

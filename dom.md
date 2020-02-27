@@ -200,7 +200,7 @@
 
 |  |  |
 | :--- | :--- |
-| [.appendChild\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild) | The **`Node.appendChild()`** method adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, `appendChild()` moves it from its current position to the new position \(there is no requirement to remove the node from its parent node before appending it to some other node\). |
+| [.appendChild\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild) |  |
 | .cloneNode\(\) |  |
 | [.createElement\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement) | In an HTML document, the document.createElement\(\) method creates the HTML element specified by tagName, or an HTMLUnknownElement if tagName isn't recognized. |
 | .insertAdjacentElement\(\) |  |
