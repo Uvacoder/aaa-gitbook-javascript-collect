@@ -45,7 +45,8 @@ http://recipepuppy.com/api/
 i=onions,garlic
 &
 q=omelet
-&p=3
+&
+p=3
 
 
 ```

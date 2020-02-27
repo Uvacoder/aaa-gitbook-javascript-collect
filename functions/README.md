@@ -12,9 +12,9 @@
 
 |  |  |
 | :--- | :--- |
-| .apply\(\) |  |
-| .bind\(\) | returns copy of function where `this` is set to the first argument passed into `.bind()` |
-| .call\(\) |  |
+| [.apply\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply) | The **`apply()`** method calls a function with a given `this` value, and `arguments` provided as an array \(or an [array-like object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections#Working_with_array-like_objects)\).  |
+| [.bind\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind) | returns copy of function where `this` is set to the first argument passed into `.bind()` |
+| [.call\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call) | The **`call()`** method calls a function with a given `this` value and arguments provided individually. |
 
 ### `Hoisting` 
 
@@ -37,51 +37,54 @@ const capturedVal = functionName(0, arguments);
 ```
 {% endcode %}
 
-{% code title="Function types" %}
+### Function types
+
+{% code title="Regular function declaration" %}
 ```javascript
-/* ==============================
-Regular function declaration
-============================== */
 function doctorize(firstName) {
   return `Dr. ${firstName}`;
 }
+```
+{% endcode %}
 
-/* ==============================
-Anon function
-============================== */
+{% code title="Anon function" %}
+```javascript
 function (firstName) {
   return `Dr. ${firstName}`;
 }
+```
+{% endcode %}
 
-/* ==============================
-Function expression
-============================== */
+{% code title="Function expression" %}
+```javascript
 const doctorize = function (firstName) {
   return `Dr. ${firstName}`;
 }
+```
+{% endcode %}
 
-/* ==============================
-Arrow function
-============================== */
+{% code title="Arrow function" %}
+```javascript
 const inchesToCM = inches => inches *2.54;
 
-//function inchToCM() {
+//function inchToCM(inches) {
 // const cm = inches * 2.54;
 // return cm;
 //}
+```
+{% endcode %}
 
-/* ==============================
-IIFE
-immediately invoked function expression
-============================== */
+{% code title="IIFE - immediately invoked function expression" %}
+```javascript
 (function() {
   console.log('Running the Anon function');
 return;
 })();
+```
+{% endcode %}
 
-/* ==============================
-Methods!!!
-============================== */
+{% code title="Methods!!!" %}
+```javascript
 const wes = {
   name: 'Wes Bos',
   //Method!
@@ -98,10 +101,11 @@ const wes = {
     console.log('heeyyy wess');
   }
 }
+```
+{% endcode %}
 
-/* ==============================
-Callback Functions
-============================== */
+{% code title="Callback Functions" %}
+```javascript
 //Click Callback
 const button = document.querySelector('.clickMe');
 
@@ -115,7 +119,27 @@ button.addEventListener('click', handleClick);
 setTimeout(function() {
   console.log('DONE! Time to eat!!');
 }, 1000);
+```
+{% endcode %}
 
+{% code title="High order Function" %}
+```javascript
+async function go() {
+  const pizza = await makePizza(['pineapple']).catch(handleDisgustingPizza);
+  return pizza;
+}
+ // catch it at run time
+go().catch(handleError);
+// make a safe function with a HOF
+function makeSafe(fn, errorHandler) {
+  return function () {
+    fn().catch(errorHandler)
+  }
+}
+
+const safeGo = makeSafe(go, handleError);
+
+safeGo();
 ```
 {% endcode %}
 
