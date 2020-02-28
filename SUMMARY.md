@@ -46,8 +46,7 @@
   * [Variable definition & scope](scope/variable-definition-and-scope.md)
 * [String](string/README.md)
   * [.split\(\)](string/.split.md)
-* [Tutorials/tests](tutorials-tests/README.md)
-  * [W3schools](tutorials-tests/w3schools.md)
+* [Tutorials/tests](tutorials-tests.md)
 * [Variables](variables.md)
 * [Vue](vue.md)
 

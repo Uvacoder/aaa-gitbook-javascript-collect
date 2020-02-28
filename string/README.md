@@ -25,3 +25,15 @@ or quote marks will escape the character
 “A newline character is written like "\n".”
 ```
 
+{% code title="Case styles" %}
+```javascript
+camelCaseStyle
+PascalCaseStyle
+snake_case_style
+kebab-case-style
+
+Sentence case style
+Title Case Style
+```
+{% endcode %}
+
