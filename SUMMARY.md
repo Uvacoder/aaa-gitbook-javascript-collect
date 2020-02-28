@@ -30,6 +30,7 @@
 * [Keywords](keywords.md)
 * [Libraries](libraries.md)
 * [Loops](loops.md)
+* [Modules](modules.md)
 * [Numbers](numbers.md)
 * [Objects](objects/README.md)
   * [Methods](objects/method.md)
