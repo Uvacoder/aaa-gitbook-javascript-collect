@@ -18,6 +18,13 @@ npm install -g parcel-bundler
 ```
 {% endcode %}
 
+{% code title="using parcel" %}
+```bash
+npm start     ##start = variable name in package.json under script:
+npm run build ##build = var name 
+```
+{% endcode %}
+
 ### Debugging
 
 delete `cache` and `dist` folders and rerun `npm start`
