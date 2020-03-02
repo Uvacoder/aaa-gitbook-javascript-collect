@@ -5,6 +5,42 @@
 | export |  |
 | [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) | The static **`import`** statement is used to import bindings which are exported by another module. Imported modules are in [`strict mode`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) whether you declare them as such or not. The `import` statement cannot be used in embedded scripts unless such script has a `type="module"`. |
 
+{% code title="html" %}
+```javascript
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currency Converter</title>
+  <link rel="stylesheet" href="../../base.css">
+  <link rel="stylesheet" href="./money.css">
+</head>
+
+<body>
+  <div class="app">
+    <form>
+      <input type="number" name="from_amount">
+      <select name="from_currency">
+        <option>Select a Currency</option>
+      </select>
+      <p>in</p>
+      <select name="to_currency">
+        <option>Select a Currency</option>
+      </select>
+      <p>is</p>
+      <p class="to_amount">$0</p>
+    </form>
+  </div>
+  <script src="./money.js" type="module"></script>
+</body>
+
+</html>
+
+```
+{% endcode %}
+
 ```javascript
 const last = 'bos';
 const middle = 'slam dunk';
