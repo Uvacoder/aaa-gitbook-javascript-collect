@@ -7,6 +7,7 @@
 * [API](api.md)
 * [Array](array.md)
 * [Bundlers](bundlers/README.md)
+  * [npm](bundlers/npm.md)
   * [Parcel](bundlers/parcel.md)
   * [Webpack](bundlers/webpack.md)
 * [Cheatsheets](cheatsheets.md)
