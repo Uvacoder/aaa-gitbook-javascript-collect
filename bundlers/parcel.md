@@ -1,8 +1,10 @@
 # Parcel
 
-## Goodbye Webpack! Hello Parcel 👋🏼
+|  |  |
+| :--- | :--- |
+| [https://parceljs.org/](https://parceljs.org/) | 3/2 |
 
-{% embed url="https://ced.hashnode.dev/goodbye-webpack-hello-parcel-ck156yl0u00qgqis18bqopvvo" %}
-
-
+```text
+npm init
+```
 
