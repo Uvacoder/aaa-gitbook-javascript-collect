@@ -25,6 +25,17 @@ npm run build ##build = var name
 ```
 {% endcode %}
 
+{% code title="package.json" %}
+```bash
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
+```
+{% endcode %}
+
 ### Debugging
 
 delete `cache` and `dist` folders and rerun `npm start`
