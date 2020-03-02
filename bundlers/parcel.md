@@ -12,9 +12,13 @@ npm init
 ```bash
 ##yarn
 yarn global add parcel-bundler
+##local
+yarn install parcen-bundler --save-dev
 
 ##npm
-npm install -g parcel-bundler
+npm i -g parcel-bundler
+##local
+npm i parcel-bundler --D
 ```
 {% endcode %}
 
