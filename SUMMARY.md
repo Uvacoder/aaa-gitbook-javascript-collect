@@ -8,6 +8,7 @@
 * [Array](array.md)
 * [Bundlers](bundlers/README.md)
   * [Parcel](bundlers/parcel.md)
+  * [Webpack](bundlers/webpack.md)
 * [Cheatsheets](cheatsheets.md)
 * [Console](console.md)
 * [Date](date.md)
