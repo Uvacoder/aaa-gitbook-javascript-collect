@@ -8,3 +8,13 @@
 npm init
 ```
 
+{% code title="install parcel" %}
+```bash
+##yarn
+yarn global add parcel-bundler
+
+##npm
+npm install -g parcel-bundler
+```
+{% endcode %}
+
