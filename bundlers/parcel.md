@@ -18,3 +18,7 @@ npm install -g parcel-bundler
 ```
 {% endcode %}
 
+### Debugging
+
+delete `cache` and `dist` folders and rerun `npm start`
+
