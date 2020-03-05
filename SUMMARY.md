@@ -41,6 +41,7 @@
 * [Polyfill](polyfill.md)
 * [Primitive](primitive-types.md)
 * [Promises](promises.md)
+* [Prototypes](prototypes.md)
 * [Regex](regex.md)
 * [Sandboxes](sandboxes.md)
 * [Scope](scope.md)
