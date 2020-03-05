@@ -45,6 +45,7 @@
 * [Regex](regex.md)
 * [Sandboxes](sandboxes.md)
 * [Scope](scope.md)
+* [Security](security.md)
 * [String](string.md)
 * [Tutorials/tests](tutorials-tests.md)
 * [Variables](variables.md)
