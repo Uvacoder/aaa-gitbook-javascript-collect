@@ -38,8 +38,22 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">this</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this">this</a>
+      </td>
+      <td style="text-align:left">
+        <p>A <b>function&apos;s <code>this</code> keyword</b> behaves a little differently
+          in JavaScript compared to other languages. It also has some differences
+          between <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/Strict_mode">strict mode</a> and
+          non-strict mode.</p>
+        <p>In most cases, the value of <code>this</code> is determined by how a function
+          is called (runtime binding). It can&apos;t be set by assignment during
+          execution, and it may be different each time the function is called. ES5
+          introduced the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind"><code>bind()</code></a> method
+          to <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this#The_bind_method">set the value of a function&apos;s <code>this</code> regardless of how it&apos;s called</a>,
+          and ES2015 introduced <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions">arrow functions</a> which
+          don&apos;t provide their own <code>this</code> binding (it retains the <code>this</code> value
+          of the enclosing lexical context).</p>
+      </td>
     </tr>
   </tbody>
 </table>
