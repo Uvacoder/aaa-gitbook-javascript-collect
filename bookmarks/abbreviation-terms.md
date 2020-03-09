@@ -49,6 +49,11 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Encapsulation</td>
+      <td style="text-align:left">Separating interface from implementation</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Export</td>
       <td style="text-align:left">The export statement is used when creating JavaScript modules to export
         functions, objects, or primitive values from the module so they can be
