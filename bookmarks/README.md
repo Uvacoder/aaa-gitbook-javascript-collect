@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How to check for text in a string with vanilla JS](https://gomakethings.com/how-to-check-for-text-in-a-string-with-vanilla-js/?mc_cid=243296cf5d&mc_eid=[UNIQID]) | 3/9 |
 | [Third-party libraries and security issues](https://gomakethings.com/third-party-libraries-and-security-issues/?mc_cid=231c170d97&mc_eid=e9174ba77f) | 2/28 |
 | [How to use requestAnimationFrame\(\) with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/?mc_cid=686e2ae3c5&mc_eid=e9174ba77f) | 2/25 |
 | [I'm a lazy dev](https://gomakethings.com/im-a-lazy-dev/?mc_cid=158865737a&mc_eid=e9174ba77f) | 2/22 |
