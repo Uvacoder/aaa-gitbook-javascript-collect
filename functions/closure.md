@@ -13,6 +13,6 @@ COVE - closed over variable environment
 {% endhint %}
 
 {% hint style="info" %}
-PSRD - persistant, scoped property, referenced, data
+PLSRD - persistant, lexical or static, scoped, referenced, data
 {% endhint %}
 
