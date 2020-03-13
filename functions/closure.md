@@ -14,5 +14,7 @@ COVE - closed over variable environment
 
 {% hint style="info" %}
 PLSRD - persistant, lexical or static, scoped, referenced, data
+
+backpack = closure
 {% endhint %}
 
