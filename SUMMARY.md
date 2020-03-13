@@ -23,6 +23,7 @@
 * [Flow Control](flow-control.md)
 * [Functions](functions/README.md)
   * [Arrow functions](functions/arrow-functions.md)
+  * [Closure](functions/closure.md)
   * [Snippets](functions/snippets.md)
   * [this](functions/this.md)
 * [JSON](json/README.md)
