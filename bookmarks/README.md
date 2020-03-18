@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Element.focus vs aria-activedescendant](https://zellwk.com/blog/element-focus-vs-aria-activedescendant/?ck_subscriber_id=420572458) | 3/18 |
 | [3 Foundational JavaScript Ideas You Need to Upgrade to Pro Status](https://medium.com/better-programming/3-foundational-javascript-ideas-you-need-to-upgrade-to-pro-status-de7e7966d7c2) | 3/11 |
 | [JavaScript Debounce Function](https://davidwalsh.name/javascript-debounce-function) | 3/9 |
 | [How to check for text in a string with vanilla JS](https://gomakethings.com/how-to-check-for-text-in-a-string-with-vanilla-js/?mc_cid=243296cf5d&mc_eid=[UNIQID]) | 3/9 |
