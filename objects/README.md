@@ -1,5 +1,12 @@
 # Objects
 
+### Articles
+
+|  |  |
+| :--- | :--- |
+| [How JavaScript Implements Object Oriented Programming](https://www.freecodecamp.org/news/how-javascript-implements-oop/) | 2/19 |
+| [Converting an object into an array with vanilla JS](https://gomakethings.com/converting-an-object-into-an-array-with-vanilla-js/?mc_cid=88c72ee7ee&mc_eid=e9174ba77f) | 2/4 |
+
 ```javascript
 //object literaly syntax
 const person = {
@@ -62,9 +69,4 @@ Object.assign({}, person1); //old way to copy object
 | .scrollTo\(\) |  |
 | .setInterval\(\) |  |
 | .setTimeout\(\) |  |
-
-|  |  |
-| :--- | :--- |
-| [How JavaScript Implements Object Oriented Programming](https://www.freecodecamp.org/news/how-javascript-implements-oop/) | 2/19 |
-| [Converting an object into an array with vanilla JS](https://gomakethings.com/converting-an-object-into-an-array-with-vanilla-js/?mc_cid=88c72ee7ee&mc_eid=e9174ba77f) | 2/4 |
 

@@ -14,6 +14,8 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How to send data to an API with the vanilla JS fetch\(\) method](https://gomakethings.com/how-to-send-data-to-an-api-with-the-vanilla-js-fetch-method/?mc_cid=8e3cd79779&mc_eid=[UNIQID]) | 3/23 |
+| [How to use the URL API with vanilla JS](https://gomakethings.com/how-to-use-the-url-api-with-vanilla-js/?mc_cid=9bcadf4a71&mc_eid=[UNIQID]) | 3/20 |
 | [How to abstract your code with vanilla JS](https://gomakethings.com/how-to-abstract-your-code-with-vanilla-js/?mc_cid=337be7f799&mc_eid=[UNIQID]) | 3/19 |
 | [Element.focus vs aria-activedescendant](https://zellwk.com/blog/element-focus-vs-aria-activedescendant/?ck_subscriber_id=420572458) | 3/18 |
 | [3 Foundational JavaScript Ideas You Need to Upgrade to Pro Status](https://medium.com/better-programming/3-foundational-javascript-ideas-you-need-to-upgrade-to-pro-status-de7e7966d7c2) | 3/11 |
