@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How to make an exact copy of an element with vanilla JavaScript](https://gomakethings.com/how-to-make-an-exact-copy-of-an-element-with-vanilla-javascript/?mc_cid=bfceb611c1&mc_eid=[UNIQID]) | 3/24 |
 | [How to send data to an API with the vanilla JS fetch\(\) method](https://gomakethings.com/how-to-send-data-to-an-api-with-the-vanilla-js-fetch-method/?mc_cid=8e3cd79779&mc_eid=[UNIQID]) | 3/23 |
 | [How to use the URL API with vanilla JS](https://gomakethings.com/how-to-use-the-url-api-with-vanilla-js/?mc_cid=9bcadf4a71&mc_eid=[UNIQID]) | 3/20 |
 | [How to abstract your code with vanilla JS](https://gomakethings.com/how-to-abstract-your-code-with-vanilla-js/?mc_cid=337be7f799&mc_eid=[UNIQID]) | 3/19 |
