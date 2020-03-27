@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How to check if a string starts with another string using vanilla JS](https://gomakethings.com/how-to-check-if-a-string-starts-with-another-string-using-vanilla-js/?mc_cid=c7d02aff20&mc_eid=[UNIQID]) | 3/27 |
 | [How to check if a string starts with another string using vanilla JS](https://gomakethings.com/how-to-check-if-a-string-starts-with-another-string-using-vanilla-js/?mc_cid=d751ff1d63&mc_eid=[UNIQID]) | 3/26 |
 | [The Most Common JavaScript Errors and How to Fix Them](https://medium.com/better-programming/the-most-common-javascript-errors-and-how-to-fix-them-29d7c1b2f690) | 3/25 |
 | [How to make an exact copy of an element with vanilla JavaScript](https://gomakethings.com/how-to-make-an-exact-copy-of-an-element-with-vanilla-javascript/?mc_cid=bfceb611c1&mc_eid=[UNIQID]) | 3/24 |
