@@ -14,6 +14,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How to replace one element with another with vanilla JavaScript](https://gomakethings.com/how-to-replace-one-element-with-another-with-vanilla-javascript/?mc_cid=fdd91ca14b&mc_eid=[UNIQID]) | 3/29 |
 | [How to check if a string starts with another string using vanilla JS](https://gomakethings.com/how-to-check-if-a-string-starts-with-another-string-using-vanilla-js/?mc_cid=c7d02aff20&mc_eid=[UNIQID]) | 3/27 |
 | [How to check if a string starts with another string using vanilla JS](https://gomakethings.com/how-to-check-if-a-string-starts-with-another-string-using-vanilla-js/?mc_cid=d751ff1d63&mc_eid=[UNIQID]) | 3/26 |
 | [The Most Common JavaScript Errors and How to Fix Them](https://medium.com/better-programming/the-most-common-javascript-errors-and-how-to-fix-them-29d7c1b2f690) | 3/25 |
