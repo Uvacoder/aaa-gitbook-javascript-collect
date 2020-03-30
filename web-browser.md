@@ -1,6 +1,6 @@
 # Web Browser
 
-### Facades of web browser features
+### Facade functions & web browser features
 
 | Javascript | Web browser |
 | :--- | :--- |
