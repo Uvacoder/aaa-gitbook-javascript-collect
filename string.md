@@ -39,3 +39,7 @@ Title Case Style
 ```
 {% endcode %}
 
+|  |  |
+| :--- | :--- |
+| [Repeating a string with vanilla JavaScript](https://gomakethings.com/repeating-a-string-with-vanilla-javascript/?mc_cid=488e8f4357&mc_eid=[UNIQID]) | 3/30 |
+
