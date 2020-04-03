@@ -3,6 +3,7 @@
 |  |  |
 | :--- | :--- |
 | Control Flow | is in computer science the order that the instructions or statements or functions are executed. |
+| Event Loop | Continuously checks if the call stack is empty before adding callback queue functions |
 
 ```javascript
 //ternary
