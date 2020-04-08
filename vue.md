@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Add a Timeline to Your Vue.js App](https://medium.com/javascript-in-plain-english/add-a-timeline-to-your-vue-js-app-3b0804c06c0a) | 4/8 |
 | [7 Great Vue3 Tutorials and Resources to Start Learning Today](https://learnvue.co/2020/03/7-great-vue3-tutorials-and-resources-to-start-learning-today/?utm_source=newsletter&utm_medium=email&utm_campaign=4_2) | 4/2 |
 | [Why I prefer Vue over React](https://medium.com/@gaute.meek/why-i-prefer-vue-over-react-12ab1da113be) | 3/9 |
 | [VueJS Cheatsheet for Developers](https://attachments.convertkitcdnn2.com/234155/4726aa35-b3dc-4d94-9981-e38f91dc5802/A%20VueJS%20Cheatsheet%20for%20Developers-LearnVue.pdf) | 3/2 |
