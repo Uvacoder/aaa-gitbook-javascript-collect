@@ -2,6 +2,11 @@
 
 |  |  |
 | :--- | :--- |
+| [How to remove white space from the beginning or end of a string with vanilla JS](https://gomakethings.com/how-to-remove-white-space-from-the-beginning-or-end-of-a-string-with-vanilla-js/?mc_cid=9d68dee46f&mc_eid=[UNIQID]) | 4/9 |
+| [Repeating a string with vanilla JavaScript](https://gomakethings.com/repeating-a-string-with-vanilla-javascript/?mc_cid=488e8f4357&mc_eid=[UNIQID]) | 3/30 |
+
+|  |  |
+| :--- | :--- |
 | [.charCodeat\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt) | The **`charCodeAt()`** method returns an integer between `0` and `65535` representing the UTF-16 code unit at the given index. |
 | [.codePointAt\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/codePointAt) | The **`codePointAt()`** method returns a non-negative integer that is the Unicode code point value. |
 | .includes\(\) |  |
@@ -38,8 +43,4 @@ Sentence case style
 Title Case Style
 ```
 {% endcode %}
-
-|  |  |
-| :--- | :--- |
-| [Repeating a string with vanilla JavaScript](https://gomakethings.com/repeating-a-string-with-vanilla-javascript/?mc_cid=488e8f4357&mc_eid=[UNIQID]) | 3/30 |
 
