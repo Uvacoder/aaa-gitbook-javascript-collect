@@ -21,3 +21,7 @@ const app = new Vue({
 {{ }} //expression
 ```
 
+```markup
+<img v-bind:src="image">
+```
+
