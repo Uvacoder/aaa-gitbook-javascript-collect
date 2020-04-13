@@ -15,6 +15,9 @@ const app = new Vue({
     product: "socks",
   },
 });
+```
 
+```javascript
+{{ }} //expression
 ```
 
