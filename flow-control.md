@@ -2,6 +2,11 @@
 
 |  |  |
 | :--- | :--- |
+| [The delay on setTimeout\(\) and setInterval\(\) is just a suggestion](https://gomakethings.com/the-delay-on-settimeout-and-setinterval-is-just-a-suggestion/?mc_cid=a64b101c23&mc_eid=[UNIQID]) | 4/15 |
+| [What the heck is the event loop anyway? \| Philip Roberts \| JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) | 2/21 |
+
+|  |  |
+| :--- | :--- |
 | Control Flow | is in computer science the order that the instructions or statements or functions are executed. |
 | Event Loop | Continuously checks if the call stack is empty before adding callback queue functions |
 
@@ -138,8 +143,4 @@ if (count === 1) {
 | [.race\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race) | The **`Promise.race()`** method returns a promise that fulfills or rejects as soon as one of the promises in an iterable fulfills or rejects, with the value or reason from that promise. |
 | [.then\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then) | The **`then()`** method returns a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/API/Promise). It takes up to two arguments: callback functions for the success and failure cases of the `Promise`. |
 | [try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) | The **`try...catch`** statement marks a block of statements to try and specifies a response should an exception be thrown. |
-
-|  |  |
-| :--- | :--- |
-| [What the heck is the event loop anyway? \| Philip Roberts \| JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) | 2/21 |
 
