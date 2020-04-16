@@ -15,6 +15,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Learning how to start JavaScript projects from scratch](https://gomakethings.com/learning-how-to-start-javascript-projects-from-scratch/?mc_cid=305f0a9fed&mc_eid=[UNIQID]) | 4/16 |
 | [How to create a clock with vanilla JS](https://gomakethings.com/how-to-create-a-clock-with-vanilla-js/?mc_cid=5cb18b8ed2&mc_eid=[UNIQID]) | 4/14 |
 | [How to replace one element with another with vanilla JavaScript](https://gomakethings.com/how-to-replace-one-element-with-another-with-vanilla-javascript/?mc_cid=fdd91ca14b&mc_eid=[UNIQID]) | 3/29 |
 | [How to check if a string starts with another string using vanilla JS](https://gomakethings.com/how-to-check-if-a-string-starts-with-another-string-using-vanilla-js/?mc_cid=c7d02aff20&mc_eid=[UNIQID]) | 3/27 |
