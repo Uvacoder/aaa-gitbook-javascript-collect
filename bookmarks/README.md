@@ -15,6 +15,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Web performance during a pandemic](https://gomakethings.com/web-performance-during-a-pandemic/?mc_cid=8653bfb999&mc_eid=[UNIQID]) | 4/17 |
 | [Learning how to start JavaScript projects from scratch](https://gomakethings.com/learning-how-to-start-javascript-projects-from-scratch/?mc_cid=305f0a9fed&mc_eid=[UNIQID]) | 4/16 |
 | [How to create a clock with vanilla JS](https://gomakethings.com/how-to-create-a-clock-with-vanilla-js/?mc_cid=5cb18b8ed2&mc_eid=[UNIQID]) | 4/14 |
 | [How to replace one element with another with vanilla JavaScript](https://gomakethings.com/how-to-replace-one-element-with-another-with-vanilla-javascript/?mc_cid=fdd91ca14b&mc_eid=[UNIQID]) | 3/29 |
