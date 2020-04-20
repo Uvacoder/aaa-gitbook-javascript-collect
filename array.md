@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Getting the last matching item in an array with vanilla JS](https://gomakethings.com/getting-the-last-matching-item-in-an-array-with-vanilla-js/?mc_cid=fbcd1aac35&mc_eid=[UNIQID]) | 4/20 |
 | [How to flatten an array with vanilla JS](https://gomakethings.com/how-to-flatten-an-array-with-vanilla-js/?mc_cid=cad6df7f69&mc_eid=[UNIQID]) | 4/7 |
 | [Five interesting ways \(and one boring way\) to use Array.reduce\(\)](https://gomakethings.com/five-interesting-ways-and-one-boring-way-to-use-array.reduce) | 12/19/2019 |
 | [13 useful Array tips and tricks](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo) |  |
