@@ -15,6 +15,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How vanilla JS Proxies work](https://gomakethings.com/how-vanilla-js-proxies-work/?mc_cid=ee0a1588be&mc_eid=[UNIQID]) | 5/1 |
 | [Why is Lodash Still Useful?](https://levelup.gitconnected.com/why-is-lodash-still-useful-1503a4215762) | 4/26 |
 | [The cost of JavaScript frameworks](https://gomakethings.com/the-cost-of-javascript-frameworks/?mc_cid=dc854a4126&mc_eid=[UNIQID]) | 4/23 |
 | [Web performance during a pandemic](https://gomakethings.com/web-performance-during-a-pandemic/?mc_cid=8653bfb999&mc_eid=[UNIQID]) | 4/17 |
