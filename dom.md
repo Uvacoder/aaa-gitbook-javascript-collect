@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [JavaScript Fundamentals: Master the DOM! \(Part 2\)](https://medium.com/@timothyrobards/javascript-fundamentals-master-the-dom-part-2-bef36405598e) | 5/11 |
 | [https://htmldom.dev/](https://htmldom.dev/) | 4/2 |
 
 ### DOM
