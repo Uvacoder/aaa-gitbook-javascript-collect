@@ -48,6 +48,7 @@
 * [Scope](scope.md)
 * [Security](security.md)
 * [String](string.md)
+* [Transition](transition.md)
 * [Tutorials/tests](tutorials-tests.md)
 * [Variables](variables.md)
 * [Vue](vue.md)
