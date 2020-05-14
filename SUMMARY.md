@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pages](README.md)
+* [Accessibility](accessibility.md)
 * [Animation](animation/README.md)
   * [SVG](animation/svg/README.md)
     * [Greensock](animation/svg/greensock.md)
