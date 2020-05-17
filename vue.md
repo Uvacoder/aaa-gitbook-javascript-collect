@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 JavaScript Tips I Learned From Vue Source Code](https://levelup.gitconnected.com/5-javascript-tips-i-learned-from-vue-source-code-6095df4e9bc1) | 5/17 |
 | [How to Boost Vue.js Performance](https://itnext.io/how-to-boost-vue-js-performance-c7df027ff3f5) | 4/19 |
 | [Add a Timeline to Your Vue.js App](https://medium.com/javascript-in-plain-english/add-a-timeline-to-your-vue-js-app-3b0804c06c0a) | 4/8 |
 | [7 Great Vue3 Tutorials and Resources to Start Learning Today](https://learnvue.co/2020/03/7-great-vue3-tutorials-and-resources-to-start-learning-today/?utm_source=newsletter&utm_medium=email&utm_campaign=4_2) | 4/2 |
