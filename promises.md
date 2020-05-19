@@ -20,5 +20,5 @@ return new Promise((resolve, reject) => {
 
 global memory &gt; execution context &gt; event loop
 
-event loop = callstack &gt; microtask queue \(promises .then\(\)\) &gt; callback queue
+event loop = callstack &gt; microtask queue \(promises .then\(\)\) &gt; callback queue \(setTimeout\(f, 0\)\)
 
