@@ -18,5 +18,7 @@ return new Promise((resolve, reject) => {
 | catch |  |
 |  |  |
 
-global memory &gt; execution context &gt; call stack &gt; microtask queue \(promises .then\(\)\) &gt; callback queue
+global memory &gt; execution context &gt; event loop
+
+event loop = callstack &gt; microtask queue \(promises .then\(\)\) &gt; callback queue
 
