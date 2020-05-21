@@ -15,6 +15,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Vanilla JS projects for total beginners](https://gomakethings.com/vanilla-js-projects-for-total-beginners/?mc_cid=528ff21f2c&mc_eid=[UNIQID]) | 5/21 |
 | [How I Stopped Learning to Code and Started Coding](https://medium.com/better-programming/how-i-stopped-learning-to-code-and-started-e32614bccfd8) | 5/7 |
 | [How to create a state-based UI component with vanilla JS](https://gomakethings.com/how-to-create-a-state-based-ui-component-with-vanilla-js/?mc_cid=c9f7eac191&mc_eid=[UNIQID]) | 5/5 |
 | [How to detect changes to nested arrays and objects inside a Proxy](https://gomakethings.com/how-to-detect-changes-to-nested-arrays-and-objects-inside-a-proxy/?mc_cid=6845089102&mc_eid=[UNIQID]) | 5/4 |
