@@ -109,7 +109,9 @@
         </td>
     </tr>
   </tbody>
-</table>### Unary Operators
+</table>
+
+### Unary Operators
 
 |  |  |
 | :--- | :--- |

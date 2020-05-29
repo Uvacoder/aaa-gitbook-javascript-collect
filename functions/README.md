@@ -1,9 +1,14 @@
+---
+description: c
+---
+
 # Functions
 
 ### Articles
 
 |  |  |
 | :--- | :--- |
+| [JavaScript Fundamentals: Mastering Functions](https://itnext.io/javascript-fundamentals-mastering-functions-351594da10f5) | 5/9 |
 | [I never understood JavaScript closures](http://pop.frontendweekly.co/ZZDFJ3?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_193) | 3/11 |
 | [How to impress interviewers by using recursion in JavaScript with ES6 features](https://medium.com/free-code-camp/how-to-impress-interviewers-by-using-recursion-in-javascript-with-es6-features-a14c763110d7) | 3/5 |
 | [What is hoisting in vanilla JavaScript?](https://gomakethings.com/what-is-hoisting-in-vanilla-javascript/?mc_cid=1303dffebc&mc_eid=e9174ba77f) | 1/22/2020 |
