@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Cache API in JavaScript](https://medium.com/javascript-dots/cache-api-in-javascript-644380391681) | 6/4 |
 | [Stop Putting So Many If Statements in Your JavaScript](https://medium.com/better-programming/stop-putting-so-many-if-statements-in-your-javascript-3b65aaa4b86b) | 5/24 |
 | [JavaScript setTimeout Tutorial](https://www.freecodecamp.org/news/javascript-sleep-wait-delay/) | 5/6 |
 | [The delay on setTimeout\(\) and setInterval\(\) is just a suggestion](https://gomakethings.com/the-delay-on-settimeout-and-setinterval-is-just-a-suggestion/?mc_cid=a64b101c23&mc_eid=[UNIQID]) | 4/15 |
