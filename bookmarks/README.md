@@ -15,6 +15,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [JS: Underrated features](https://itnext.io/js-underrated-features-5adc9d30de82) | 6/6 |
 | [The Third Age of JavaScript](http://pop.frontendweekly.co/3b9diu?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_204) | 5/28 |
 | [Vanilla JS projects for total beginners](https://gomakethings.com/vanilla-js-projects-for-total-beginners/?mc_cid=528ff21f2c&mc_eid=[UNIQID]) | 5/21 |
 | [How I Stopped Learning to Code and Started Coding](https://medium.com/better-programming/how-i-stopped-learning-to-code-and-started-e32614bccfd8) | 5/7 |
