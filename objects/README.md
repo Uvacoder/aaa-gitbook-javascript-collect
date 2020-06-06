@@ -54,8 +54,11 @@ Object.assign({}, person1); //old way to copy object
 | [polymorphism](https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism) | Polymorphism is the presentation of one interface for multiple data types. |
 | [properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object#Properties_of_the_Object_constructor) | **JavaScript Properties**. **Properties** are the values associated with a **JavaScript** object. A **JavaScript** object is a collection of unordered **properties**. **Properties** can usually be changed, added, and deleted, but some are read only. |
 
+### Methods
+
 |  |  |
 | :--- | :--- |
+| .create\(\) |  |
 | [.freeze\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze) | method **freezes** an object. A frozen object can no longer be changed |
 | .keys |  |
 | [.preventExtensions\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions) | The **`Object.preventExtensions()`** method prevents new properties from ever being added to an object \(i.e. prevents future extensions to the object\). |
