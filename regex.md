@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Regex cheatsheet](https://gomakethings.com/regex-cheatsheet/?mc_cid=7b2b275824&mc_eid=[UNIQID]) | 6/11 |
 | [https://ihateregex.io/](https://ihateregex.io/) | 3/4 |
 | [http://regexr.com/](http://regexr.com/) | 1/22/2020 |
 | [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71) | 1/21/2020 |
