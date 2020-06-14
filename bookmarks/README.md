@@ -15,6 +15,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [5 Useful Tricks JavaScript has been Hiding from You](https://medium.com/javascript-in-plain-english/5-useful-tricks-javascript-has-been-hiding-from-you-b7fa38bd98d8) | 6/14 |
 | [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme) | 6/12 |
 | [JS: Underrated features](https://itnext.io/js-underrated-features-5adc9d30de82) | 6/6 |
 | [The Third Age of JavaScript](http://pop.frontendweekly.co/3b9diu?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_204) | 5/28 |
