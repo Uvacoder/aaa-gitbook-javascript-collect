@@ -17,3 +17,8 @@
 | local storage | local storage |
 |  | indexDB |
 
+```javascript
+//design mode
+document.designMode = "on"
+```
+
