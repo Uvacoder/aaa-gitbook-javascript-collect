@@ -2,7 +2,6 @@
 
 |  |  |
 | :--- | :--- |
-| [How to replace an element and its content using vanilla JS](https://gomakethings.com/how-to-replace-an-element-and-its-content-using-vanilla-js/?mc_cid=a31a2cd0aa&mc_eid=[UNIQID]) | 6/20 |
 | [JavaScript Fundamentals: Master the DOM! \(Part 2\)](https://medium.com/@timothyrobards/javascript-fundamentals-master-the-dom-part-2-bef36405598e) | 5/11 |
 | [https://htmldom.dev/](https://htmldom.dev/) | 4/2 |
 

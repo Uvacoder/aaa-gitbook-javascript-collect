@@ -50,6 +50,7 @@
 * [Security](security.md)
 * [String](string.md)
 * [Transition](transition.md)
+* [Translate](translate.md)
 * [Tutorials/tests](tutorials-tests.md)
 * [Variables](variables.md)
 * [Video](video.md)
