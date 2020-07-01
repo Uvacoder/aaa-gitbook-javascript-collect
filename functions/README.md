@@ -8,6 +8,7 @@ description: c
 
 |  |  |
 | :--- | :--- |
+| [Arrow Function Best Practices](https://zellwk.com/blog/arrow-function-best-practices/?ck_subscriber_id=420572458) | 7/1 |
 | [How to set default function arguments with vanilla JS](https://gomakethings.com/how-to-set-default-function-arguments-with-vanilla-js/?mc_cid=a7ea7d7fc6&mc_eid=[UNIQID]) | 6/26 |
 | [JavaScript Fundamentals: Mastering Functions](https://itnext.io/javascript-fundamentals-mastering-functions-351594da10f5) | 5/9 |
 | [I never understood JavaScript closures](http://pop.frontendweekly.co/ZZDFJ3?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_193) | 3/11 |
