@@ -25,6 +25,11 @@ age: 100,
 name: 'John',
 });
 
+//prototype chain
+const newPerson = Object.create(personFunctionStore);
+...
+return newPerson;
+
 //to access properties use dot notation or square bracket
 console.log(person.age);
 console.log(person['age']); //can reference property using a variable by removing ''
