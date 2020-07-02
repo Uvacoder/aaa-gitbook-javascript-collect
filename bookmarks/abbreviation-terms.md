@@ -49,6 +49,13 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Constructor</td>
+      <td style="text-align:left">The <code>constructor</code> method is a special method for creating and
+        initializing an object created within a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class"><code>class</code></a>.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Encapsulation</td>
       <td style="text-align:left">Separating interface from implementation</td>
       <td style="text-align:left"></td>
