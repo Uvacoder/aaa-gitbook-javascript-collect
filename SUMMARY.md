@@ -52,6 +52,7 @@
 * [Transition](transition.md)
 * [Translate](translate.md)
 * [Tutorials/tests](tutorials-tests.md)
+* [Types](types.md)
 * [Variables](variables.md)
 * [Video](video.md)
 * [Vue](vue.md)
