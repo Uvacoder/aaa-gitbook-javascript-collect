@@ -51,7 +51,7 @@ Object.assign({}, person1); //old way to copy object
 //prototype chain
 function userCreator(name, score) {
   const newUser = Object.create(functionStore);
-  newUser.name = name;
+  newUser this.name = name;
   newUser.score = score;
   return newUser;
 };
