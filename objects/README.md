@@ -47,6 +47,47 @@ const person3 = { ...person1 };
 Object.assign({}, person1); //old way to copy object
 ```
 
+{% code title="New keyword" %}
+```javascript
+//prototype chain
+function userCreator(name, score) {
+  //const newUser = Object.create(functionStore);
+  /* newUser */ this.name = name;
+  /* newUser */ this.score = score;
+  //return newUser;
+};
+
+/* functionStore */ this.prototype // {};
+/* functionStore */ this.prototype.increment = function() {
+  this.score++;
+}
+
+//new keyword automates two things
+//1. create new user object. 
+//2. Return the new user object
+const user1 = new userCreator("Eva", 9)
+```
+{% endcode %}
+
+{% code title="Class keyword" %}
+```javascript
+//class syntactic sugar
+class UserCreator {
+constructor (name, score) {
+this.name = name;
+this.score = score;
+}
+increment() {this.score++;}
+login() { console.log("login"); }
+}
+
+const user1 = new UserCreator("Eva", 9);
+user1.increment();
+```
+{% endcode %}
+
+![](../.gitbook/assets/screen-shot-2020-07-02-at-1.49.47-pm.png)
+
 |  |  |
 | :--- | :--- |
 | [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor) | The constructor property returns a reference to the Object constructor function that created the instance object. Note that the value of this property is a reference to the function itself, not a string containing the function's name. The value is only read-only for primitive values such as 1, true and "test". |
