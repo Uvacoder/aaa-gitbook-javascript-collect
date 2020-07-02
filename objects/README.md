@@ -47,6 +47,7 @@ const person3 = { ...person1 };
 Object.assign({}, person1); //old way to copy object
 ```
 
+{% code title="New keyword" %}
 ```javascript
 //prototype chain
 function userCreator(name, score) {
@@ -66,6 +67,24 @@ function userCreator(name, score) {
 //2. Return the new user object
 const user1 = new userCreator("Eva", 9)
 ```
+{% endcode %}
+
+{% code title="Class keyword" %}
+```javascript
+//class syntactic sugar
+class UserCreator {
+constructor (name, score) {
+this.name = name;
+this.score = score;
+}
+increment() {this.score++;}
+login() { console.log("login"); }
+}
+
+const user1 = new UserCreator("Eva", 9);
+user1.increment();
+```
+{% endcode %}
 
 |  |  |
 | :--- | :--- |
