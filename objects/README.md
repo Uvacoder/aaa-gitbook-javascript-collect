@@ -49,9 +49,17 @@ Object.assign({}, person1); //old way to copy object
 
 ```javascript
 //prototype chain
-const newUser = Object.create(userFunctionStore);
-...
-return newUser;
+function userCreator(name, score) {
+  const newUser = Object.create(functionStore);
+  newUser.name = name;
+  newUser.score = score;
+  return newUser;
+};
+
+functionStore.prototype // {};
+functionStore.prototype.increment = function() {
+  this.score++;
+}
 
 //new keyword automates two things
 //1. create new user object. 
