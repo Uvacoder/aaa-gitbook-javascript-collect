@@ -1,20 +1,10 @@
 # Education
 
-### Javascript courses
-
-|  |  | start | end |
-| :--- | :--- | :--- | :--- |
-|  |  |  |  |
-| [keycode.info](http://keycode.info/) |  | 12/29/2019 | 12/29/2019 |
-| [Avocoder](https://bit.ly/2OvxFSP) |  | 11/1/2019 |  |
-| [medium](https://medium.com/@timothyrobards) | Timothy robards | 11/19/2019 |  |
-| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 31/85 |
-| [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
-
 ### Articles 2020
 
 | Title/link | date |
 | :--- | :--- |
+| [No, vanilla JS doesn't mean hand-writing every single line of code](https://gomakethings.com/no-vanilla-js-doesnt-mean-hand-writing-every-single-line-of-code/?mc_cid=92c999d1ff&mc_eid=[UNIQID]) | 7/2 |
 | [Stop Making These 5 Javascript Style Mistakes](https://medium.com/the-dev-caf%C3%A9/stop-making-these-5-javascript-style-mistakes-7b352e1b47e3) | 6/27 |
 | [5 Useful Tricks JavaScript has been Hiding from You](https://medium.com/javascript-in-plain-english/5-useful-tricks-javascript-has-been-hiding-from-you-b7fa38bd98d8) | 6/14 |
 | [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme) | 6/12 |
@@ -83,6 +73,17 @@
 | [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 |
 | [Using multiple selectors with querySelector\(\), querySelectorAll\(\), closest\(\), and matches\(\)](https://gomakethings.com/using-multiple-selectors-with-queryselector-queryselectorall-closest-and-matches/?mc_cid=14d796d5f8&mc_eid=e9174ba77f) | 1/2/2020 |
 | [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 |
+
+### Javascript courses
+
+|  |  | start | end |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
+| [keycode.info](http://keycode.info/) |  | 12/29/2019 | 12/29/2019 |
+| [Avocoder](https://bit.ly/2OvxFSP) |  | 11/1/2019 |  |
+| [medium](https://medium.com/@timothyrobards) | Timothy robards | 11/19/2019 |  |
+| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 31/85 |
+| [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
 
 ### 2019
 
