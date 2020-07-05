@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [JavaScript: How to Remove Duplicate Values from Arrays](https://dev.to/will_devs/javascript-how-to-remove-duplicate-values-from-arrays-lf0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 7/5 |
 | [How I work with arrays](https://zellwk.com/blog/how-i-work-with-arrays/?ck_subscriber_id=420572458) | 6/17 |
 | [Revisiting Array.reduce\(\)](https://gomakethings.com/revisiting-array.reduce/?mc_cid=349c39a779&mc_eid=[UNIQID]) | 6/9 |
 | [When to use which array method in vanilla JS](https://gomakethings.com/when-to-use-which-array-method-in-vanilla-js/?mc_cid=c513a900d9&mc_eid=[UNIQID]) | 6/3 |
