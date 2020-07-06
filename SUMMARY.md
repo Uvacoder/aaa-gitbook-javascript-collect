@@ -22,6 +22,7 @@
   * [Export default](es6/export-default.md)
 * [Events](events.md)
 * [Flow Control](flow-control.md)
+* [Form](form.md)
 * [Functions](functions/README.md)
   * [Arrow functions](functions/arrow-functions.md)
   * [Closure](functions/closure.md)
