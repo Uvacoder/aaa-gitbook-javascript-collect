@@ -1,5 +1,9 @@
 # Events
 
+|  |  |
+| :--- | :--- |
+| [🚀 Detecting If a User is Online/Offline with JavaScript](https://dev.to/nialljoemaher/detecting-if-a-user-is-online-offline-with-javascript-3bcc) | 7/8 |
+
 ### [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/Events?ck_subscriber_id=420572458#Mouse_events)
 
 |  |  |
