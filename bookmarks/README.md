@@ -4,6 +4,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [10 Things Every Developer Should Learn](https://medium.com/better-programming/10-things-every-developer-should-learn-72697ed5d94a) | 7/11 |
 | [No, vanilla JS doesn't mean hand-writing every single line of code](https://gomakethings.com/no-vanilla-js-doesnt-mean-hand-writing-every-single-line-of-code/?mc_cid=92c999d1ff&mc_eid=[UNIQID]) | 7/2 |
 | [Stop Making These 5 Javascript Style Mistakes](https://medium.com/the-dev-caf%C3%A9/stop-making-these-5-javascript-style-mistakes-7b352e1b47e3) | 6/27 |
 | [5 Useful Tricks JavaScript has been Hiding from You](https://medium.com/javascript-in-plain-english/5-useful-tricks-javascript-has-been-hiding-from-you-b7fa38bd98d8) | 6/14 |
