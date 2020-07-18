@@ -11,6 +11,7 @@
   * [npm](bundlers/npm.md)
   * [Parcel](bundlers/parcel.md)
   * [Webpack](bundlers/webpack.md)
+* [Buttons](buttons.md)
 * [Cheatsheets](cheatsheets.md)
 * [Console](console.md)
 * [Date](date.md)
