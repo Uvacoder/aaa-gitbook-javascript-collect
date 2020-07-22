@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Javascript regular expressions aren’t that daunting — here’s how to design your own](https://bestgamingpro.com/javascript-regular-expressions-arent-that-daunting-heres-how-to-design-your-own/) | 7/22 |
 | [Regex cheatsheet](https://gomakethings.com/regex-cheatsheet/?mc_cid=7b2b275824&mc_eid=[UNIQID]) | 6/11 |
 | [https://ihateregex.io/](https://ihateregex.io/) | 3/4 |
 | [http://regexr.com/](http://regexr.com/) | 1/22/2020 |
