@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Run a function after a specified amount of time using vanilla JS](https://gomakethings.com/run-a-function-after-a-specified-amount-of-time-using-vanilla-js/?mc_cid=42651963cd&mc_eid=[UNIQID]) | 7/26 |
 | [How to run a function repeatedly at a desired interval using vanilla JS](https://gomakethings.com/how-to-run-a-function-repeatedly-at-a-desired-interval-using-vanilla-js/?mc_cid=91a5e0a1b8&mc_eid=[UNIQID]) | 7/12 |
 | [The nullish coalescing operator in vanilla JS \(sorry, the what now?\)](https://gomakethings.com/the-nullish-coalescing-operator-in-vanilla-js-sorry-the-what-now/?mc_cid=847da65dd5&mc_eid=[UNIQID]) | 6/30 |
 | [Optional chaining in vanilla JS](https://gomakethings.com/optional-chaining-in-vanilla-js/?mc_cid=d4f6bcc5d0&mc_eid=[UNIQID]) | 6/29 |
