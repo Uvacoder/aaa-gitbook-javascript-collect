@@ -24,7 +24,8 @@
 * [Events](events.md)
 * [Flow Control](flow-control.md)
 * [Form](form.md)
-* [Framework](framework.md)
+* [Framework](framework/README.md)
+  * [Vue](framework/vue.md)
 * [Functions](functions/README.md)
   * [Arrow functions](functions/arrow-functions.md)
   * [Closure](functions/closure.md)
@@ -60,6 +61,5 @@
 * [Types](types.md)
 * [Variables](variables.md)
 * [Video](video.md)
-* [Vue](vue.md)
 * [Web Browser](web-browser.md)
 
