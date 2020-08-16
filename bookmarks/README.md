@@ -4,6 +4,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [What Replaces JavaScript](https://medium.com/young-coder/what-replaces-javascript-a6493b4e2d6e) | 8/16 |
 | [Preventing FOIT with web fonts using the vanilla JS fonts.load\(\) method](https://gomakethings.com/preventing-foit-with-web-fonts-using-the-vanilla-js-fonts.load-method/?mc_cid=86e6897d06&mc_eid=[UNIQID]) | 8/13 |
 | [The Future Of JavaScript: Why It Is The Language Of The Next 10 Years](https://medium.com/dev-genius/is-javascript-development-dying-1dbce0094fc0) | 8/2 |
 | [When should you use a framework?](https://gomakethings.com/when-should-you-use-a-framework/?mc_cid=605338be15&mc_eid=[UNIQID]) | 7/22 |
