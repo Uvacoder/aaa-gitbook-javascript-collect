@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to find specific items in an array with vanilla JS](https://gomakethings.com/how-to-find-specific-items-in-an-array-with-vanilla-js/?mc_cid=0ef9486dcc&mc_eid=[UNIQID]) | 9/1 |
 | [Removing duplicates from an array with the vanilla JS Set\(\) object](https://gomakethings.com/removing-duplicates-from-an-array-with-the-vanilla-js-set-object/?mc_cid=11d34946a2&mc_eid=[UNIQID]) | 8/1 |
 | [How to reorder an item in an array with vanilla JS](https://gomakethings.com/how-to-reorder-an-item-in-an-array-with-vanilla-js/?mc_cid=c0083d96b8&mc_eid=[UNIQID]) | 7/16 |
 | [JavaScript: How to Remove Duplicate Values from Arrays](https://dev.to/will_devs/javascript-how-to-remove-duplicate-values-from-arrays-lf0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 7/5 |
