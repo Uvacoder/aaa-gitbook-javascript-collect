@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to check if an element contains another one with the vanilla JS Node.contains\(\) method](https://gomakethings.com/how-to-check-if-an-element-contains-another-one-with-the-vanilla-js-node.contains-method/?mc_cid=8a49ef3986&mc_eid=[UNIQID]) | 9/3 |
 | [How to replace an element and its content using vanilla JS](https://gomakethings.com/how-to-replace-an-element-and-its-content-using-vanilla-js/?mc_cid=a31a2cd0aa&mc_eid=[UNIQID]) | 6/20 |
 | [JavaScript Fundamentals: Master the DOM! \(Part 2\)](https://medium.com/@timothyrobards/javascript-fundamentals-master-the-dom-part-2-bef36405598e) | 5/11 |
 | [https://htmldom.dev/](https://htmldom.dev/) | 4/2 |
