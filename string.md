@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to replace a section of a string with another one with vanilla JS](https://gomakethings.com/how-to-replace-a-section-of-a-string-with-another-one-with-vanilla-js/?mc_cid=251eb9b3cc&mc_eid=[UNIQID]) | 9/4 |
 | [Getting the last matching substring in a string with vanilla JS](https://gomakethings.com/getting-the-last-matching-substring-in-a-string-with-vanilla-js/?mc_cid=1bcacccb54&mc_eid=[UNIQID]) | 4/21 |
 | [How to remove white space from the beginning or end of a string with vanilla JS](https://gomakethings.com/how-to-remove-white-space-from-the-beginning-or-end-of-a-string-with-vanilla-js/?mc_cid=9d68dee46f&mc_eid=[UNIQID]) | 4/9 |
 | [Repeating a string with vanilla JavaScript](https://gomakethings.com/repeating-a-string-with-vanilla-javascript/?mc_cid=488e8f4357&mc_eid=[UNIQID]) | 3/30 |
