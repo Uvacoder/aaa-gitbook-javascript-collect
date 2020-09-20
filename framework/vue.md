@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Vuebersicht - custom desktop widgets](https://github.com/nickforddesign/vuebersicht) | 9/20 |
 | [A Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n) | 8/17 |
 | [5 JavaScript Tips I Learned From Vue Source Code](https://levelup.gitconnected.com/5-javascript-tips-i-learned-from-vue-source-code-6095df4e9bc1) | 5/17 |
 | [How to Boost Vue.js Performance](https://itnext.io/how-to-boost-vue-js-performance-c7df027ff3f5) | 4/19 |
