@@ -3,6 +3,7 @@
 * [Pages](README.md)
 * [Accessibility](accessibility.md)
 * [Animation](animation/README.md)
+  * [GSAP](animation/gsap.md)
   * [SVG](animation/svg/README.md)
     * [Greensock](animation/svg/greensock.md)
 * [API](api.md)
