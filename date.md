@@ -15,3 +15,14 @@
 | [.getMonth\(\)](https://gomakethings.com/getting-formatted-months-with-vanilla-js/) | 1/8/2020 |
 | .getTime\(\) |  |
 
+{% code title="Timestamp math" %}
+```javascript
+var second = 1000;
+var minute = 1000 * 60;
+var hour = 1000 * 60 * 60;
+var day = 1000 * 60 * 60 * 24;
+var week = 1000 * 60 * 60 * 24 * 7;
+var year = 1000 * 60 * 60 * 24 * 7 * 52;
+```
+{% endcode %}
+
