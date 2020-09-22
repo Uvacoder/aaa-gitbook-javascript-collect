@@ -23,6 +23,10 @@ var hour = 1000 * 60 * 60;
 var day = 1000 * 60 * 60 * 24;
 var week = 1000 * 60 * 60 * 24 * 7;
 var year = 1000 * 60 * 60 * 24 * 7 * 52;
+
+//Multiply the number of time units you want by the formula above.
+//For example, to jump 11 hours in the future or past
+//you would multiply the hour numbers above by 11.
 ```
 {% endcode %}
 
