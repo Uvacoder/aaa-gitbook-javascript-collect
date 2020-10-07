@@ -1,8 +1,9 @@
 # Operators
 
-|  |  |  |
-| :--- | :--- | :--- |
-| [MDN Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) | 1/2/2020 | 1/2/2020 |
+|  |  |
+| :--- | :--- |
+| [Comma Operator in JavaScript](https://medium.com/javascript-in-plain-english/comma-operator-in-javascript-cfe170f5b4d3) | 10/7 |
+| [MDN Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) | 1/2/2020 |
 
 ### Binary Operators
 
