@@ -2,7 +2,6 @@
 
 |  |  |
 | :--- | :--- |
-| [Passing Arrays as Function Arguments](https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c) | 10/12 |
 | [Checking if a value is an array with vanilla JS](https://gomakethings.com/checking-if-a-value-is-an-array-with-vanilla-js/?mc_cid=1b826fd865&mc_eid=[UNIQID]) | 9/2 |
 | [How to find specific items in an array with vanilla JS](https://gomakethings.com/how-to-find-specific-items-in-an-array-with-vanilla-js/?mc_cid=0ef9486dcc&mc_eid=[UNIQID]) | 9/1 |
 | [Removing duplicates from an array with the vanilla JS Set\(\) object](https://gomakethings.com/removing-duplicates-from-an-array-with-the-vanilla-js-set-object/?mc_cid=11d34946a2&mc_eid=[UNIQID]) | 8/1 |
