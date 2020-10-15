@@ -2,6 +2,7 @@
 
 |  | date |
 | :--- | :--- |
+| [Converting a jQuery plugin to vanilla JS: Lettering.js](https://gomakethings.com/converting-a-jquery-plugin-to-vanilla-js-lettering.js/) | 10/15 |
 | [How to convert the jQuery append\(\) function into vanilla JS](https://gomakethings.com/how-to-convert-the-jquery-append-function-into-vanilla-js/) | 10/9 |
 | [An Introduction to jQuery](https://itnext.io/an-introduction-to-jquery-53d821e13153) | 11/19/2019 |
 | [What you need to know about scroll-then-fix](https://medium.com/@christinagreene5/what-you-need-to-know-about-scroll-then-fix-17ce50364c15) | 11/18/2019 |
