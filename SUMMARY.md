@@ -2,6 +2,7 @@
 
 * [Pages](README.md)
 * [Accessibility](accessibility.md)
+* [Accordions](accordions.md)
 * [Animation](animation/README.md)
   * [GSAP](animation/gsap.md)
   * [SVG](animation/svg/README.md)
