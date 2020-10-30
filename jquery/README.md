@@ -2,6 +2,7 @@
 
 |  | date |
 | :--- | :--- |
+| [How to convert the jQuery click\(\) method to vanilla JS](https://gomakethings.com/how-to-convert-the-jquery-click-method-to-vanilla-js/) | 10/30 |
 | [How to convert the jQuery children\(\) method to vanilla JS](https://gomakethings.com/how-to-convert-the-jquery-children-method-to-vanilla-js/) | 10/25 |
 | [Converting jQuery's addClass\(\), removeClass\(\), toggleClass\(\), and hasClass\(\) methods to vanilla JS](https://gomakethings.com/converting-jquerys-addclass-removeclass-toggleclass-and-hasclass-methods-to-vanilla-js/) | 10/22 |
 | [Converting a jQuery plugin to vanilla JS: Lettering.js](https://gomakethings.com/converting-a-jquery-plugin-to-vanilla-js-lettering.js/) | 10/15 |
