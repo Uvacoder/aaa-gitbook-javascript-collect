@@ -4,6 +4,8 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [14 Fundamental JavaScript Concepts Explained Simply](https://medium.com/madhash/14-fundamental-javascript-concepts-explained-simply-8381dc9606c8) | 11/1 |
+| [Tricky JavaScript Questions](https://dev.to/tomeraitz/tricky-javascript-questions-7nk?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email#Answer-2) | 10/10 |
 | [Vanilla JS project: creating digital dice](https://gomakethings.com/vanilla-js-project-creating-digital-dice/) | 10/8 |
 | [Top 5 JavaScript secrets](https://areknawo.com/top-5-javascript-secrets/?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_219) | 9/16 |
 | [What Replaces JavaScript](https://medium.com/young-coder/what-replaces-javascript-a6493b4e2d6e) | 8/16 |
