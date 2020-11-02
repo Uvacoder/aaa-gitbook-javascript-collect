@@ -4,6 +4,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [The JavaScript Cheatsheet you need in 2020](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09) | 11/2 |
 | [14 Fundamental JavaScript Concepts Explained Simply](https://medium.com/madhash/14-fundamental-javascript-concepts-explained-simply-8381dc9606c8) | 11/1 |
 | [Tricky JavaScript Questions](https://dev.to/tomeraitz/tricky-javascript-questions-7nk?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email#Answer-2) | 10/10 |
 | [Vanilla JS project: creating digital dice](https://gomakethings.com/vanilla-js-project-creating-digital-dice/) | 10/8 |
