@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Converting the Vue.js markdown editor demo to vanilla JS](https://gomakethings.com/converting-the-vue.js-markdown-editor-demo-to-vanilla-js/) | 11/3 |
 | [Vuebersicht - custom desktop widgets](https://github.com/nickforddesign/vuebersicht) | 9/20 |
 | [A Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n) | 8/17 |
 | [5 JavaScript Tips I Learned From Vue Source Code](https://levelup.gitconnected.com/5-javascript-tips-i-learned-from-vue-source-code-6095df4e9bc1) | 5/17 |
