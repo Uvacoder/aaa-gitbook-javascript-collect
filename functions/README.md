@@ -8,6 +8,7 @@ description: c
 
 |  |  |
 | :--- | :--- |
+| [A Common JavaScript Interview Question Asked By Google & Amazon](https://medium.com/javascript-in-plain-english/a-common-javascript-interview-question-asked-by-google-amazon-f18a260dabde) | 11/7 |
 | [Enforcing a maximum number of parameters for a function in vanilla JS](https://gomakethings.com/enforcing-a-maximum-number-of-parameters-for-a-function-in-vanilla-js/) | 10/14 |
 | [Javascript - Curried Functions Basics \[ES6\]](https://medium.com/dev-genius/javascript-curried-functions-basics-es6-4831394841b6) | 10/11 |
 | [Arrow Function Best Practices](https://zellwk.com/blog/arrow-function-best-practices/?ck_subscriber_id=420572458) | 7/1 |
