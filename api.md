@@ -1,5 +1,9 @@
 # API
 
+|  |  |
+| :--- | :--- |
+| [How to Detect When a Sticky Element Gets Pinned](https://davidwalsh.name/detect-sticky?utm_source=Responsive+Design+Weekly&utm_campaign=f46addca91-RWD_Newsletter_435&utm_medium=email&utm_term=0_df65b6d7c8-f46addca91-59185629) | 11/13 |
+
 ### [API](https://developer.mozilla.org/en-US/docs/Web/API)
 
 |  |  |
