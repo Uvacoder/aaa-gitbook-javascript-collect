@@ -11,7 +11,13 @@
 
 ### Javascript courses
 
-|  |  |  |
-| :--- | :--- | :--- |
-| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 |
+|  |  |
+| :--- | :--- |
+| [Beginner Javascript](https://courses.wesbos.com/account) | 11/28/2019 |
+
+### Reference
+
+|  |  |
+| :--- | :--- |
+| [You might not need jQuery](http://youmightnotneedjquery.com/) | 9/1/2019 |
 
