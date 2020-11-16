@@ -84,6 +84,17 @@
 | [Using multiple selectors with querySelector\(\), querySelectorAll\(\), closest\(\), and matches\(\)](https://gomakethings.com/using-multiple-selectors-with-queryselector-queryselectorall-closest-and-matches/?mc_cid=14d796d5f8&mc_eid=e9174ba77f) | 1/2/2020 |
 | [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 |
 
+### Javascript courses
+
+|  |  | start | end |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
+| [keycode.info](http://keycode.info/) |  | 12/29/2019 | 12/29/2019 |
+| [Avocoder](https://bit.ly/2OvxFSP) |  | 11/1/2019 |  |
+| [medium](https://medium.com/@timothyrobards) | Timothy robards | 11/19/2019 |  |
+| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 31/85 |
+| [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
+
 ### 2019
 
 |  |  |  |
