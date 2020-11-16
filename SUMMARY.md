@@ -21,6 +21,7 @@
 * [DOM](dom.md)
 * [Education](bookmarks/README.md)
   * [Abbreviation/Terms](bookmarks/abbreviation-terms.md)
+  * [Feeds](bookmarks/feeds.md)
 * [ES6](es6/README.md)
   * [Export default](es6/export-default.md)
 * [Events](events.md)
