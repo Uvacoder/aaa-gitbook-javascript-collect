@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Best of Modern JavaScript — Async and Promises](https://medium.com/javascript-in-plain-english/best-of-modern-javascript-async-and-promises-38711c834d02) | 11/17 |
 | [JavaScript \| Promises](https://www.geeksforgeeks.org/javascript-promises/) |  |
 
 ```javascript
