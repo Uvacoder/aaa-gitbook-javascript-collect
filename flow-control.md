@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 ways to refactor if/else statements in JS functions](https://dev.to/sylwiavargas/5-ways-to-refactor-if-else-statements-in-js-functions-208e?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 11/19 |
 | [Conditional JavaScript for Experts](https://medium.com/hackernoon/conditional-javascript-for-experts-d2aa456ef67c) | 10/3 |
 | [Run a function after a specified amount of time using vanilla JS](https://gomakethings.com/run-a-function-after-a-specified-amount-of-time-using-vanilla-js/?mc_cid=42651963cd&mc_eid=[UNIQID]) | 7/26 |
 | [How to run a function repeatedly at a desired interval using vanilla JS](https://gomakethings.com/how-to-run-a-function-repeatedly-at-a-desired-interval-using-vanilla-js/?mc_cid=91a5e0a1b8&mc_eid=[UNIQID]) | 7/12 |
