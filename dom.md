@@ -154,8 +154,12 @@
         parent element.</td>
     </tr>
     <tr>
-      <td style="text-align:left">.nextElementSibling()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/nextElementSibling">.nextElementSibling()</a>
+      </td>
+      <td style="text-align:left">The <b><code>NonDocumentTypeChildNode.nextElementSibling</code></b> read-only
+        property returns the element immediately following the specified one in
+        its parent&apos;s children list, or <code>null</code> if the specified element
+        is the last one in the list.</td>
     </tr>
     <tr>
       <td style="text-align:left">.outerHTML()</td>
