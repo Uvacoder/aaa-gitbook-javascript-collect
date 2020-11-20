@@ -146,8 +146,12 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">.nextSibling()</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/nextSibling">.nextSibling()</a>
+      </td>
+      <td style="text-align:left">The <b><code>Node.nextSibling</code></b> read-only property returns the
+        node immediately following the specified one in their parent&apos;s <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes"><code>childNodes</code></a>,
+        or returns <code>null</code> if the specified node is the last child in the
+        parent element.</td>
     </tr>
     <tr>
       <td style="text-align:left">.nextElementSibling()</td>
