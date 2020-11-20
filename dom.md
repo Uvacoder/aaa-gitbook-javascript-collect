@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Nodes vs Elements in the DOM](https://medium.com/@issabmsangare/nodes-vs-elements-in-the-dom-1865885d0b9b#:~:text=An%20element%20is%20a%20specific,are%20one%20type%20of%20node.) | 11/20 |
 | [How to check if an element contains another one with the vanilla JS Node.contains\(\) method](https://gomakethings.com/how-to-check-if-an-element-contains-another-one-with-the-vanilla-js-node.contains-method/?mc_cid=8a49ef3986&mc_eid=[UNIQID]) | 9/3 |
 | [How to replace an element and its content using vanilla JS](https://gomakethings.com/how-to-replace-an-element-and-its-content-using-vanilla-js/?mc_cid=a31a2cd0aa&mc_eid=[UNIQID]) | 6/20 |
 | [JavaScript Fundamentals: Master the DOM! \(Part 2\)](https://medium.com/@timothyrobards/javascript-fundamentals-master-the-dom-part-2-bef36405598e) | 5/11 |
