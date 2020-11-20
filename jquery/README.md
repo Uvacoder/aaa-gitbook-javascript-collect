@@ -2,7 +2,6 @@
 
 |  | date |
 | :--- | :--- |
-| [Converting the jQuery next\(\) method to vanilla JS](https://gomakethings.com/converting-the-jquery-next-method-to-vanilla-js/) | 11/20 |
 | [Converting the jQuery remove\(\) method to vanilla JS](https://gomakethings.com/converting-the-jquery-remove-method-to-vanilla-js/) | 11/10 |
 | [How to convert the jQuery click\(\) method to vanilla JS](https://gomakethings.com/how-to-convert-the-jquery-click-method-to-vanilla-js/) | 10/30 |
 | [How to convert the jQuery children\(\) method to vanilla JS](https://gomakethings.com/how-to-convert-the-jquery-children-method-to-vanilla-js/) | 10/25 |
