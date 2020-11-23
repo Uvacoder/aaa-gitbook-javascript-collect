@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to get the index of an object in an array with vanilla JS](https://gomakethings.com/how-to-get-the-index-of-an-object-in-an-array-with-vanilla-js/) | 11/23 |
 | [How to check if an object has a property](https://gomakethings.com/how-to-check-if-an-object-has-a-property/?mc_cid=ef4f2f4240&mc_eid=[UNIQID]) | 6/13 |
 | [How to serialize form data into an object with vanilla JS](https://gomakethings.com/how-to-serialize-form-data-into-an-object-with-vanilla-js/?mc_cid=9ab46505a4&mc_eid=[UNIQID]) | 5/18  |
 | [How JavaScript Implements Object Oriented Programming](https://www.freecodecamp.org/news/how-javascript-implements-oop/) | 2/19 |
