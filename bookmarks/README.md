@@ -4,6 +4,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [Two JavaScript Coding Patterns That Give You Away as a Junior Developer](https://medium.com/better-programming/two-javascript-coding-patterns-that-give-you-away-as-a-junior-developer-38b4437c03ac) | 11/24 |
 | [The JavaScript Cheatsheet you need in 2020](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09) | 11/2 |
 | [14 Fundamental JavaScript Concepts Explained Simply](https://medium.com/madhash/14-fundamental-javascript-concepts-explained-simply-8381dc9606c8) | 11/1 |
 | [Tricky JavaScript Questions](https://dev.to/tomeraitz/tricky-javascript-questions-7nk?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email#Answer-2) | 10/10 |
@@ -83,17 +84,6 @@
 | [Destructuring in JavaScript](https://gomakethings.com/destructuring-in-javascript/?mc_cid=552d6d65c1&mc_eid=e9174ba77f) | 1/3/2020 |
 | [Using multiple selectors with querySelector\(\), querySelectorAll\(\), closest\(\), and matches\(\)](https://gomakethings.com/using-multiple-selectors-with-queryselector-queryselectorall-closest-and-matches/?mc_cid=14d796d5f8&mc_eid=e9174ba77f) | 1/2/2020 |
 | [How to self-teach JavaScript](https://carlanderson.xyz/how-to-self-teach-javascript/) | 1/2/2020 |
-
-### Javascript courses
-
-|  |  | start | end |
-| :--- | :--- | :--- | :--- |
-|  |  |  |  |
-| [keycode.info](http://keycode.info/) |  | 12/29/2019 | 12/29/2019 |
-| [Avocoder](https://bit.ly/2OvxFSP) |  | 11/1/2019 |  |
-| [medium](https://medium.com/@timothyrobards) | Timothy robards | 11/19/2019 |  |
-| [Beginner Javascript](https://courses.wesbos.com/account) | Wes Bos | 11/28/2019 | 31/85 |
-| [30 seconds of code](%20%20https://www.30secondsofcode.org/) |  | 12/4/2019 |  |
 
 ### 2019
 
