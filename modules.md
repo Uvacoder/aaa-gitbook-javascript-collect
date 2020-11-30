@@ -2,6 +2,10 @@
 
 |  |  |
 | :--- | :--- |
+| [An intro to import and export with ES modules](https://gomakethings.com/an-intro-to-import-and-export-with-es-modules/) | 11/30 |
+
+|  |  |
+| :--- | :--- |
 | export |  |
 | [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) | The static **`import`** statement is used to import bindings which are exported by another module. Imported modules are in [`strict mode`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) whether you declare them as such or not. The `import` statement cannot be used in embedded scripts unless such script has a `type="module"`. |
 
