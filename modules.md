@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Scoping with vanilla JS ES modules](https://gomakethings.com/scoping-with-vanilla-js-es-modules/) | 12/2 |
 | [How to define a default export with vanilla JS ES modules](https://gomakethings.com/how-to-define-a-default-export-with-vanilla-js-es-modules/) | 12/1 |
 | [An intro to import and export with ES modules](https://gomakethings.com/an-intro-to-import-and-export-with-es-modules/) | 11/30 |
 
