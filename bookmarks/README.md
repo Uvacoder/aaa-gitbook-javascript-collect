@@ -4,6 +4,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [17 Pro JavaScript tricks you didn't know](https://dev.to/rahxuls/17-pro-javascript-tricks-you-didn-t-know-5gog?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 12/3 |
 | [Two JavaScript Coding Patterns That Give You Away as a Junior Developer](https://medium.com/better-programming/two-javascript-coding-patterns-that-give-you-away-as-a-junior-developer-38b4437c03ac) | 11/24 |
 | [The JavaScript Cheatsheet you need in 2020](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09) | 11/2 |
 | [14 Fundamental JavaScript Concepts Explained Simply](https://medium.com/madhash/14-fundamental-javascript-concepts-explained-simply-8381dc9606c8) | 11/1 |
