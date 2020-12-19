@@ -4,6 +4,7 @@
 
 | Title/link | date |
 | :--- | :--- |
+| [How to build a vanilla JS speed reader app](https://gomakethings.com/how-to-build-a-vanilla-js-speed-reader-app/) | 12/19 |
 | [8 neat Javascript tricks you didn't know in 4 minutes.](https://dev.to/blessingartcreator/8-useful-javascript-tricks-you-didn-t-know-in-4-minutes-3npb?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 12/13 |
 | [17 Pro JavaScript tricks you didn't know](https://dev.to/rahxuls/17-pro-javascript-tricks-you-didn-t-know-5gog?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 12/3 |
 | [Two JavaScript Coding Patterns That Give You Away as a Junior Developer](https://medium.com/better-programming/two-javascript-coding-patterns-that-give-you-away-as-a-junior-developer-38b4437c03ac) | 11/24 |
