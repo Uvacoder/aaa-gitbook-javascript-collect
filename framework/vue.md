@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Vuetify — Hover](https://medium.com/javascript-in-plain-english/vuetify-hover-682d50f0a5b) | 12/20 |
 | [Converting the Vue.js markdown editor demo to vanilla JS](https://gomakethings.com/converting-the-vue.js-markdown-editor-demo-to-vanilla-js/) | 11/3 |
 | [Vuebersicht - custom desktop widgets](https://github.com/nickforddesign/vuebersicht) | 9/20 |
 | [A Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n) | 8/17 |
