@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [https://varun.ca/confetti/](https://varun.ca/confetti/) | 12/28 |
 | [The Making of: Netlify’s Million Devs SVG Animation Site](https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/) | 8/3 |
 | [Greensock youtube](https://www.youtube.com/channel/UCFPckx3BFK_GvJag82CjDlg) | 6/2 |
 | [Stop importing Multiple Fonts and Start using Variable Fonts](https://blog.prototypr.io/stop-importing-multiple-fonts-and-start-using-variable-fonts-86329399098b) | 5/12 |
