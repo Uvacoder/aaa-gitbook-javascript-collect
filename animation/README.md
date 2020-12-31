@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Making Animated Sprites Interactive with JavaScript! - \(Digital Ocean Hackathon Blog: Part 2\)](https://dev.to/jpuls/making-animated-sprites-interactive-with-javascript-digital-ocean-hackathon-blog-part-2-4fhb) | 12/31 |
 | [https://varun.ca/confetti/](https://varun.ca/confetti/) | 12/28 |
 | [The Making of: Netlify’s Million Devs SVG Animation Site](https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/) | 8/3 |
 | [Greensock youtube](https://www.youtube.com/channel/UCFPckx3BFK_GvJag82CjDlg) | 6/2 |
