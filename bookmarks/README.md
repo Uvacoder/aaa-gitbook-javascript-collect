@@ -1,6 +1,12 @@
 # Education
 
-### Articles 2020
+### 2021 Articles
+
+|  |  |
+| :--- | :--- |
+| [PHP vs JavaScript: An In-Depth Comparison of the Two Scripting Languages](https://kinsta.com/blog/php-vs-javascript/) | 1/1 |
+
+### 2020 Articles
 
 | Title/link | date |
 | :--- | :--- |
