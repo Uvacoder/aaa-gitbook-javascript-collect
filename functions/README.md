@@ -4,7 +4,13 @@ description: c
 
 # Functions
 
-### Articles
+### 2021 Articles
+
+|  |  |
+| :--- | :--- |
+| [When to use a function declaration vs. a function expression](https://medium.com/free-code-camp/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0) | 1/2 |
+
+### 2020 Articles
 
 |  |  |
 | :--- | :--- |
