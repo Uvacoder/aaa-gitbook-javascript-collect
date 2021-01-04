@@ -1,7 +1,5 @@
 # Bundlers
 
-[https://ced.hashnode.dev/goodbye-webpack-hello-parcel-ck156yl0u00qgqis18bqopvvo](https://ced.hashnode.dev/goodbye-webpack-hello-parcel-ck156yl0u00qgqis18bqopvvo)
-
 |  |  |
 | :--- | :--- |
 | [Do you need build tools?](https://gomakethings.com/do-you-need-build-tools/) | 1/4/2021 |
