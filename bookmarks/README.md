@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Yes, vanilla JS does scale](https://gomakethings.com/yes-vanilla-js-does-scale/) | 1/8 |
 | [PHP vs JavaScript: An In-Depth Comparison of the Two Scripting Languages](https://kinsta.com/blog/php-vs-javascript/) | 1/1 |
 
 ### 2020 Articles
