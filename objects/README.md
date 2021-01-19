@@ -1,6 +1,12 @@
 # Objects
 
-### Articles
+### 2021\
+
+|  |  |
+| :--- | :--- |
+| [The spread syntax operator in vanilla JS](https://gomakethings.com/the-spread-syntax-operator-in-vanilla-js/) | 1/19 |
+
+### Articles 2020
 
 |  |  |
 | :--- | :--- |
