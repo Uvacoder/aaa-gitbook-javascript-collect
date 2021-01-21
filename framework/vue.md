@@ -1,7 +1,16 @@
 # Vue
 
+### 2021
+
 |  |  |
 | :--- | :--- |
+| [Write Beautiful Documentation Quickly with Vitepress](https://learnvue.co/2021/01/write-beautiful-documentation-quickly-with-vitepress/?utm_source=learnvue_newsletter&utm_medium=email&utm_campaign=jan212020) | 1/21 |
+
+### 2020
+
+|  |  |
+| :--- | :--- |
+| [Tips and tricks to create smooth animation in Vue 3](https://keefdrive.medium.com/tips-and-tricks-to-create-smooth-animation-in-vue-3-71b8b20e6400) | 12/28 |
 | [Vuetify — Hover](https://medium.com/javascript-in-plain-english/vuetify-hover-682d50f0a5b) | 12/20 |
 | [Converting the Vue.js markdown editor demo to vanilla JS](https://gomakethings.com/converting-the-vue.js-markdown-editor-demo-to-vanilla-js/) | 11/3 |
 | [Vuebersicht - custom desktop widgets](https://github.com/nickforddesign/vuebersicht) | 9/20 |
