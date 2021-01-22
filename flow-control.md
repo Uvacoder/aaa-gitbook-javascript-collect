@@ -1,5 +1,13 @@
 # Flow Control
 
+### 2021
+
+|  |  |
+| :--- | :--- |
+| [The for...of loop in vanilla JS](https://gomakethings.com/the-for...of-loop-in-vanilla-js/) | 1/22 |
+
+### 2020
+
 |  |  |
 | :--- | :--- |
 | [5 ways to refactor if/else statements in JS functions](https://dev.to/sylwiavargas/5-ways-to-refactor-if-else-statements-in-js-functions-208e?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 11/19 |
