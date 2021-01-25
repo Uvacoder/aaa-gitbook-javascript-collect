@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to use the Map\(\) object in vanilla JS](https://gomakethings.com/how-to-use-the-map-object-in-vanilla-js/) | 1/25 |
 | [Destructing in vanilla JS](https://gomakethings.com/destructing-in-vanilla-js/) | 1/20 |
 | [The spread syntax operator in vanilla JS](https://gomakethings.com/the-spread-syntax-operator-in-vanilla-js/) | 1/19 |
 
