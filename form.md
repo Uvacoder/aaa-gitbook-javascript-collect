@@ -1,5 +1,13 @@
 # Form
 
+### 2021
+
+|  |  |
+| :--- | :--- |
+| [How to serialize form data with vanilla JS](https://gomakethings.com/how-to-serialize-form-data-with-vanilla-js/) | 1/26 |
+
+### 2020
+
 |  |  |
 | :--- | :--- |
 | [How to work with multiselect elements in vanilla JS](https://gomakethings.com/how-to-work-with-multiselect-elements-in-vanilla-js/) | 10/6 |
