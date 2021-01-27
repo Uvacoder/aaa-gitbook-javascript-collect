@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Stack and Queue in JavaScript](https://www.telerik.com/blogs/stack-queue-javascript?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_238) | 1/27 |
 | [Switching Your Career to Programming](https://blog.prototypr.io/switching-your-career-to-programming-11c7234687b2) | 1/23 |
 | [How to create a range of numbers with vanilla JS](https://gomakethings.com/how-to-create-a-range-of-numbers-with-vanilla-js/) | 1/13 |
 | [Two practical uses for the Array.fill\(\) method](https://gomakethings.com/two-practical-uses-for-the-array.fill-method/) | 1/12 |
