@@ -2,11 +2,12 @@
 
 |  |  |
 | :--- | :--- |
+| [How to write super simple \(and useful\) regular expressions for real world challenges](https://zellwk.com/blog/simple-real-world-regex/?ck_subscriber_id=420572458) | 1/28/2021 |
 | [Javascript regular expressions aren’t that daunting — here’s how to design your own](https://bestgamingpro.com/javascript-regular-expressions-arent-that-daunting-heres-how-to-design-your-own/) | 7/22 |
 | [Regex cheatsheet](https://gomakethings.com/regex-cheatsheet/?mc_cid=7b2b275824&mc_eid=[UNIQID]) | 6/11 |
 | [https://ihateregex.io/](https://ihateregex.io/) | 3/4 |
-| [http://regexr.com/](http://regexr.com/) | 1/22/2020 |
-| [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71) | 1/21/2020 |
+| [http://regexr.com/](http://regexr.com/) | 1/22 |
+| [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71) | 1/21 |
 | [Regex with JavaScript](https://gomakethings.com/regex-with-javascript/?mc_cid=b8a79b9d38&mc_eid=e9174ba77f) | 1/17/2020 |
 | [Intro to Regex for Web Developers](https://dev.to/chrisachard/intro-to-regex-for-web-developers-2fj4) |  |
 | [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285) |  |
