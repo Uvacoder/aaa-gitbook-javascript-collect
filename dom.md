@@ -1,5 +1,13 @@
 # DOM
 
+### 2021
+
+|  |  |
+| :--- | :--- |
+| [The Element.style.cssText property in vanilla JS](https://gomakethings.com/the-element.style.csstext-property-in-vanilla-js/) | 2/1 |
+
+### 2020
+
 |  |  |
 | :--- | :--- |
 | [Nodes vs Elements in the DOM](https://medium.com/@issabmsangare/nodes-vs-elements-in-the-dom-1865885d0b9b#:~:text=An%20element%20is%20a%20specific,are%20one%20type%20of%20node.) | 11/20 |
