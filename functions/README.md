@@ -8,6 +8,7 @@ description: c
 
 |  |  |
 | :--- | :--- |
+| [Default parameter values in vanilla JS](https://gomakethings.com/default-parameter-values-in-vanilla-js/) | 2/2 |
 | [When to use a function declaration vs. a function expression](https://medium.com/free-code-camp/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0) | 1/2 |
 
 ### 2020 Articles
