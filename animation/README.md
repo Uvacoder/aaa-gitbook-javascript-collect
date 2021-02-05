@@ -1,5 +1,13 @@
 # Animation
 
+### 2021
+
+|  |  |
+| :--- | :--- |
+| [Spotlight cursor text screen](https://codepen.io/carolineartz/pen/rNaGQYo) | 2/5 |
+
+### 2020
+
 |  |  |
 | :--- | :--- |
 | [Making Animated Sprites Interactive with JavaScript! - \(Digital Ocean Hackathon Blog: Part 2\)](https://dev.to/jpuls/making-animated-sprites-interactive-with-javascript-digital-ocean-hackathon-blog-part-2-4fhb) | 12/31 |
