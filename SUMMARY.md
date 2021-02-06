@@ -34,6 +34,7 @@
   * [Closure](functions/closure.md)
   * [Snippets](functions/snippets.md)
   * [this](functions/this.md)
+* [Intersection Observer](intersection-observer.md)
 * [JSON](json/README.md)
   * [JSON.stringify\(\)](json/json.stringify.md)
 * [jQuery](jquery/README.md)
