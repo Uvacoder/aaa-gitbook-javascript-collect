@@ -1,8 +1,9 @@
 # Variables
 
-{% embed url="https://medium.com/startcode/javascript-basics-variables-389d4f2401d7" %}
-
-
+|  |  |
+| :--- | :--- |
+| [The difference between let, var, and const for defining JavaScript variables \(and why you should probably just use let\)](https://gomakethings.com/the-difference-between-let-var-and-const-for-defining-javascript-variables-and-why-you-should-probably-just-use-let/) | 2/8 |
+| [Javascript Basics: Variables](https://medium.com/startcode/javascript-basics-variables-389d4f2401d7) |  |
 
 _Definition \(Wiki\): A variable is a storage location in memory paired with a symbolic name \(identifier\), which contains some known quantity of information referred to as a value._
 
