@@ -16,6 +16,7 @@
 * [Buttons](buttons.md)
 * [Cheatsheets](cheatsheets.md)
 * [Console](console.md)
+* [Cookie](cookie.md)
 * [Date](date.md)
 * [Debugger](debugger.md)
 * [DOM](dom.md)
