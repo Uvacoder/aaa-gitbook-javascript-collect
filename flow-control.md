@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to use async and await in vanilla JS](https://gomakethings.com/how-to-use-async-and-await-in-vanilla-js/) | 2/15 |
 | [What is Zone.js in 5 Minutes](https://medium.com/javascript-in-plain-english/what-is-zone-why-zone-8534350480dd) | 1/29 |
 | [The for...of loop in vanilla JS](https://gomakethings.com/the-for...of-loop-in-vanilla-js/) | 1/22 |
 
