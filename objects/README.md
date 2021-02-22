@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Destructuring function parameters with vanilla JS for better developer ergonomics](https://gomakethings.com/destructuring-function-parameters-with-vanilla-js-for-better-developer-ergonomics/) | 2/22 |
 | [The Object.fromEntries\(\) method in vanilla JS](https://gomakethings.com/the-object.fromentries-method-in-vanilla-js/) | 1/30 |
 | [How to use the Map\(\) object in vanilla JS](https://gomakethings.com/how-to-use-the-map-object-in-vanilla-js/) | 1/25 |
 | [Destructing in vanilla JS](https://gomakethings.com/destructing-in-vanilla-js/) | 1/20 |
