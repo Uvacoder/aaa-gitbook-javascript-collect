@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Making objects and arrays immutable with vanilla JS](https://gomakethings.com/making-objects-and-arrays-immutable-with-vanilla-js/) | 2/26 |
 | [Immutability with multidimensional arrays and objects in vanilla JS](https://gomakethings.com/immutability-with-multidimensional-arrays-and-objects-in-vanilla-js/) | 2/25 |
 | [What is immutability?](https://gomakethings.com/immutable-arrays-and-objects-in-vanilla-js/) | 2/24 |
 | [Object property shorthand values with vanilla JS](https://gomakethings.com/object-property-shorthand-values-with-vanilla-js/) | 2/23 |
