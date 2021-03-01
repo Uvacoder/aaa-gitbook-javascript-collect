@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Issues with looping over an object, the Object.hasOwnProperty\(\) method, and the Object.create\(\) method in vanilla JS](https://gomakethings.com/issues-with-looping-over-an-object-the-object.hasownproperty-method-and-the-object.create-method-in-vanilla-js/) | 3/1 |
 | [Making objects and arrays immutable with vanilla JS](https://gomakethings.com/making-objects-and-arrays-immutable-with-vanilla-js/) | 2/26 |
 | [Immutability with multidimensional arrays and objects in vanilla JS](https://gomakethings.com/immutability-with-multidimensional-arrays-and-objects-in-vanilla-js/) | 2/25 |
 | [What is immutability?](https://gomakethings.com/immutable-arrays-and-objects-in-vanilla-js/) | 2/24 |
