@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [The Array.shift\(\) method in vanilla JS](https://gomakethings.com/the-array.shift-method-in-vanilla-js/) | 3/2 |
 | [How to get the index of an array item in a vanilla JS for...of loop](https://gomakethings.com/how-to-get-the-index-of-an-array-item-in-a-vanilla-js-for...of-loop/) | 2/11 |
 | [The Array.isArray\(\) method in vanilla JS](https://gomakethings.com/the-array.isarray-method-in-vanilla-js/) | 1/16 |
 
