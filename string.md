@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Get characters of a string](https://getfrontend.tips/get-characters-of-a-string.html) | 3/4 |
 | [5 Secret features of JSON.stringify\(\)](https://medium.com/javascript-in-plain-english/5-secret-features-of-json-stringify-c699340f9f27) | 11/26 |
 | [4 Ways To Append \(Concatenate\) Strings In JavaScript](https://medium.com/javascript-in-plain-english/how-to-append-concatenate-strings-in-javascript-a-few-different-ways-e1d5a97f4503) | 11/12 |
 | [How to replace all instances of a string with another with vanilla JS](https://gomakethings.com/how-to-replace-all-instances-of-a-string-with-another-with-vanilla-js/?mc_cid=376b7ffb17&mc_eid=[UNIQID]) | 9/7 |
