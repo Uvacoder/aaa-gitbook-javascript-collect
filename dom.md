@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [The difference between attributes and properties in vanilla JS](https://gomakethings.com/the-difference-between-attributes-and-properties-in-vanilla-js/) | 3/12 |
 | [The Element.style.cssText property in vanilla JS](https://gomakethings.com/the-element.style.csstext-property-in-vanilla-js/) | 2/1 |
 
 ### 2020

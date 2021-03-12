@@ -1,7 +1,3 @@
----
-description: c
----
-
 # Functions
 
 ### 2021 Articles
