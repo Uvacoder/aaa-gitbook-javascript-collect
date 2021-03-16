@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Creating a new element with vanilla JS](https://gomakethings.com/creating-a-new-element-with-vanilla-js/) | 3/16 |
 | [The difference between attributes and properties in vanilla JS](https://gomakethings.com/the-difference-between-attributes-and-properties-in-vanilla-js/) | 3/12 |
 | [The Element.style.cssText property in vanilla JS](https://gomakethings.com/the-element.style.csstext-property-in-vanilla-js/) | 2/1 |
 
