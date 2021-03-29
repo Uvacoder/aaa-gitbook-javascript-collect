@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Live vs. static NodeLists and HTMLCollections in vanilla JS](https://gomakethings.com/live-vs.-static-nodelists-and-htmlcollections-in-vanilla-js/) | 3/29 |
 | [How to clone a node or element with vanilla JS](https://gomakethings.com/how-to-clone-a-node-or-element-with-vanilla-js/) | 3/27 |
 | [How to remove an element from the DOM with vanilla JS](https://gomakethings.com/how-to-remove-an-element-from-the-dom-with-vanilla-js/) | 3/25 |
 | [Adding elements to the beginning of a group with vanilla JS](https://gomakethings.com/adding-elements-to-the-beginning-of-a-group-with-vanilla-js/) | 3/24 |
