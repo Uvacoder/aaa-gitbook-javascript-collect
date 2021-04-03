@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [10 Fundamentals You Need To Know About Functions in Javascript](https://betterprogramming.pub/10-fundamentals-you-need-to-know-about-functions-in-javascript-8e74579b7a9a) | 4/3 |
 | [Rest parameters in JavaScript functions](https://gomakethings.com/rest-parameters-in-javascript-functions/) | 3/21 |
 | [The arguments object in JavaScript functions](https://gomakethings.com/the-arguments-object-in-javascript-functions/) | 3/20 |
 | [Default parameter values in vanilla JS](https://gomakethings.com/default-parameter-values-in-vanilla-js/) | 2/2 |
