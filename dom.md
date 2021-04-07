@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to replace an element with vanilla js](https://gomakethings.com/how-to-replace-an-element-with-vanilla-js/) | 4/7 |
 | [The Element.innerHTML and Element.outerHTML properties in vanilla JS](https://gomakethings.com/the-element.innerhtml-and-element.outerhtml-properties-in-vanilla-js/) | 4/6 |
 | [Live vs. static NodeLists and HTMLCollections in vanilla JS](https://gomakethings.com/live-vs.-static-nodelists-and-htmlcollections-in-vanilla-js/) | 3/29 |
 | [How to clone a node or element with vanilla JS](https://gomakethings.com/how-to-clone-a-node-or-element-with-vanilla-js/) | 3/27 |
