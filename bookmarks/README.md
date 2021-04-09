@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [8 JavaScript Tips & Tricks That No One Teaches 🚀](https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1) | 4/9 |
 | [Documenting JavaScript](https://gomakethings.com/documenting-javascript/) | 3/30 |
 | [First Impression of Frontend JS as a Backend Developer](https://betterprogramming.pub/first-impression-of-frontend-js-as-a-backend-developer-f948aa0410ae) | 3/10 |
 | [Stop using margin, use Spacer component instead!](https://javascript.plainenglish.io/stop-using-margin-use-spacer-component-instead-953d9b2dbacc) | 3/8 |
