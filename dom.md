@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to get the width and height of the viewport with vanilla JS](https://gomakethings.com/how-to-get-the-width-and-height-of-the-viewport-with-vanilla-js/) | 4/10 |
 | [The Element.getBoundingClientRect\(\) method in vanilla JS](https://gomakethings.com/the-element.getboundingclientrect-method-in-vanilla-js/) | 4/8 |
 | [How to replace an element with vanilla js](https://gomakethings.com/how-to-replace-an-element-with-vanilla-js/) | 4/7 |
 | [The Element.innerHTML and Element.outerHTML properties in vanilla JS](https://gomakethings.com/the-element.innerhtml-and-element.outerhtml-properties-in-vanilla-js/) | 4/6 |
