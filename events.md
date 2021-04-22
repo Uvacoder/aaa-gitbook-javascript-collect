@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Custom events in vanilla JS](https://gomakethings.com/custom-events-in-vanilla-js/) | 4/22 |
 | [Custom Events with Vanilla JavaScript](https://gomakethings.com/custom-events-with-vanilla-javascript/?mc_cid=d3bf336775&mc_eid=[UNIQID]) | 8/24 |
 | [🚀 Detecting If a User is Online/Offline with JavaScript](https://dev.to/nialljoemaher/detecting-if-a-user-is-online-offline-with-javascript-3bcc) | 7/8 |
 
