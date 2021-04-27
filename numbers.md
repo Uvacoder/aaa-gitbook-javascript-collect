@@ -1,5 +1,9 @@
 # Numbers
 
+|  |  |
+| :--- | :--- |
+| [The isNaN\(\) and Number.isNaN\(\) methods in vanilla JS](https://gomakethings.com/the-isnan-and-number.isnan-methods-in-vanilla-js/) | 3/6 |
+
 ### [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 |  |  |

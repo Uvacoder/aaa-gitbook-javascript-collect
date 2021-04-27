@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Custom event naming conventions in vanilla JS](https://gomakethings.com/custom-event-naming-conventions-in-vanilla-js/) | 4/27 |
 | [5 Great but Lesser-Known JavaScript Features](https://javascript.plainenglish.io/5-great-little-javascript-features-8bc2bec6dcb6) | 4/24 |
 | [5 JavaScript Concepts every Web Developer should Understand](https://javascript.plainenglish.io/5-javascript-concepts-every-web-developer-should-understand-530a3c81f204) | 4/15 |
 | [8 JavaScript Tips & Tricks That No One Teaches 🚀](https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1) | 4/9 |

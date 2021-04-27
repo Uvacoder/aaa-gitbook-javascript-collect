@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [A custom event helper function](https://gomakethings.com/a-custom-event-helper-function/) | 4/26 |
 | [10 Fundamentals You Need To Know About Functions in Javascript](https://betterprogramming.pub/10-fundamentals-you-need-to-know-about-functions-in-javascript-8e74579b7a9a) | 4/3 |
 | [Rest parameters in JavaScript functions](https://gomakethings.com/rest-parameters-in-javascript-functions/) | 3/21 |
 | [The arguments object in JavaScript functions](https://gomakethings.com/the-arguments-object-in-javascript-functions/) | 3/20 |
