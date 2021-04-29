@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [API credentials and security with vanilla JS](https://gomakethings.com/api-credentials-and-security-with-vanilla-js/) | 4/29 |
 | [API authentication with vanilla JS](https://gomakethings.com/api-authentication-with-vanilla-js/) | 4/28 |
 | [How to Use the Web Storage API](https://blog.bitsrc.io/localstorage-sessionstorage-the-web-storage-of-the-web-6b7ca51c8b2a) | 2/21 |
 | [How to Detect When a Sticky Element Gets Pinned](https://davidwalsh.name/detect-sticky?utm_source=Responsive+Design+Weekly&utm_campaign=f46addca91-RWD_Newsletter_435&utm_medium=email&utm_term=0_df65b6d7c8-f46addca91-59185629) | 11/13 |
