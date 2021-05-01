@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to setup a middleman API with vanilla JS](https://gomakethings.com/how-to-setup-a-middleman-api-with-vanilla-js/) | 5/1 |
 | [API credentials and security with vanilla JS](https://gomakethings.com/api-credentials-and-security-with-vanilla-js/) | 4/29 |
 | [API authentication with vanilla JS](https://gomakethings.com/api-authentication-with-vanilla-js/) | 4/28 |
 | [How to Use the Web Storage API](https://blog.bitsrc.io/localstorage-sessionstorage-the-web-storage-of-the-web-6b7ca51c8b2a) | 2/21 |
