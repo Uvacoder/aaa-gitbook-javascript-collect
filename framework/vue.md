@@ -4,7 +4,6 @@
 
 |  |  |
 | :--- | :--- |
-| [Vue Ecosystem](https://medium.com/js-dojo/vue-ecosystem-979773a9bf54) | 5/8 |
 | [Write Beautiful Documentation Quickly with Vitepress](https://learnvue.co/2021/01/write-beautiful-documentation-quickly-with-vitepress/?utm_source=learnvue_newsletter&utm_medium=email&utm_campaign=jan212020) | 1/21 |
 
 ### 2020

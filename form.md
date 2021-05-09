@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Abstracting a vanilla JS autocomplete component](https://gomakethings.com/abstracting-a-vanilla-js-autocomplete-component/) | 5/9 |
 | [How to serialize form data with vanilla JS](https://gomakethings.com/how-to-serialize-form-data-with-vanilla-js/) | 1/26 |
 
 ### 2020
