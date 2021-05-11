@@ -19,6 +19,7 @@
 
 |  |  |
 | :--- | :--- |
+| [java5cript](https://www.java5cript.com/) | 5/11 |
 | [MDN](https://developer.mozilla.org/en-US/) | 11/16 |
 | [212 Favorite JavaScript Utilities](https://1loc.dev/) | 11/16 |
 | [You might not need jQuery](http://youmightnotneedjquery.com/) | 9/1/2019 |
