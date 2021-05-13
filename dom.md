@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to get the next and previous sibling elements with vanilla JS](https://gomakethings.com/how-to-get-the-next-and-previous-sibling-elements-with-vanilla-js/) | 5/12 |
 | [Challenges and limitations with advanced selectors and the document.querySelectorAll\(\) method](https://gomakethings.com/challenges-and-limitations-with-advanced-selectors-and-the-document.queryselectorall-method/) | 4/21 |
 | [How to add and remove classes with vanilla JS](https://gomakethings.com/how-to-add-and-remove-classes-with-vanilla-js/) | 4/19 |
 | [How to get the width and height of the viewport with vanilla JS](https://gomakethings.com/how-to-get-the-width-and-height-of-the-viewport-with-vanilla-js/) | 4/10 |
