@@ -58,6 +58,7 @@
 * [Sandboxes](sandboxes.md)
 * [Scope](scope.md)
 * [Security](security.md)
+* [setTimeout](settimeout.md)
 * [Service Worker](service-worker.md)
 * [String](string.md)
 * [Transition](transition.md)
