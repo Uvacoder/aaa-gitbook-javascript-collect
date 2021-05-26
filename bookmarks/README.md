@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [10 Clever JavaScript Tricks That Every Developer Should Know](https://radiant-brushlands-42789.herokuapp.com/medium.com/geekculture/10-clever-javascript-tricks-that-every-developer-should-know-e0be92bcfe9) | 5/26 |
 | [20 JavaScript Concepts you should know as a JavaScript Programmer!](https://radiant-brushlands-42789.herokuapp.com/blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e) | 5/22 |
 | [Improve JavaScript Code Quality with These Best Practices](https://javascript.plainenglish.io/improve-javascript-code-quality-with-these-best-practices-ee883a124d8e) | 5/12 |
 | [Custom event naming conventions in vanilla JS](https://gomakethings.com/custom-event-naming-conventions-in-vanilla-js/) | 4/27 |
