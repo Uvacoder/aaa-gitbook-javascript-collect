@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to add characters to the beginning or end of a string if it's less than a certain length with vanilla JS](https://gomakethings.com/how-to-add-characters-to-the-beginning-or-end-of-a-string-if-its-less-than-a-certain-length-with-vanilla-js/) | 6/12 |
 | [JavaScript Strings: 10 Fundamentals You Should Know](https://medium.com/dailyjs/javascript-strings-10-fundamentals-you-should-know-d29e6e5f3a1a) | 5/20 |
 | [Template literals and string interpolation in vanilla JS](https://gomakethings.com/template-literals-and-string-interpolation-in-vanilla-js/) | 4/4 |
 | [Get characters of a string](https://getfrontend.tips/get-characters-of-a-string.html) | 3/4 |
