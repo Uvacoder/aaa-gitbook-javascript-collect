@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Getting the index of the last matching item in an array with vanilla JS](https://gomakethings.com/getting-the-index-of-the-last-matching-item-in-an-array-with-vanilla-js/) | 6/15 |
 | [How to trim whitespace from the beginning and end of a string with vanilla JS](https://gomakethings.com/how-to-trim-whitespace-from-the-beginning-and-end-of-a-string-with-vanilla-js/) | 6/13 |
 | [How to add characters to the beginning or end of a string if it's less than a certain length with vanilla JS](https://gomakethings.com/how-to-add-characters-to-the-beginning-or-end-of-a-string-if-its-less-than-a-certain-length-with-vanilla-js/) | 6/12 |
 | [JavaScript Strings: 10 Fundamentals You Should Know](https://medium.com/dailyjs/javascript-strings-10-fundamentals-you-should-know-d29e6e5f3a1a) | 5/20 |
