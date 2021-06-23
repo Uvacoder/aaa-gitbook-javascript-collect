@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to Use Environment Variables in VanillaJS](https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_259) | 6/23 |
 | [The difference between let, var, and const for defining JavaScript variables \(and why you should probably just use let\)](https://gomakethings.com/the-difference-between-let-var-and-const-for-defining-javascript-variables-and-why-you-should-probably-just-use-let/) | 2/8 |
 | [Javascript Basics: Variables](https://medium.com/startcode/javascript-basics-variables-389d4f2401d7) |  |
 
