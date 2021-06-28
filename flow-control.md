@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Automatically provided arguments in JavaScript callback functions](https://gomakethings.com/automatically-provided-arguments-in-javascript-callback-functions/) | 6/28 |
 | [Learn callbacks, promises, Async/Await by Making Ice Cream 🍧🍨🍦](https://dev.to/joyshaheb/learn-callbacks-promises-async-await-by-making-ice-cream-4n76) | 6/24 |
 | [How to structure asynchronous JavaScript with async and await](https://gomakethings.com/how-to-structure-asynchronous-javascript-with-async-and-await/) | 2/16 |
 | [How to use async and await in vanilla JS](https://gomakethings.com/how-to-use-async-and-await-in-vanilla-js/) | 2/15 |
