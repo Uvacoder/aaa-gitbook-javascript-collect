@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to use named functions as callbacks in your JavaScript](https://gomakethings.com/how-to-use-named-functions-as-callbacks-in-your-javascript/) | 7/3 |
 | [Arrow functions in vanilla JS](https://gomakethings.com/arrow-functions-in-vanilla-js/) | 6/3 |
 | [A custom event helper function](https://gomakethings.com/a-custom-event-helper-function/) | 4/26 |
 | [10 Fundamentals You Need To Know About Functions in Javascript](https://betterprogramming.pub/10-fundamentals-you-need-to-know-about-functions-in-javascript-8e74579b7a9a) | 4/3 |
