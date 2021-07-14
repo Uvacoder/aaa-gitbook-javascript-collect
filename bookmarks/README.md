@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Stop Writing JavaScript Like This](https://javascript.plainenglish.io/stop-writing-javascript-like-this-a7fafbe451a5) | 7/14 |
 | [The rise of JavaScript compilers and micro-libraries](https://gomakethings.com/the-rise-of-javascript-compilers-and-micro-libraries/) | 7/13 |
 | [10 Clever JavaScript Tricks That Every Developer Should Know](https://radiant-brushlands-42789.herokuapp.com/medium.com/geekculture/10-clever-javascript-tricks-that-every-developer-should-know-e0be92bcfe9) | 5/26 |
 | [20 JavaScript Concepts you should know as a JavaScript Programmer!](https://radiant-brushlands-42789.herokuapp.com/blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e) | 5/22 |
