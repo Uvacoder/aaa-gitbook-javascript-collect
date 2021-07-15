@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [What is tree shaking?](https://gomakethings.com/what-is-tree-shaking/) | 7/15 |
 | [Side effects in ES modules with vanilla JS](https://gomakethings.com/side-effects-in-es-modules-with-vanilla-js/) | 3/13 |
 | [Why combine JavaScript files?](https://gomakethings.com/why-combine-javascript-files/) | 1/5 |
 | [How to bundle ES modules with rollup.js](https://gomakethings.com/how-to-bundle-es-modules-with-rollup.js/) | 12/3 |
