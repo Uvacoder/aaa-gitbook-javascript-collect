@@ -9,6 +9,7 @@
     * [Greensock](animation/svg/greensock.md)
 * [API](api.md)
 * [Array](array.md)
+* [Audio](audio.md)
 * [Bundlers](bundlers/README.md)
   * [npm](bundlers/npm.md)
   * [Parcel](bundlers/parcel.md)
