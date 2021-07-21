@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [The best way to clone an array or object with vanilla JS](https://gomakethings.com/the-best-way-to-clone-an-array-or-object-with-vanilla-js/) | 7/21 |
 | [The 6 Powerful JavaScript Object Methods that You Should Know](https://javascript.plainenglish.io/the-6-powerful-javascript-object-methods-that-you-should-know-b2a659ddf3b5) | 3/21 |
 | [Issues with looping over an object, the Object.hasOwnProperty\(\) method, and the Object.create\(\) method in vanilla JS](https://gomakethings.com/issues-with-looping-over-an-object-the-object.hasownproperty-method-and-the-object.create-method-in-vanilla-js/) | 3/1 |
 | [Making objects and arrays immutable with vanilla JS](https://gomakethings.com/making-objects-and-arrays-immutable-with-vanilla-js/) | 2/26 |
