@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Dynamic Module Imports in JavaScript: The How And Why](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/dynamic-module-imports-in-javascript-the-how-and-why-9a47114119c) | 8/7 |
 | [What is tree shaking?](https://gomakethings.com/what-is-tree-shaking/) | 7/15 |
 | [Side effects in ES modules with vanilla JS](https://gomakethings.com/side-effects-in-es-modules-with-vanilla-js/) | 3/13 |
 | [Why combine JavaScript files?](https://gomakethings.com/why-combine-javascript-files/) | 1/5 |
