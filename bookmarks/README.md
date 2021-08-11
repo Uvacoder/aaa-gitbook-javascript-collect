@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [17 Clever JavaScript Tricks That Every Developer Should Use](https://radiant-brushlands-42789.herokuapp.com/levelup.gitconnected.com/17-clever-javascript-tricks-that-every-developer-should-use-e7f299e49896) | 8/11 |
 | [Stop Writing JavaScript Like This](https://javascript.plainenglish.io/stop-writing-javascript-like-this-a7fafbe451a5) | 7/14 |
 | [The rise of JavaScript compilers and micro-libraries](https://gomakethings.com/the-rise-of-javascript-compilers-and-micro-libraries/) | 7/13 |
 | [10 Clever JavaScript Tricks That Every Developer Should Know](https://radiant-brushlands-42789.herokuapp.com/medium.com/geekculture/10-clever-javascript-tricks-that-every-developer-should-know-e0be92bcfe9) | 5/26 |
