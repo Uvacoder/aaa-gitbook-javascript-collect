@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Google vs. the web](https://gomakethings.com/google-vs.-the-web/) | 8/14 |
 | [How to sanitize HTML strings with vanilla JS to reduce your risk of XSS attacks](https://gomakethings.com/how-to-sanitize-html-strings-with-vanilla-js-to-reduce-your-risk-of-xss-attacks/) | 8/8 |
 | [How to encode strings with vanilla JS to reduce the risk of XSS attacks](https://gomakethings.com/how-to-encode-strings-with-vanilla-js-to-reduce-the-risk-of-xss-attacks/) | 8/5 |
 | [How to reduce your risk of cross-site scripting attacks with vanilla JavaScript](https://gomakethings.com/how-to-reduce-your-risk-of-cross-site-scripting-attacks-with-vanilla-javascript/) | 8/4 |
