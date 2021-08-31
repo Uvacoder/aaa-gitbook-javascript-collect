@@ -51,6 +51,7 @@
   * [Methods](objects/method.md)
   * [Maps](objects/maps.md)
 * [Operators](operators.md)
+* [Performance](performance.md)
 * [Polyfill](polyfill.md)
 * [Primitive](primitive-types.md)
 * [Promises](promises.md)
