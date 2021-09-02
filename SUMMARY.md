@@ -10,6 +10,7 @@
 * [API](api.md)
 * [Array](array.md)
 * [Audio](audio.md)
+* [Authentication](authentication.md)
 * [Bundlers](bundlers/README.md)
   * [npm](bundlers/npm.md)
   * [Parcel](bundlers/parcel.md)
