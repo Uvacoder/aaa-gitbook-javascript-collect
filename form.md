@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to Render HTML Inside a Text Area with JavaScript?](https://blog.devgenius.io/how-to-render-html-inside-a-text-area-with-javascript-778d41df00f3) | 9/7 |
 | [How to upload and process an image file with vanilla JS](https://gomakethings.com/how-to-upload-and-process-an-image-file-with-vanilla-js/) | 6/21 |
 | [Abstracting a vanilla JS autocomplete component](https://gomakethings.com/abstracting-a-vanilla-js-autocomplete-component/) | 5/9 |
 | [How to serialize form data with vanilla JS](https://gomakethings.com/how-to-serialize-form-data-with-vanilla-js/) | 1/26 |
