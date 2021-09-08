@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Writing Clean JavaScript — ES6 Edition](https://medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746) | 9/8 |
 | [17 Clever JavaScript Tricks That Every Developer Should Use](https://radiant-brushlands-42789.herokuapp.com/levelup.gitconnected.com/17-clever-javascript-tricks-that-every-developer-should-use-e7f299e49896) | 8/11 |
 | [Stop Writing JavaScript Like This](https://javascript.plainenglish.io/stop-writing-javascript-like-this-a7fafbe451a5) | 7/14 |
 | [The rise of JavaScript compilers and micro-libraries](https://gomakethings.com/the-rise-of-javascript-compilers-and-micro-libraries/) | 7/13 |
