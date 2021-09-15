@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [As a JavaScript Developer, You Must Understand These 5 Concepts](https://javascript.plainenglish.io/as-a-javascript-developer-you-must-understand-these-5-concepts-3a265a3048ed) | 9/15 |
 | [Writing Clean JavaScript — ES6 Edition](https://medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746) | 9/8 |
 | [17 Clever JavaScript Tricks That Every Developer Should Use](https://radiant-brushlands-42789.herokuapp.com/levelup.gitconnected.com/17-clever-javascript-tricks-that-every-developer-should-use-e7f299e49896) | 8/11 |
 | [Stop Writing JavaScript Like This](https://javascript.plainenglish.io/stop-writing-javascript-like-this-a7fafbe451a5) | 7/14 |
