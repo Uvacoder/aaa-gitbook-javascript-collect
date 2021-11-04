@@ -19,6 +19,7 @@
 * [Cheatsheets](cheatsheets.md)
 * [Console](console.md)
 * [Cookie](cookie.md)
+* [Data](data.md)
 * [Date](date.md)
 * [Debugger](debugger.md)
 * [DOM](dom.md)
@@ -39,7 +40,7 @@
   * [this](functions/this.md)
 * [Intersection Observer](intersection-observer.md)
 * [JSON](json/README.md)
-  * [JSON.stringify\(\)](json/json.stringify.md)
+  * [JSON.stringify()](json/json.stringify.md)
 * [jQuery](jquery/README.md)
   * [Equal Heights](jquery/equal-heights.md)
 * [Keywords](keywords.md)
@@ -71,4 +72,3 @@
 * [Variables](variables.md)
 * [Video](video.md)
 * [Web Browser](web-browser.md)
-
